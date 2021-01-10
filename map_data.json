@@ -5,13 +5,33 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [12.32781, 51.33151]
+      },
+      "properties": {
+        "marker-color": "#0fc3ff",
+        "marker-size": "medium",
+        "marker-symbol": "circle-stroked",
+        "Adresse": "Aurelienstrasse 62-64, Leipzig",
+        "name": "Landmaschinenfabrik Rudolph Sack, VEB Bodenbearbeitungsgeräte",
+        "description": "Ab 1912 Rudolph Sack KG. siehe → Karl-Heine-Straße 95",
+        "Stadtteil": "Lindenau",
+        "Kategorien": "Maschinenbau",
+        "Nutzung": "",
+        "Quellen": "Wikipedia",
+        "Links": "https://de.wikipedia.org/wiki/Bodenbearbeitungsger%C3%A4tewerk_Leipzig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [12.34014, 51.33672]
       },
       "properties": {
         "marker-color": "#0fc3ff",
         "marker-size": "medium",
         "marker-symbol": "circle-stroked",
-        "Adresse": "Luppenstrasse 1-1b, Leipzig",
+        "Adresse": "Luppenstraße 1-1b, Leipzig",
         "name": "Kofferfabrik Moritz Mädler, VEB Metallwaren, VEB Werkzeuge",
         "description": "1933: Kofferfabrik Mädler, C. M. Schwarz G.m.b.H., Fabrik automatischer Maschinen. 1946: Tura Automatenfabrik G.m.b.H. (Spielautomaten), Tegeler & Co. (Buntpapiere, Kalender, u.a.). Nach 1945: VEB Werkzeuge Leipzig (Bohrwerkzeuge und Druckluftnagler). 1978: VEB Werkzeuge Leipzig im VEB Werkzeugkombinat Schmalkalden (Druckluftnagler, Heftklammern). 1996: Institut für Geschichte und Kultur des östlichen Europa (GWZO).",
         "Kategorien": "Metallverarbeitung, Lederverarbeitung, Papierverarbeitung",
@@ -31,7 +51,7 @@
         "marker-color": "#0fc3ff",
         "marker-size": "medium",
         "marker-symbol": "circle-stroked",
-        "Adresse": "Luppenstrasse 24, Leipzig",
+        "Adresse": "Luppenstraße 24, Leipzig",
         "name": "Seifen- und Parfümerie-Fabrik. Rauchwaren-Blenderei und Färberei. Krügerol-Fabrik",
         "description": "1889: Seifen- und Parfümerie-Fabrik Wilh. Pauling & Schrauth, Dampf-Seifenfabrik. 1926: Rauchwaren-Blenderei und Färberei J. Ch. Lauer & Sohn. nach 1945: Firma Curt Langhammer (Piano-Mechanik- und Piano-Klaviatur-Reparaturen). Fa. Telefon- und Signal-Anlagen Rudolf Weber. VEB Zuckerwarenfabrik, vormals Fa. Richard Krüger (Krügerol Halsbonbons) bis Ende 1990er.",
         "Kategorien": "Lebensmittel, Musikinstrumente, Körperpflege",
@@ -51,7 +71,7 @@
         "marker-color": "#0fc3ff",
         "marker-size": "medium",
         "marker-symbol": "circle-stroked",
-        "Adresse": "Dreilindenstrasse 4-6, Leipzig",
+        "Adresse": "Dreilindenstraße 4-6, Leipzig",
         "name": "Hanns & Römer Maschinenfabrik. VEB Forschung und Rationalisierung",
         "description": "1893: Leipziger Teigtheilmaschinen- und Backofenarmaturenfabrik Louis Augustin. 1900: Gießkannenfabrik, Buchdruckerei H. Schmidt. 1904: Fa. Louis Augustin, Leipziger Teigteilmaschinen und Backofenbaufabrik (Knetmaschinen für Hand- oder Kraftbetrieb, komplette Bäckerei- sowie Konditorei-Anlagen). 1925: Fa. Ciliax (Taschen-Inhalator 'Columbo') 1933: Leipziger Hebezeugbau GmbH. 1937: Hanns & Römer, Maschinenfabrik (Maschinen für die Süßwarenindustrie). 1957: Umwandlung in Kommanditgesellschaft Hanns & Römer KG, Bonbonmaschinenfabrik. 1972: Überführung in Vokseigentum, Teil der VVB Süß- und Dauerbackwaren, später VEB Kombinat Süßwaren Delitzsch und VEB Forschung und Rationalisierung Leipzig.",
         "Kategorien": "Maschinenbau, Buchdruck",
@@ -70,7 +90,7 @@
         "marker-color": "#0fc3ff",
         "marker-size": "medium",
         "marker-symbol": "circle-stroked",
-        "Adresse": "Engertstrasse 10-12, Hofgebäude, Leipzig",
+        "Adresse": "Engertstraße 10-12, Hofgebäude, Leipzig",
         "name": "Schokoladenfabrik Quarg & Co., Spiralbohrer- und Werkzeugfabrik",
         "description": "1907: Leipziger Chocoladen- und Zuckerwarenfabrik Wippert & Quarg. Spiralbohrer- und Werkzeugfabrik Franz & Maßmann",
         "Kategorien": "Nahrungsmittel, Werkzeugbau",
@@ -203,15 +223,77 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [12.32802, 51.33066]
+      },
+      "properties": {
+        "marker-color": "#0fc3ff",
+        "marker-size": "medium",
+        "marker-symbol": "circle-stroked",
+        "Adresse": "Karl-Heine-Straße 78-90 (früher Carl-Heinestraße, Albertstraße, Allestraße), Leipzig",
+        "name": "Pianofortefabrik Gustav Fiedler, Landmaschinenfabrik Rudolph Sack, VEB Bodenbearbeitungsgeräte",
+        "description": "Pianofortefabrik Gustav Fiedler. Ab 1881: Erwerb der Grundstücke durch Rudolf Sack, 1890 Stahlgießerei mit Siemens-Ofen und Gasgenerator. Nach 1945: Rudolf Sack, Bodenbearbeitungsgeräte für Gespann- und Kraftzug. VEB Land-, Bau- und Holzbearbeitungsmaschinen. VEB LBH Bodenbearbeitungsgeräte. siehe → Karl-Heine-Straße 95",
+        "Stadtteil": "Plagwitz",
+        "Kategorien": "Instrumentenbau, Maschinenbau",
+        "Nutzung": "Brachfläche (Jahrtausendfeld)",
+        "Quellen": "Lindenauer Stadtteilverein e.V., Wikipedia",
+        "Links": "https://www.lindenauerstadtteilverein.de/heimatkunde/haeuserliste/haus/2021/karl-heine-strasse-78-90.htm, https://de.wikipedia.org/wiki/Jahrtausendfeld, https://de.wikipedia.org/wiki/Bodenbearbeitungsger%C3%A4tewerk_Leipzig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.326396, 51.32906]
+      },
+      "properties": {
+        "marker-color": "#0fc3ff",
+        "marker-size": "medium",
+        "marker-symbol": "circle-stroked",
+        "Adresse": "Karl-Heine-Straße 95, Leipzig",
+        "name": "Landmaschinenfabrik Rudolph Sack, VEB Bodenbearbeitungsgeräte",
+        "description": "1867: Fabrikgebäude und Wohnhaus. Ab 1881 auch Karl-Heine-Straße 90, 99–101, 103-105,  Weißenfelser Straße 67, Karl-Heine-Straße 78–88, Aurelienstraße 62/64. 1937/39 Klingenstraße 22. 1948: VEB Leipziger Bodenbearbeitungsgeräte (BBG)",
+        "Stadtteil": "Plagwitz",
+        "Kategorien": "Maschinenbau, Landmaschinenbau",
+        "WKII": "Rüstungsproduktion, Zwangsarbeiter.",
+        "Nachwende": "1990 Treuhandverwaltung. 1993 BBG GmbH Leipzig, Übernahme durch Franz Kleine GmbH & Co. KG  aus Nordrhein-Westfalen. 1999 Kauf durch Amazonen-Werke. Produktion heute Rippachtalstraße 10, Leipzig Südwest.",
+        "Nutzung": "Gebäude existieren nicht mehr. Leipzig International Kindergarden.",
+        "Quellen": "Wikipedia",
+        "Links": "https://de.wikipedia.org/wiki/Bodenbearbeitungsger%C3%A4tewerk_Leipzig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.326396, 51.32906]
+      },
+      "properties": {
+        "marker-color": "#0fc3ff",
+        "marker-size": "medium",
+        "marker-symbol": "circle-stroked",
+        "Adresse": "Karl-Heine-Straße 103-105, Leipzig",
+        "name": "Landmaschinenfabrik Rudolph Sack, VEB Bodenbearbeitungsgeräte",
+        "description": "Graugießerei der Rudolph Sack KG. siehe → Karl-Heine-Straße 95",
+        "Stadtteil": "Plagwitz",
+        "Kategorien": "Maschinenbau",
+        "Nutzung": "",
+        "Quellen": "Wikipedia",
+        "Links": "https://de.wikipedia.org/wiki/Bodenbearbeitungsger%C3%A4tewerk_Leipzig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [12.32554, 51.32897]
       },
       "properties": {
         "marker-color": "#0fc3ff",
         "marker-size": "medium",
         "marker-symbol": "circle-stroked",
-        "Adresse": "Karl-Heine-Strasse 107, Leipzig",
+        "Adresse": "Karl-Heine-Straße 107, Leipzig",
         "name": "Parkettfußbodenfabrik, Gebrüder Brehmer, VEB Polygraph",
-        "description": "1905: Parkettfußbodenfabrik A. Heym. Ab 1912 Gebrüder Brehmer siehe → Karl-Heine-Strasse 111",
+        "description": "1905: Parkettfußbodenfabrik A. Heym. Ab 1912 Gebrüder Brehmer siehe → Karl-Heine-Straße 111",
         "Stadtteil": "Plagwitz",
         "Kategorien": "Holzbearbeitung, Maschinenbau, Buchbindermaschinen",
         "Nutzung": "Gewerbe",
@@ -229,7 +311,7 @@
         "marker-color": "#0fc3ff",
         "marker-size": "medium",
         "marker-symbol": "circle-stroked",
-        "Adresse": "Karl-Heine-Strasse 109-111 (früher Albert-Straße 61), Leipzig",
+        "Adresse": "Karl-Heine-Straße 109-111 (früher Albert-Straße 61), Leipzig",
         "name": "Parkettfußbodenfabrik, Gebrüder Brehmer, VEB Polygraph",
         "description": "1879: Gebrüder Brehmer (Karl-Heine-Str 111), ab 1912 Ausweitung auf Karl-Heine Str. 107 und 109. Produktion von Heftmaschinen, Falzmaschinen und Anklebemaschinen für Buchbinderei. 1948: Volkseigentum als VEB Polygraph, Gebrüder Brehmer. 1951: VEB Falz- und Heftmaschinenwerk Leipzig. 1979: Umbenennung in VEB Kombinat Polygraph Werner Lamberz. 1987: VEB Polygraph, Buchbindereimaschinenwerke Leipzig, 1959/60: VEB Leipziger Buchbindereimaschinenwerke (LBW)",
         "Stadtteil": "Plagwitz",
@@ -244,6 +326,26 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [12.32898, 51.32896]
+      },
+      "properties": {
+        "marker-color": "#0fc3ff",
+        "marker-size": "medium",
+        "marker-symbol": "circle-stroked",
+        "Adresse": "Weißenfelser Straße 67, Leipzig",
+        "name": "Rudolf Sack Landmaschinen",
+        "description": "Ab 1897 Fabrik für Dampfpflüge und Drillmaschinen. siehe → Karl-Heine-Straße 95",
+        "Stadtteil": "Plagwitz",
+        "Kategorien": "Maschinenbau",
+        "Nutzung": "Gebäude nicht mehr vorhanden. Gewerbe",
+        "Quellen": "Wikipedia",
+        "Links": "https://de.wikipedia.org/wiki/Bodenbearbeitungsger%C3%A4tewerk_Leipzig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [12.3250, 51.32805]
       },
       "properties": {
@@ -252,7 +354,7 @@
         "marker-symbol": "circle-stroked",
         "Adresse": "Weißenfelser Straße 73, Leipzig",
         "name": "Fa. Dr. Struve & Co, Gebrüder Brehmer",
-        "description": "Ab 1924: Gebrüder Brehmer siehe → Karl-Heine-Strasse 111",
+        "description": "Ab 1924: Gebrüder Brehmer siehe → Karl-Heine-Straße 111",
         "Stadtteil": "Plagwitz",
         "Kategorien": "Maschinenbau, Buchbindermaschinen",
         "Nutzung": "",
@@ -272,7 +374,7 @@
         "marker-symbol": "circle-stroked",
         "Adresse": "Weißenfelser Straße 75, Leipzig",
         "name": "Fa. Dr. Heinrich König & Co., Gebrüder Brehmer",
-        "description": "Ab 1925: Gebrüder Brehmer siehe → Karl-Heine-Strasse 111",
+        "description": "Ab 1925: Gebrüder Brehmer siehe → Karl-Heine-Straße 111",
         "Stadtteil": "Plagwitz",
         "Kategorien": "Maschinenbau, Buchbindermaschinen",
         "Nutzung": "",
@@ -292,7 +394,7 @@
         "marker-symbol": "circle-stroked",
         "Adresse": "Weißenfelser Straße 84, Leipzig",
         "name": "F. Köhlers Witwe & Sohn, Gebrüder Brehmer",
-        "description": "Ab 1926: Gebrüder Brehmer siehe → Karl-Heine-Strasse 111",
+        "description": "Ab 1926: Gebrüder Brehmer siehe → Karl-Heine-Straße 111",
         "Stadtteil": "Plagwitz",
         "Kategorien": "Maschinenbau, Buchbindermaschinen",
         "Nutzung": "",
@@ -310,7 +412,7 @@
         "marker-color": "#0fc3ff",
         "marker-size": "medium",
         "marker-symbol": "circle-stroked",
-        "Adresse": "Eisenbahnstrasse 47 (früher Ernst-Thälmann-Str.), Leipzig",
+        "Adresse": "Eisenbahnstraße 47 (früher Ernst-Thälmann-Str.), Leipzig",
         "name": "DIANA Koffer- und Lederwarenfabrik",
         "description": "vorher 'Ottomar Müller' gehört die DIANA Koffer- und Lederwarenfabrik zu DDR-Zeiten zur Vereinigung Volkseigener Betriebe (VVB) VVB Schuh- und Lederwaren (SLV) Saale",
         "Stadtteil": "Neustadt-Neuschönefeld",
