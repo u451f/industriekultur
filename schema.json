@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [xx, xx]
+      },
+      "properties": {
+        "marker-color": "#0fc3ff",
+        "marker-size": "medium",
+        "marker-symbol": "circle-stroked",
+        "name": "",
+        "address": "",
+        "description": "",
+        "category": "",
+        "Nachwende": "",
+        "contemporary": "",
+        "sources": "",
+        "url": ""
+      }
+    }
+  ]
+}
+
