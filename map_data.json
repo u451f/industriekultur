@@ -84,13 +84,51 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [12.32314, 51.32993]
+      },
+      "properties": {
+        "marker-color": "#0fc3ff",
+        "marker-size": "medium",
+        "marker-symbol": "circle-stroked",
+        "Adresse": "Engertstraße 6, Leipzig",
+        "name": "Maschinenband-Weberei, VEB Technische Textilien",
+        "description": "1910: Gravieranstalt C. Leistner. 1943: Hofgebäude: Maschinenband-Weberei Gebrüder Köter. 1987: VEB Technische Textilien Meerane",
+        "Kategorien": "Nahrungsmittel, Werkzeugbau",
+        "Nutzung": "2018 Umbau in Wohnungen",
+        "Quellen": "Lindenauer Stadtteilverein e.V.",
+        "Links": "https://www.lindenauerstadtteilverein.de/heimatkunde/haeuserliste/haus/1235/engertstrasse-6.htm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.32316, 51.32979]
+      },
+      "properties": {
+        "marker-color": "#0fc3ff",
+        "marker-size": "medium",
+        "marker-symbol": "circle-stroked",
+        "Adresse": "Engertstraße 8, Leipzig",
+        "name": "Maschinenband-Weberei Gebrüder Köter, VEB Band- und Treibriemenwerk",
+        "description": "Maschinenband-Weberei Gebrüder Köter (dehnlose Maschinenbänder für das graphische Gewerbe und Heftbänder für Maschinen- und Handheftung)",
+        "Kategorien": "graphisches Gewerbe, Buchbinderei",
+        "Nutzung": "Wohnungen und Gewerbe",
+        "Quellen": "Military Airfields, Lindenauer Stadtteilverein e.V.",
+        "Links": "https://www.lindenauerstadtteilverein.de/heimatkunde/haeuserliste/haus/1237/engertstrasse-8.htm, https://www.mil-airfields.de/ddr/orte/leipzig.html#Org676717"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [12.32296, 51.32952]
       },
       "properties": {
         "marker-color": "#0fc3ff",
         "marker-size": "medium",
         "marker-symbol": "circle-stroked",
-        "Adresse": "Engertstraße 10-12, Hofgebäude, Leipzig",
+        "Adresse": "Engertstraße 10-12 (früher: Friedrich-August-Straße 6), Leipzig",
         "name": "Schokoladenfabrik Quarg & Co., Spiralbohrer- und Werkzeugfabrik",
         "description": "1907: Leipziger Chocoladen- und Zuckerwarenfabrik Wippert & Quarg. Spiralbohrer- und Werkzeugfabrik Franz & Maßmann",
         "Kategorien": "Nahrungsmittel, Werkzeugbau",
@@ -223,6 +261,46 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [12.32841, 51.33013]
+      },
+      "properties": {
+        "marker-color": "#0fc3ff",
+        "marker-size": "medium",
+        "marker-symbol": "circle-stroked",
+        "Adresse": "Karl-Heine-Straße 82, Leipzig",
+        "name": "",
+        "description": "1902: Fa. Stöcker u. Co. Telegraphen-, Telephon- und Blitzableiterfabrik/ Electrotechnische Fabrik. Pianofortefabrik Gustav Fiedler",
+        "Stadtteil": "Lindenau",
+        "Kategorien": "Elektrotechnik, Instrumentenbau",
+        "Nutzung": "Brachfläche (Jahrtausendfeld)",
+        "Quellen": "Lindenauer Stadtteilverein e.V.",
+        "Links": "https://www.lindenauerstadtteilverein.de/heimatkunde/haeuserliste/haus/3359/karl-heine-strasse-82.htm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.32808, 51.33006]
+      },
+      "properties": {
+        "marker-color": "#0fc3ff",
+        "marker-size": "medium",
+        "marker-symbol": "circle-stroked",
+        "Adresse": "Karl-Heine-Straße 84, Leipzig",
+        "name": "",
+        "description": "1902: Fa. Stöcker u. Co. Telegraphen-, Telephon- und Blitzableiterfabrik/ Electrotechnische Fabrik. Conservenfabrik Basté u. Co.",
+        "Stadtteil": "Lindenau",
+        "Kategorien": "Elektrotechnik, Metallverarbeitung",
+        "Nutzung": "Brachfläche (Jahrtausendfeld)",
+        "Quellen": "Lindenauer Stadtteilverein e.V.",
+        "Links": "https://www.lindenauerstadtteilverein.de/heimatkunde/haeuserliste/haus/3358/karl-heine-strasse-84.htm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [12.32802, 51.33066]
       },
       "properties": {
@@ -230,13 +308,35 @@
         "marker-size": "medium",
         "marker-symbol": "circle-stroked",
         "Adresse": "Karl-Heine-Straße 78-90 (früher Carl-Heinestraße, Albertstraße, Allestraße), Leipzig",
-        "name": "Pianofortefabrik Gustav Fiedler, Landmaschinenfabrik Rudolph Sack, VEB Bodenbearbeitungsgeräte",
+        "name": "Landmaschinenfabrik Rudolph Sack, VEB Bodenbearbeitungsgeräte",
         "description": "Pianofortefabrik Gustav Fiedler. Ab 1881: Erwerb der Grundstücke durch Rudolf Sack, 1890 Stahlgießerei mit Siemens-Ofen und Gasgenerator. Nach 1945: Rudolf Sack, Bodenbearbeitungsgeräte für Gespann- und Kraftzug. VEB Land-, Bau- und Holzbearbeitungsmaschinen. VEB LBH Bodenbearbeitungsgeräte. siehe → Karl-Heine-Straße 95",
         "Stadtteil": "Plagwitz",
-        "Kategorien": "Instrumentenbau, Maschinenbau",
+        "Kategorien": "Maschinenbau",
         "Nutzung": "Brachfläche (Jahrtausendfeld)",
         "Quellen": "Lindenauer Stadtteilverein e.V., Wikipedia",
         "Links": "https://www.lindenauerstadtteilverein.de/heimatkunde/haeuserliste/haus/2021/karl-heine-strasse-78-90.htm, https://de.wikipedia.org/wiki/Jahrtausendfeld, https://de.wikipedia.org/wiki/Bodenbearbeitungsger%C3%A4tewerk_Leipzig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.32665, 51.32967]
+      },
+      "properties": {
+        "marker-color": "#0fc3ff",
+        "marker-size": "medium",
+        "marker-symbol": "circle-stroked",
+        "Adresse": "Karl-Heine-Straße 92-98 und Gießerstrasse 8-10, Leipzig",
+        "name": "Meier & Weichelt. VEB Leipziger Eisen- und Stahlwerke. GUS. GISAG",
+        "description": "1874: Meier & Weichelt. VEB Leipziger Eisen- und Stahlwerke, 1948: GUS Leipziger Eisen- und Stahlwerke. VEB der GUS Vereinigung Volkseigener Betriebe Guß- und Schmiedeerzeugnisse Leipzig. VEB Kombinat Kombinat Gießereianlagenbau und Gußerzeugnisse (GISAG)",
+        "Stadtteil": "Lindenau",
+        "Kategorien": "Eisen-, Stahl- und Tempergießerei",
+        "WKII": "Rüstungsproduktion. Zwangsarbeiter.",
+        "Nachwende": "Abbruch",
+        "Nutzung": "Gewerbe. Neubau.",
+        "Quellen": "Leipziger Industriekultur, Staatsarchiv Leipzig, Lindenauer Stadtteilverein e.V.",
+        "Links": "http://www.leipziger-industriekultur.de/category/objekte/, https://www.archiv.sachsen.de/archiv/bestand.jsp?oid=09.02&bestandid=20670, https://www.lindenauerstadtteilverein.de/heimatkunde/haeuserliste/haus/1434/giesserstrasse-8-10.htm"
       }
     },
     {
