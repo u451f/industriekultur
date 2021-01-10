@@ -80,26 +80,6 @@
         "sources": "Lindenauer Stadtteilverein e.V.",
         "url": "https://www.lindenauerstadtteilverein.de/heimatkunde/haeuserliste/haus/557/engertstrasse-10.htm"
       }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [12.34178, 51.33718]
-      },
-      "properties": {
-        "marker-color": "#0fc3ff",
-        "marker-size": "medium",
-        "marker-symbol": "circle-stroked",
-        "name": "",
-        "address": "Leipzig",
-        "description": "",
-        "category": "",
-        "Nachwende": "",
-        "contemporary": "",
-        "sources": "",
-        "url": ""
-      }
     }
   ]
 }
