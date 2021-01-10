@@ -143,6 +143,26 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [12.33386, 51.33354]
+      },
+      "properties": {
+        "marker-color": "#0fc3ff",
+        "marker-size": "medium",
+        "marker-symbol": "circle-stroked",
+        "Adresse": "Josephstraße 28, Leipzig",
+        "name": "DIANA Koffer- und Lederwarenfabrik",
+        "description": "vorher 'Ottomar Müller' gehört die DIANA Koffer- und Lederwarenfabrik zu DDR-Zeiten zur Vereinigung Volkseigener Betriebe (VVB) VVB Schuh- und Lederwaren (SLV) Saale",
+        "Stadtteil": "Lindenau",
+        "Kategorien": "Lederverarbeitung",
+        "Nutzung": "",
+        "Quellen": "Military Airfield Directory",
+        "Links": "https://www.mil-airfields.de/ddr/orte/leipzig.html#Org676717",
+        "Unklarheiten": "DIANA wird in Adressbuch 1949 auch mit Adresse Ernst-Thälmann-Str. 47 (heute Eisenbahnstraße) angegeben. Deshalb ist unklar, inwiefern die Quelle stimmt."
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [12.33439, 51.33383]
       },
       "properties": {
@@ -154,10 +174,145 @@
         "description": "1949: Läco Maschinenfabrik Paul Tschentscher",
         "Stadtteil": "Lindenau",
         "Kategorien": "Maschinenbau",
-        "Nutzung": "Wohnen",
+        "Nutzung": "",
         "Quellen": "Lindenauer Stadtteilverein e.V.",
         "Links": "https://www.lindenauerstadtteilverein.de/heimatkunde/haeuserliste/haus/1903/josephstrasse-29.htm"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.33492, 51.33379]
+      },
+      "properties": {
+        "marker-color": "#0fc3ff",
+        "marker-size": "medium",
+        "marker-symbol": "circle-stroked",
+        "Adresse": "Josephstraße 31, Leipzig",
+        "name": "Koffer-Manufaktur Just & Co., Maschinen-Fabrik Reinhold Wünschmann",
+        "description": "Koffer-Manufaktur Just & Co., 1939: Maschinen-Fabrik Reinhold Wünschmann (Maschinen zur Kerzen-Fabrikation, Einrichtung von Kerzen-Fabriken)",
+        "Stadtteil": "Lindenau",
+        "Kategorien": "Lederbearbeitung, Maschinenbau",
+        "Nutzung": "",
+        "Quellen": "Lindenauer Stadtteilverein e.V.",
+        "Links": "https://www.lindenauerstadtteilverein.de/heimatkunde/haeuserliste/haus/1905/josephstrasse-31.htm"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.33484, 51.33344]
+      },
+      "properties": {
+        "marker-color": "#0fc3ff",
+        "marker-size": "medium",
+        "marker-symbol": "circle-stroked",
+        "Adresse": "Josephstraße 35, Leipzig",
+        "name": "Apparatebau-Anstalt und Kupferschmiederei ",
+        "description": "1902: Apparatebau-Anstalt und Kupferschmiederei Albert Schale (Kupferwaren, Dampf-, Wasser- und Heizungs-Anlagen)",
+        "Stadtteil": "Lindenau",
+        "Kategorien": "Metallverarbeitung, Maschinenbau",
+        "Nutzung": "",
+        "Quellen": "Lindenauer Stadtteilverein e.V.",
+        "Links": "https://www.lindenauerstadtteilverein.de/heimatkunde/haeuserliste/haus/1909/josephstrasse-35.htm"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.32554, 51.32897]
+      },
+      "properties": {
+        "marker-color": "#0fc3ff",
+        "marker-size": "medium",
+        "marker-symbol": "circle-stroked",
+        "Adresse": "Karl-Heine-Strasse 107, Leipzig",
+        "name": "Parkettfußbodenfabrik, Gebrüder Brehmer, VEB Polygraph",
+        "description": "1905: Parkettfußbodenfabrik A. Heym. Ab 1912 Gebrüder Brehmer siehe → Karl-Heine-Strasse 111",
+        "Stadtteil": "Lindenau",
+        "Kategorien": "Holzbearbeitung, Maschinenbau",
+        "Nutzung": "Gewerbe",
+        "Quellen": "Lindenauer Stadtteilverein e.V., Wikipedia, Leipzig Lexikon",
+        "Links": "https://www.lindenauerstadtteilverein.de/heimatkunde/haeuserliste/haus/1903/josephstrasse-29.htm, https://de.wikipedia.org/wiki/Gebr%C3%BCder_Brehmer, http://www.leipzig-lexikon.de/INDUHAND/brehmer.htm"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.32488, 51.32886]
+      },
+      "properties": {
+        "marker-color": "#0fc3ff",
+        "marker-size": "medium",
+        "marker-symbol": "circle-stroked",
+        "Adresse": "Karl-Heine-Strasse 109-111 (früher Albert-Straße 61), Leipzig",
+        "name": "Parkettfußbodenfabrik, Gebrüder Brehmer, VEB Polygraph",
+        "description": "1879: Gebrüder Brehmer (Karl-Heine-Str 111), ab 1912 Ausweitung auf Karl-Heine Str. 107 und 109. Produktion von Heftmaschinen, Falzmaschinen und Anklebemaschinen für Buchbinderei. 1948: Volkseigentum als VEB Polygraph, Gebrüder Brehmer. 1951: VEB Falz- und Heftmaschinenwerk Leipzig, 1987: VEB Polygraph, Buchbindereimaschinenwerke Leipzig, 1959/60: VEB Leipziger Buchbindereimaschinenwerke (LBW)",
+        "Stadtteil": "Lindenau",
+        "Kategorien": "Maschinenbau",
+        "Nachwende": "Privatisierung als Polygraph contacta GmbH Leipzig und Brehmer Buchbindereimaschinen GmbH Leipzig. 1991 an die Firma McCain Manufacturing Corp. mit Sitz in Hamburg und Chicago verkauft, später vom Ludwigsburger Falzmaschinenhersteller Stahl GmbH & Co. KG übernommen. Seit 1999 Teil der Heidelberger Druckmaschinen AG. 2015: Schließung.",
+        "Nutzung": "",
+        "Quellen": "Lindenauer Stadtteilverein e.V., Wikipedia, Leipzig-Lexikon",
+        "Links": "https://www.lindenauerstadtteilverein.de/heimatkunde/haeuserliste/haus/1903/josephstrasse-29.htm, https://de.wikipedia.org/wiki/Gebr%C3%BCder_Brehmer, http://www.leipzig-lexikon.de/INDUHAND/brehmer.htm"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.3250, 51.32805]
+      },
+      "properties": {
+        "marker-color": "#0fc3ff",
+        "marker-size": "medium",
+        "marker-symbol": "circle-stroked",
+        "Adresse": "Weißenfelser Straße 73, Leipzig",
+        "name": "Fa. Dr. Struve & Co, Gebrüder Brehmer",
+        "description": "Ab 1924: Gebrüder Brehmer siehe → Karl-Heine-Strasse 111",
+        "Stadtteil": "Lindenau",
+        "Kategorien": "Maschinenbau",
+        "Nutzung": "",
+        "Quellen": "Leipzig Lexikon",
+        "Links": "http://www.leipzig-lexikon.de/INDUHAND/brehmer.htm"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.32399, 51.32764]
+      },
+      "properties": {
+        "marker-color": "#0fc3ff",
+        "marker-size": "medium",
+        "marker-symbol": "circle-stroked",
+        "Adresse": "Weißenfelser Straße 75, Leipzig",
+        "name": "Fa. Dr. Heinrich König & Co., Gebrüder Brehmer",
+        "description": "Ab 1925: Gebrüder Brehmer siehe → Karl-Heine-Strasse 111",
+        "Stadtteil": "Lindenau",
+        "Kategorien": "Maschinenbau",
+        "Nutzung": "",
+        "Quellen": "Leipzig Lexikon",
+        "Links": "http://www.leipzig-lexikon.de/INDUHAND/brehmer.htm"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.32618, 151.32854]
+      },
+      "properties": {
+        "marker-color": "#0fc3ff",
+        "marker-size": "medium",
+        "marker-symbol": "circle-stroked",
+        "Adresse": "Weißenfelser Straße 84, Leipzig",
+        "name": "F. Köhlers Witwe & Sohn, Gebrüder Brehmer",
+        "description": "Ab 1926: Gebrüder Brehmer siehe → Karl-Heine-Strasse 111",
+        "Stadtteil": "Lindenau",
+        "Kategorien": "Maschinenbau",
+        "Nutzung": "",
+        "Quellen": "Leipzig Lexikon",
+        "Links": "http://www.leipzig-lexikon.de/INDUHAND/brehmer.htm"
+    }
     }
   ]
 }
