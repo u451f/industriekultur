@@ -158,6 +158,7 @@
         "Quellen": "Military Airfield Directory",
         "Links": "https://www.mil-airfields.de/ddr/orte/leipzig.html#Org676717",
         "Unklarheiten": "DIANA wird in Adressbuch 1949 auch mit Adresse Ernst-Thälmann-Str. 47 (heute Eisenbahnstraße) angegeben. Deshalb ist unklar, inwiefern die Quelle stimmt."
+      }
     },
     {
       "type": "Feature",
@@ -177,6 +178,7 @@
         "Nutzung": "",
         "Quellen": "Lindenauer Stadtteilverein e.V.",
         "Links": "https://www.lindenauerstadtteilverein.de/heimatkunde/haeuserliste/haus/1903/josephstrasse-29.htm"
+      }
     },
     {
       "type": "Feature",
@@ -196,6 +198,7 @@
         "Nutzung": "",
         "Quellen": "Lindenauer Stadtteilverein e.V.",
         "Links": "https://www.lindenauerstadtteilverein.de/heimatkunde/haeuserliste/haus/1905/josephstrasse-31.htm"
+      }
     },
     {
       "type": "Feature",
@@ -235,6 +238,7 @@
         "Nutzung": "Gewerbe",
         "Quellen": "Lindenauer Stadtteilverein e.V., Wikipedia, Leipzig Lexikon",
         "Links": "https://www.lindenauerstadtteilverein.de/heimatkunde/haeuserliste/haus/1903/josephstrasse-29.htm, https://de.wikipedia.org/wiki/Gebr%C3%BCder_Brehmer, http://www.leipzig-lexikon.de/INDUHAND/brehmer.htm"
+      }
     },
     {
       "type": "Feature",
@@ -255,6 +259,7 @@
         "Nutzung": "",
         "Quellen": "Lindenauer Stadtteilverein e.V., Wikipedia, Leipzig-Lexikon",
         "Links": "https://www.lindenauerstadtteilverein.de/heimatkunde/haeuserliste/haus/1903/josephstrasse-29.htm, https://de.wikipedia.org/wiki/Gebr%C3%BCder_Brehmer, http://www.leipzig-lexikon.de/INDUHAND/brehmer.htm"
+      }
     },
     {
       "type": "Feature",
@@ -274,6 +279,7 @@
         "Nutzung": "",
         "Quellen": "Leipzig Lexikon",
         "Links": "http://www.leipzig-lexikon.de/INDUHAND/brehmer.htm"
+      }
     },
     {
       "type": "Feature",
@@ -293,6 +299,7 @@
         "Nutzung": "",
         "Quellen": "Leipzig Lexikon",
         "Links": "http://www.leipzig-lexikon.de/INDUHAND/brehmer.htm"
+      }
     },
     {
       "type": "Feature",
@@ -312,7 +319,7 @@
         "Nutzung": "",
         "Quellen": "Leipzig Lexikon",
         "Links": "http://www.leipzig-lexikon.de/INDUHAND/brehmer.htm"
-    }
+      }
     }
   ]
 }
