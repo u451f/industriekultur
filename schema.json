@@ -12,14 +12,15 @@
         "marker-color": "#0fc3ff",
         "marker-size": "medium",
         "marker-symbol": "circle-stroked",
-        "name": "",
-        "address": "",
-        "description": "",
-        "category": "",
-        "Nachwende": "",
-        "contemporary": "",
-        "sources": "",
-        "url": ""
+        "Adresse": "Strasse Nr. (ggfs. alte Bezeichnung der Strasse und Nr), Ort",
+        "name": "string Namen der ansässigen Fabriken",
+        "description": "string: Namen und Jahreszahlen.",
+        "Kategorien": "string",
+        "WKII": "string: Was geschah zur Zeit des 2. Weltkriegs? Änderung Produktion, Beschäftigung Zwangsarbeiter",
+        "Nachwende": "string: Was geschah nach 1989?",
+        "Nutzung": "string: heute Nutzung",
+        "Quellen": "string: Name der Quelle",
+        "Links": "string: Links zu Quellen oder weiterführender Literatur"
       }
     }
   ]
