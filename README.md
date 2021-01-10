@@ -2,9 +2,9 @@
 
 This is map data for old factory buildings in Leipzig.
 
-Der Verein Leipziger Industriekultur kartographiert auf Google Maps: http://www.leipziger-industriekultur.de/
-Military Airfields hat eine Liste von DDR-Betrieben mit Adressen: https://www.mil-airfields.de/ddr/orte/leipzig.html
-Der Lindenauer Stadtteilverein hat recherchierte Daten auf seiner Website: https://www.lindenauerstadtteilverein.de/heimatkunde/haeuserliste.htm
+* Der Verein Leipziger Industriekultur kartographiert auf Google Maps: http://www.leipziger-industriekultur.de/
+* Military Airfields hat eine Liste von DDR-Betrieben mit Adressen: https://www.mil-airfields.de/ddr/orte/leipzig.html
+* Der Lindenauer Stadtteilverein hat recherchierte Daten auf seiner Website: https://www.lindenauerstadtteilverein.de/heimatkunde/haeuserliste.htm
 
 Nirgendwo gibt es maschinenlesbare Daten, und das möchte ich hier ändern.
 Vorschläge für das JSON-Schema sind willkommen.
