@@ -11,14 +11,14 @@
         "marker-color": "#0fc3ff",
         "marker-size": "medium",
         "marker-symbol": "circle-stroked",
-        "name": "Kofferfabrik Moritz Mädler. VEB Metallwaren. GWZO.",
-        "address": "Luppenstrasse 1-1b, Leipzig",
+        "Adresse": "Luppenstrasse 1-1b, Leipzig",
+        "name": "Kofferfabrik Moritz Mädler, VEB Metallwaren, VEB Werkzeuge",
         "description": "1933: Kofferfabrik Mädler, C. M. Schwarz G.m.b.H., Fabrik automatischer Maschinen. 1946: Tura Automatenfabrik G.m.b.H. (Spielautomaten), Tegeler & Co. (Buntpapiere, Kalender, u.a.). Nach 1945: VEB Werkzeuge Leipzig (Bohrwerkzeuge und Druckluftnagler). 1978: VEB Werkzeuge Leipzig im VEB Werkzeugkombinat Schmalkalden (Druckluftnagler, Heftklammern). 1996: Institut für Geschichte und Kultur des östlichen Europa (GWZO).",
-        "category": "Metallverarbeitung, Lederverarbeitung, Papierverarbeitung",
+        "Kategorien": "Metallverarbeitung, Lederverarbeitung, Papierverarbeitung",
         "Nachwende": "",
-        "contemporary": "2012 Umbau zu Wohnhaus",
-        "sources": "Lindenauer Stadtteilverein e.V.",
-        "url": "https://www.lindenauerstadtteilverein.de/heimatkunde/haeuserliste/haus/2138/luppenstrasse-1.htm, https://de.wikipedia.org/wiki/Anton_M%C3%A4dler#Fabrikgeb%C3%A4ude_in_Leipzig-Lindenau, https://de.wikipedia.org/wiki/TuRa_Leipzig"
+        "Nutzung": "2012 Umbau zu Wohnhaus",
+        "Quellen": "Lindenauer Stadtteilverein e.V.",
+        "Links": "https://www.lindenauerstadtteilverein.de/heimatkunde/haeuserliste/haus/2138/luppenstrasse-1.htm, https://de.wikipedia.org/wiki/Anton_M%C3%A4dler#Fabrikgeb%C3%A4ude_in_Leipzig-Lindenau, https://de.wikipedia.org/wiki/TuRa_Leipzig"
       }
     },
     {
@@ -31,14 +31,14 @@
         "marker-color": "#0fc3ff",
         "marker-size": "medium",
         "marker-symbol": "circle-stroked",
+        "Adresse": "Luppenstrasse 24, Leipzig",
         "name": "Seifen- und Parfümerie-Fabrik. Rauchwaren-Blenderei und Färberei. Krügerol-Fabrik",
-        "address": "Luppenstrasse 24, Leipzig",
         "description": "1889: Seifen- und Parfümerie-Fabrik Wilh. Pauling & Schrauth, Dampf-Seifenfabrik. 1926: Rauchwaren-Blenderei und Färberei J. Ch. Lauer & Sohn. nach 1945: Firma Curt Langhammer (Piano-Mechanik- und Piano-Klaviatur-Reparaturen). Fa. Telefon- und Signal-Anlagen Rudolf Weber. VEB Zuckerwarenfabrik, vormals Fa. Richard Krüger (Krügerol Halsbonbons) bis Ende 1990er.",
-        "category": "Lebensmittel, Musikinstrumente, Körperpflege",
+        "Kategorien": "Lebensmittel, Musikinstrumente, Körperpflege",
         "Nachwende": "1994 Aufkauf der Marke Krügerol durch Klosterfrau.",
-        "contemporary": "Zu Wohnhaus umgebaut. Fabrikschornstein erhalten.",
-        "sources": "Lindenauer Stadtteilverein e.V.",
-        "url": "https://www.lindenauerstadtteilverein.de/heimatkunde/haeuserliste/haus/2154/luppenstrasse-24-alte-kruegerolfabrik.htm"
+        "Nutzung": "Zu Wohnhaus umgebaut. Fabrikschornstein erhalten.",
+        "Quellen": "Lindenauer Stadtteilverein e.V.",
+        "Links": "https://www.lindenauerstadtteilverein.de/heimatkunde/haeuserliste/haus/2154/luppenstrasse-24-alte-kruegerolfabrik.htm"
       }
     },
     {
@@ -51,14 +51,13 @@
         "marker-color": "#0fc3ff",
         "marker-size": "medium",
         "marker-symbol": "circle-stroked",
+        "Adresse": "Dreilindenstrasse 4-6, Leipzig",
         "name": "Hanns & Römer Maschinenfabrik. VEB Forschung und Rationalisierung",
-        "address": "Dreilindenstrasse 4-6, Leipzig",
         "description": "1893: Leipziger Teigtheilmaschinen- und Backofenarmaturenfabrik Louis Augustin. 1900: Gießkannenfabrik, Buchdruckerei H. Schmidt. 1904: Fa. Louis Augustin, Leipziger Teigteilmaschinen und Backofenbaufabrik (Knetmaschinen für Hand- oder Kraftbetrieb, komplette Bäckerei- sowie Konditorei-Anlagen). 1925: Fa. Ciliax (Taschen-Inhalator 'Columbo') 1933: Leipziger Hebezeugbau GmbH. 1937: Hanns & Römer, Maschinenfabrik (Maschinen für die Süßwarenindustrie). 1957: Umwandlung in Kommanditgesellschaft Hanns & Römer KG, Bonbonmaschinenfabrik. 1972: Überführung in Vokseigentum, Teil der VVB Süß- und Dauerbackwaren, später VEB Kombinat Süßwaren Delitzsch und VEB Forschung und Rationalisierung Leipzig.",
-        "category": "Maschinenbau, Buchdruck",
-        "Nachwende": "",
-        "contemporary": "Ruine",
-        "sources": "Lindenauer Stadtteilverein e.V.",
-        "url": "https://www.lindenauerstadtteilverein.de/heimatkunde/haeuserliste/haus/540/dreilindenstrasse-46-boxerhalle.htm"
+        "Kategorien": "Maschinenbau, Buchdruck",
+        "Nutzung": "Ruine",
+        "Quellen": "Lindenauer Stadtteilverein e.V.",
+        "Links": "https://www.lindenauerstadtteilverein.de/heimatkunde/haeuserliste/haus/540/dreilindenstrasse-46-boxerhalle.htm"
       }
     },
     {
@@ -71,14 +70,93 @@
         "marker-color": "#0fc3ff",
         "marker-size": "medium",
         "marker-symbol": "circle-stroked",
+        "Adresse": "Engertstrasse 10-12, Hofgebäude, Leipzig",
         "name": "Schokoladenfabrik Quarg & Co., Spiralbohrer- und Werkzeugfabrik",
-        "address": "Engertstrasse 10-12. Hofgebäude, Leipzig",
         "description": "1907: Leipziger Chocoladen- und Zuckerwarenfabrik Wippert & Quarg. Spiralbohrer- und Werkzeugfabrik Franz & Maßmann",
-        "category": "Nahrungsmittel, Werkzeugbau",
-        "Nachwende": "",
-        "contemporary": "Gewerbe und Wohnen",
-        "sources": "Lindenauer Stadtteilverein e.V.",
-        "url": "https://www.lindenauerstadtteilverein.de/heimatkunde/haeuserliste/haus/557/engertstrasse-10.htm"
+        "Kategorien": "Nahrungsmittel, Werkzeugbau",
+        "Nutzung": "Gewerbe und Wohnen",
+        "Quellen": "Lindenauer Stadtteilverein e.V.",
+        "Links": "https://www.lindenauerstadtteilverein.de/heimatkunde/haeuserliste/haus/557/engertstrasse-10.htm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.333142, 51.3348]
+      },
+      "properties": {
+        "marker-color": "#0fc3ff",
+        "marker-size": "medium",
+        "marker-symbol": "circle-stroked",
+        "Adresse": "Josephstraße 14, Leipzig",
+        "name": "Maschinenbauanstalt Becker & Heine",
+        "description": "1911: Maschinenbauanstalt Becker & Heine im Hofgebäude",
+        "Stadtteil": "Lindenau",
+        "Kategorien": "Maschinenbau",
+        "Nutzung": "Wohnen",
+        "Quellen": "Lindenauer Stadtteilverein e.V.",
+        "Links": "https://www.lindenauerstadtteilverein.de/heimatkunde/haeuserliste/haus/1888/josephstrasse-14.htm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.33417, 51.33461]
+      },
+      "properties": {
+        "marker-color": "#0fc3ff",
+        "marker-size": "medium",
+        "marker-symbol": "circle-stroked",
+        "Adresse": "Josephstraße 17, Leipzig",
+        "name": "Leipziger Schraubenfabrik Günther & Teichert, Metallwarenfabrik F. Schulze",
+        "description": "1910: Leipziger Schraubenfabrik Günther & Teichert, 1943: Metallwarenfabrik F. Schulze",
+        "Stadtteil": "Lindenau",
+        "Kategorien": "Metallverarbeitung",
+        "Nutzung": "Wohnen",
+        "Quellen": "Lindenauer Stadtteilverein e.V.",
+        "Links": "https://www.lindenauerstadtteilverein.de/heimatkunde/haeuserliste/haus/1891/josephstrasse-17.htm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.33417, 51.33362]
+      },
+      "properties": {
+        "marker-color": "#0fc3ff",
+        "marker-size": "medium",
+        "marker-symbol": "circle-stroked",
+        "Adresse": "Josephstraße 28, Leipzig",
+        "name": "Fabrik gummierter Papiere, Gummier- und Lackier-Anstalt",
+        "description": "1906: Fabrik gummierter Papiere (Parterre), 1936: Fabrik gummierter Papiere, Gummier- und Lackier-Anstalt, 1943: Hero-Fabrikate. 1987: Sitz des Bezirksvorstandes Leipzig der Vereinigung der gegenseitigen Bauernhilfe (VdgB).",
+        "Stadtteil": "Lindenau",
+        "Kategorien": "Papierverarbeitung",
+        "Nutzung": "Wohnen",
+        "Quellen": "Lindenauer Stadtteilverein e.V.",
+        "Links": "https://www.lindenauerstadtteilverein.de/heimatkunde/haeuserliste/haus/1902/josephstrasse-28.htm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.33439, 51.33383]
+      },
+      "properties": {
+        "marker-color": "#0fc3ff",
+        "marker-size": "medium",
+        "marker-symbol": "circle-stroked",
+        "Adresse": "Josephstraße 29, Leipzig",
+        "name": "Läco Maschinenfabrik",
+        "description": "1949: Läco Maschinenfabrik Paul Tschentscher",
+        "Stadtteil": "Lindenau",
+        "Kategorien": "Maschinenbau",
+        "Nutzung": "Wohnen",
+        "Quellen": "Lindenauer Stadtteilverein e.V.",
+        "Links": "https://www.lindenauerstadtteilverein.de/heimatkunde/haeuserliste/haus/1903/josephstrasse-29.htm"
       }
     }
   ]
