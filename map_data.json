@@ -220,7 +220,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [12.34014, 51.33672]
+        "coordinates": [12.337532, 51.33396]
       },
       "properties": {
         "marker-color": "#0fc3ff",
