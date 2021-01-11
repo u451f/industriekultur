@@ -5,6 +5,86 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [12.33797, 51.33763]
+      },
+      "properties": {
+        "marker-color": "#0fc3ff",
+        "marker-size": "medium",
+        "marker-symbol": "circle-stroked",
+        "Adresse": "Angerstraße 13-15, Leipzig",
+        "name": "Kakao- und Schokoladenfabrik. Automobilkühler",
+        "description": "1924: Thurm & Wunder Nachfahren Kakao- und Schokoladenfabrik. 1939 Automobilkühler Vollrath & Co. 1948: Traktoren- und Auto-Reparatur",
+        "Stadtteil": "Lindenau",
+        "Kategorien": "Lebensmittel, Maschinenbau",
+        "Nutzung": "",
+        "Quellen": "Lindenauer Stadtteilverein",
+        "Links": "https://www.lindenauerstadtteilverein.de/heimatkunde/haeuserliste/haus/647/angerstrasse-13-15.htm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.33828, 51.33848]
+      },
+      "properties": {
+        "marker-color": "#0fc3ff",
+        "marker-size": "medium",
+        "marker-symbol": "circle-stroked",
+        "Adresse": "Angerstraße 18, Leipzig",
+        "name": "Fleischwaren- und Feinkost-Fabrik. VEB Delicata",
+        "description": "1924: Dr. Allendorf & Co. Nährmittel, 1946: Johannes Möbius Handhebelfräsmaschinen und Haushaltmaschinen",
+        "Stadtteil": "Lindenau",
+        "Kategorien": "Lebensmittel, Maschinenbau, Haushaltmaschinen",
+        "Nutzung": "",
+        "Quellen": "Lindenauer Stadtteilverein",
+        "Links": "https://www.lindenauerstadtteilverein.de/heimatkunde/haeuserliste/haus/651/angerstrasse-18.htm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.33822, 51.33822]
+      },
+      "properties": {
+        "marker-color": "#0fc3ff",
+        "marker-size": "medium",
+        "marker-symbol": "circle-stroked",
+        "Adresse": "Angerstraße 20-22, Leipzig",
+        "name": "Fleischwaren- und Feinkost-Fabrik. VEB Delicata",
+        "description": "Fleischwaren- und Feinkost-Fabrik Otto Berthold. VEB Delicata Fleischwaren- und Feinkost-Fabrik.VEB Fleischkombinat Leipzig Schlacht- und Verarbeitungsbetrieb Delicata",
+        "Stadtteil": "Lindenau",
+        "Kategorien": "Lebensmittel",
+        "Nutzung": "Gewerbe, Ateliers, Wohnen",
+        "Quellen": "Lindenauer Stadtteilverein",
+        "Links": "https://www.lindenauerstadtteilverein.de/heimatkunde/haeuserliste/haus/353/angerstrasse-20.htm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.33862, 51.33907]
+      },
+      "properties": {
+        "marker-color": "#0fc3ff",
+        "marker-size": "medium",
+        "marker-symbol": "circle-stroked",
+        "Adresse": "Angerstraße 26/28, Leipzig",
+        "name": "VEB Kolloidchemie",
+        "description": "",
+        "Stadtteil": "Lindenau",
+        "Kategorien": "Chemie",
+        "Nutzung": "",
+        "Quellen": "Lindenauer Stadtteilverein",
+        "Links": "https://www.lindenauerstadtteilverein.de/heimatkunde/haeuserliste/haus/647/angerstrasse-13-15.htm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [12.32781, 51.33151]
       },
       "properties": {
@@ -25,40 +105,20 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [12.34014, 51.33672]
+        "coordinates": [12.32791, 51.33639]
       },
       "properties": {
         "marker-color": "#0fc3ff",
         "marker-size": "medium",
         "marker-symbol": "circle-stroked",
-        "Adresse": "Luppenstraße 1-1b, Leipzig",
-        "name": "Kofferfabrik Moritz Mädler, VEB Metallwaren, VEB Werkzeuge",
-        "description": "1933: Kofferfabrik Mädler, C. M. Schwarz G.m.b.H., Fabrik automatischer Maschinen. 1946: Tura Automatenfabrik G.m.b.H. (Spielautomaten), Tegeler & Co. (Buntpapiere, Kalender, u.a.). Nach 1945: VEB Werkzeuge Leipzig (Bohrwerkzeuge und Druckluftnagler). 1978: VEB Werkzeuge Leipzig im VEB Werkzeugkombinat Schmalkalden (Druckluftnagler, Heftklammern). 1996: Institut für Geschichte und Kultur des östlichen Europa (GWZO).",
-        "Kategorien": "Metallverarbeitung, Lederverarbeitung, Papierverarbeitung",
-        "Nachwende": "",
-        "Nutzung": "2012 Umbau zu Wohnhaus",
-        "Quellen": "Lindenauer Stadtteilverein e.V.",
-        "Links": "https://www.lindenauerstadtteilverein.de/heimatkunde/haeuserliste/haus/2138/luppenstrasse-1.htm, https://de.wikipedia.org/wiki/Anton_M%C3%A4dler#Fabrikgeb%C3%A4ude_in_Leipzig-Lindenau, https://de.wikipedia.org/wiki/TuRa_Leipzig"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [12.34178, 51.33718]
-      },
-      "properties": {
-        "marker-color": "#0fc3ff",
-        "marker-size": "medium",
-        "marker-symbol": "circle-stroked",
-        "Adresse": "Luppenstraße 24, Leipzig",
-        "name": "Seifen- und Parfümerie-Fabrik. Rauchwaren-Blenderei und Färberei. Krügerol-Fabrik",
-        "description": "1889: Seifen- und Parfümerie-Fabrik Wilh. Pauling & Schrauth, Dampf-Seifenfabrik. 1926: Rauchwaren-Blenderei und Färberei J. Ch. Lauer & Sohn. nach 1945: Firma Curt Langhammer (Piano-Mechanik- und Piano-Klaviatur-Reparaturen). Fa. Telefon- und Signal-Anlagen Rudolf Weber. VEB Zuckerwarenfabrik, vormals Fa. Richard Krüger (Krügerol Halsbonbons) bis Ende 1990er.",
-        "Kategorien": "Lebensmittel, Musikinstrumente, Körperpflege",
-        "Nachwende": "1994 Aufkauf der Marke Krügerol durch Klosterfrau.",
-        "Nutzung": "Zu Wohnhaus umgebaut. Fabrikschornstein erhalten.",
-        "Quellen": "Lindenauer Stadtteilverein e.V.",
-        "Links": "https://www.lindenauerstadtteilverein.de/heimatkunde/haeuserliste/haus/2154/luppenstrasse-24-alte-kruegerolfabrik.htm"
+        "Adresse": "Demmeringstraße 47/49, Leipzig",
+        "name": "Schokoladenfabrik Schwarze & Röder, Sazstangenfabrik",
+        "description": "1924: Schwarze & Röder Schokoladenfabrik. Später Salzstangenfabrik",
+        "Stadtteil": "Lindenau",
+        "Kategorien": "Lebensmittel",
+        "Nutzung": "Nr 47: Gebäude existiert nicht mehr. Nr 49: Gewerbe",
+        "Quellen": "Lindenauer Stadtteilverein",
+        "Links": "https://www.lindenauerstadtteilverein.de/heimatkunde/haeuserliste/haus/376/demmeringstrasse-4749.htm"
       }
     },
     {
@@ -154,6 +214,86 @@
         "Nutzung": "Gewerbe und Wohnen",
         "Quellen": "Lindenauer Stadtteilverein e.V.",
         "Links": "https://www.lindenauerstadtteilverein.de/heimatkunde/haeuserliste/haus/557/engertstrasse-10.htm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.34014, 51.33672]
+      },
+      "properties": {
+        "marker-color": "#0fc3ff",
+        "marker-size": "medium",
+        "marker-symbol": "circle-stroked",
+        "Adresse": "Kindstraße 4 (früher: Kurze Straße 4), Leipzig",
+        "name": "Chocoladen- und Zuckerwaaren-Fabrik, Schokoladenfabrik Emil Richter, VEB Süßwaren Leipzig",
+        "description": "1887: C. E. Michaelis Chocoladen- und Zuckerwaaren-Fabrik. 1924: Schokoladenfabrik Emil Richter. 1980 VEB Leipziger Süßwarenbetriebe Leipzig. Teil des VEB Kombinat Süßwaren Delitzsch.",
+        "Kategorien": "Lebensmittel",
+        "Nachwende": "",
+        "Nutzung": "",
+        "Quellen": "Lindenauer Stadtteilverein e.V.",
+        "Links": "https://www.lindenauerstadtteilverein.de/heimatkunde/haeuserliste/haus/2024/kindstrasse-4.htm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.34014, 51.33672]
+      },
+      "properties": {
+        "marker-color": "#0fc3ff",
+        "marker-size": "medium",
+        "marker-symbol": "circle-stroked",
+        "Adresse": "Luppenstraße 1-1b, Leipzig",
+        "name": "Kofferfabrik Moritz Mädler, VEB Metallwaren, VEB Werkzeuge",
+        "description": "1933: Kofferfabrik Mädler, C. M. Schwarz G.m.b.H., Fabrik automatischer Maschinen. 1946: Tura Automatenfabrik G.m.b.H. (Spielautomaten), Tegeler & Co. (Buntpapiere, Kalender, u.a.). Nach 1945: VEB Werkzeuge Leipzig (Bohrwerkzeuge und Druckluftnagler). 1978: VEB Werkzeuge Leipzig im VEB Werkzeugkombinat Schmalkalden (Druckluftnagler, Heftklammern). 1996: Institut für Geschichte und Kultur des östlichen Europa (GWZO).",
+        "Kategorien": "Metallverarbeitung, Lederverarbeitung, Papierverarbeitung",
+        "Nachwende": "",
+        "Nutzung": "2012 Umbau zu Wohnhaus",
+        "Quellen": "Lindenauer Stadtteilverein e.V.",
+        "Links": "https://www.lindenauerstadtteilverein.de/heimatkunde/haeuserliste/haus/2138/luppenstrasse-1.htm, https://de.wikipedia.org/wiki/Anton_M%C3%A4dler#Fabrikgeb%C3%A4ude_in_Leipzig-Lindenau, https://de.wikipedia.org/wiki/TuRa_Leipzig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.34178, 51.33718]
+      },
+      "properties": {
+        "marker-color": "#0fc3ff",
+        "marker-size": "medium",
+        "marker-symbol": "circle-stroked",
+        "Adresse": "Luppenstraße 24, Leipzig",
+        "name": "Seifen- und Parfümerie-Fabrik. Rauchwaren-Blenderei und Färberei. Krügerol-Fabrik",
+        "description": "1889: Seifen- und Parfümerie-Fabrik Wilh. Pauling & Schrauth, Dampf-Seifenfabrik. 1926: Rauchwaren-Blenderei und Färberei J. Ch. Lauer & Sohn. nach 1945: Firma Curt Langhammer (Piano-Mechanik- und Piano-Klaviatur-Reparaturen). Fa. Telefon- und Signal-Anlagen Rudolf Weber. VEB Zuckerwarenfabrik, vormals Fa. Richard Krüger (Krügerol Halsbonbons) bis Ende 1990er.",
+        "Kategorien": "Lebensmittel, Musikinstrumente, Körperpflege",
+        "Nachwende": "1994 Aufkauf der Marke Krügerol durch Klosterfrau.",
+        "Nutzung": "Zu Wohnhaus umgebaut. Fabrikschornstein erhalten.",
+        "Quellen": "Lindenauer Stadtteilverein e.V.",
+        "Links": "https://www.lindenauerstadtteilverein.de/heimatkunde/haeuserliste/haus/2154/luppenstrasse-24-alte-kruegerolfabrik.htm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.32745, 51.33679]
+      },
+      "properties": {
+        "marker-color": "#0fc3ff",
+        "marker-size": "medium",
+        "marker-symbol": "circle-stroked",
+        "Adresse": "Merseburger Straße 95, Leipzig",
+        "name": "Schokoladenfabrik Alfred Fietsch",
+        "description": "1924: Alfred Fietsch Schokoladen- und Zuckerwarenfabrik",
+        "Stadtteil": "Lindenau",
+        "Kategorien": "Lebensmittel",
+        "Nutzung": "Wohnen",
+        "Quellen": "Lindenauer Stadtteilverein",
+        "Links": "https://www.lindenauerstadtteilverein.de/heimatkunde/haeuserliste/haus/331/merseburger-strasse-95.htm"
       }
     },
     {
