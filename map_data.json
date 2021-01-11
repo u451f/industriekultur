@@ -84,6 +84,25 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [12.32279, 51.33223]
+      },
+      "properties": {
+        "marker-color": "#0fc3ff",
+        "marker-size": "medium",
+        "marker-symbol": "circle-stroked",
+        "Adresse": "Engertstraße 5, Leipzig",
+        "name": "Leipziger Spitzenfabrik Barth & Co",
+        "description": "Fabrikgebäude um 1900. Zweites Gebäude in der Naumburger Straße",
+        "Kategorien": "Textilien",
+        "Nutzung": "Es steht nur noch die linke Hälfte des einstigen Gebäudes. 2019 Sanierung Gewerbe.",
+        "Quellen": "J.S. Buhl: Studie zur Industriearchitektur in Leipzig Plagwitz 1870-1914 am Beispiel ausgewählter Bauten",
+        "Links": "https://depositonce.tu-berlin.de/bitstream/11303/980/1/Dokument_40.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [12.32314, 51.32993]
       },
       "properties": {
