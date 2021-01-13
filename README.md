@@ -8,6 +8,17 @@ places during a certain epoch (Military Airfields) or they concentrate
 only on one area (Lindenauer Stadtteilverein). Nobody has machine
 readable data.
 
+## TOC
+
+* [Scope](#scope)
+* [Goal](#goal)
+* [Contribute](#contribute)
+* [Future plans](#future-plans)
+* [Data sources](#data-sources)
+* [Random thoughts](#random-thoughts)
+  * [Reading an urban landscape](#reading-an-urban-landscape)
+* [License](#license)
+
 ## Scope
 
 For now, I'm only interested in mapping factories. Breweries and large
@@ -92,7 +103,7 @@ In the case of Leipzig, some things that one can note are those:
 
 - Places, where entirely new buildings are standing, for example
   townhouses or schools, might also be places that were formerly
-  factories, industrial areas , or train tracks. For example:
+  factories, industrial areas, or train tracks. For example:
   - Taschenkaufhaus Gießer-/Karl-Heine-Strasse is standing on the former
     area of Gießerei Meier & Weichel
   - The new school in Gießerstraße is standing on the former gas factory
@@ -103,9 +114,9 @@ In the case of Leipzig, some things that one can note are those:
       Karl-Heine-Strasse in the back, the gas factory is on the right.
       Now (2021) this is a bike track between the school on the right
       and the sports field on the left. Photo by Ulrich Wüst.
-    - [View from a bit further north](https://upload.wikimedia.org/wikipedia/commons/c/c0/Ulrich_Wuest_Plagwitz_1989_4.jpg).
+    - [View 1989 from a bit further north](https://upload.wikimedia.org/wikipedia/commons/c/c0/Ulrich_Wuest_Plagwitz_1989_4.jpg).
       Photo by Ulrich Wüst.
-    - [View looking north](https://commons.wikimedia.org/wiki/File:Ulrich_Wuest_Plagwitz_1989_2.jpg)
+    - [View 1989 looking north](https://commons.wikimedia.org/wiki/File:Ulrich_Wuest_Plagwitz_1989_2.jpg)
       This is the crossing at Karl-Heine-Strasse 100 and Engertstrasse,
       the Plagwitz station is on the right, not visible on the photo.
       The factory building on the left, Gebrüder Brehmer, has
