@@ -443,7 +443,7 @@
         "coordinates": [12.32841, 51.33013]
       },
       "properties": {
-        "marker-color": "#0f3fff",
+        "marker-color": "#ff0fef",
         "marker-size": "medium",
         "marker-symbol": "circle-stroked",
         "Adresse": "Karl-Heine-Straße 82, Leipzig",
@@ -463,7 +463,7 @@
         "coordinates": [12.32808, 51.33006]
       },
       "properties": {
-        "marker-color": "#0f3fff",
+        "marker-color": "#ff0fef",
         "marker-size": "medium",
         "marker-symbol": "circle-stroked",
         "Adresse": "Karl-Heine-Straße 84, Leipzig",
@@ -483,7 +483,7 @@
         "coordinates": [12.32802, 51.33066]
       },
       "properties": {
-        "marker-color": "#0f3fff",
+        "marker-color": "#ff0fef",
         "marker-size": "medium",
         "marker-symbol": "circle-stroked",
         "Adresse": "Karl-Heine-Straße 78-90 (früher Carl-Heinestraße, Albertstraße, Allestraße), Leipzig",
@@ -504,7 +504,7 @@
         "coordinates": [12.32665, 51.32967]
       },
       "properties": {
-        "marker-color": "#0f3fff",
+        "marker-color": "#ff0fef",
         "marker-size": "medium",
         "marker-symbol": "circle-stroked",
         "Adresse": "Karl-Heine-Straße 92-98 und Gießerstrasse 8-10, Leipzig",
