@@ -608,6 +608,27 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [12.33102, 51.32869]
+      },
+      "properties": {
+        "marker-color": "#0f3fff",
+        "marker-size": "medium",
+        "marker-symbol": "circle-stroked",
+        "Adresse": "Weißenfelser Straße 65, Leipzig",
+        "name": "Stelzenhaus, Wellblechfabrik Grohmann & Frosch",
+        "description": "1889: Wellblechwalzwerk und Verzinkerei. Nach 1945: Nutzung durch VEB Bodenbearbeitungsgerätewerk (ehem. Rudolf sack).",
+        "Stadtteil": "Lindenau",
+        "Kategorien": "Metallverarbeitung",
+        "WKII": "Rüstungsproduktion",
+        "Nutzung": "Gebäude restauriert. Seit 2003: Ateliers, Wohnungen, Restaurant",
+        "Quellen": "Wikipedia",
+        "Links": "https://de.wikipedia.org/wiki/Stelzenhaus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [12.32898, 51.32896]
       },
       "properties": {
