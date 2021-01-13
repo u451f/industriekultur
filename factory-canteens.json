@@ -1,0 +1,119 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.3140715, 51.3253167]
+      },
+      "properties": {
+        "marker-color": "#ff8f0f",
+        "marker-size": "medium",
+        "marker-symbol": "restaurant",
+        "Adresse": "Niemeyerstraße 11b, Leipzig",
+        "name": "Kirow Kantine",
+        "description": "Fabrikkantine der Firma Kirow Ardelt GmbH (Weltmarktführer für Eisenbahnkrane und Transportsysteme für Werften). Teilweise offen für Nicht-Mitarbeitende.",
+        "Stadtteil": "Lindenau",
+        "Links": "https://www.kirow-kantine.de/",
+        "Küche": "deutsch, international, vielfältig, einfallsreich",
+        "Rating": "5/5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.3254135, 51.3339851]
+      },
+      "properties": {
+        "marker-color": "#ff8f0f",
+        "marker-size": "medium",
+        "marker-symbol": "restaurant",
+        "Adresse": "Niemeyerstraße, Leipzig",
+        "name": "Niemeyer Sphere / Café HeiterBlick. In der Niemeyer Sphere des Betriebs Kirow.",
+        "description": "Restaurant in der von Oskar Niemeyer für die Firma Kirow konstruierten Sphäre",
+        "Stadtteil": "Lindenau",
+        "Links": "https://www.technesphere.de/",
+        "Küche": "?",
+        "Rating": "?/5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.3254135, 51.3339851]
+      },
+      "properties": {
+        "marker-color": "#ff8f0f",
+        "marker-size": "medium",
+        "marker-symbol": "restaurant",
+        "Adresse": "Lützner Straße 91",
+        "name": "Kantine im Tapetenwerk",
+        "description": "Restaurant im ehemaligen Tapetenwerk",
+        "Stadtteil": "Lindenau",
+        "Links": "https://www.tapetenwerk.de/aktuelles/speiseplan-kantine/",
+        "Küche": "Lokal, auch vegetarisch/vegan",
+        "Rating": "5/5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.33117, 51.33052]
+      },
+      "properties": {
+        "marker-color": "#ff8f0f",
+        "marker-size": "medium",
+        "marker-symbol": "restaurant",
+        "Adresse": "Karl-Heine-Straße 93",
+        "name": "Westwerk",
+        "description": "Eß-Kioske in der großen Halle des Westwerks, der ältesten Gießerei Leipzig, später Industriearmaturenwerk",
+        "Stadtteil": "Plagwitz",
+        "Links": "https://westwerk-leipzig.de/",
+        "Küche": "vietnamesisch, italienisch",
+        "Rating": "3/5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.32439, 51.32303]
+      },
+      "properties": {
+        "marker-color": "#ff8f0f",
+        "marker-size": "medium",
+        "marker-symbol": "restaurant",
+        "Adresse": "Klingenstraße 22",
+        "name": "Kesselkollektiv",
+        "description": "Kantine in ehemaliger Holzfabrik. Status Januar 2021: noch nicht eröffnet. Zusammenschluß von Manusso Eis, Plagwitzer Brauerei, Rasselbock Catering, Umani Kulturgut, u.a. Es wird eine Kantine geben.",
+        "Stadtteil": "Kleinzschocher",
+        "Links": "https://www.instagram.com/kesselkollektivleipzig/",
+        "Küche": "Internationale Gerichte, regionale Produkte, auch vegan",
+        "Rating": "4/5"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.33145, 51.3286]
+      },
+      "properties": {
+        "marker-color": "#ff8f0f",
+        "marker-size": "medium",
+        "marker-symbol": "restaurant",
+        "Adresse": "Weißenfelser Straße 65, Leipzig",
+        "name": "Stelzenhaus Restaurant",
+        "description": "Restaurant in der ehemaligen Wellblechfabrik Grohmann & Frosch.",
+        "Stadtteil": "Plagwitz",
+        "Links": "https://www.tripadvisor.com/Restaurant_Review-g187400-d1341861-Reviews-Stelzenhaus_Restaurant_Gastro_GbR-Leipzig_Saxony.html",
+        "Küche": "?",
+        "Rating": "?/5"
+      }
+      }
+    }
+  ]
+}
