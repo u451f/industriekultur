@@ -93,10 +93,11 @@
         "marker-symbol": "circle-stroked",
         "Adresse": "Aurelienstrasse 62-64, Leipzig",
         "name": "Landmaschinenfabrik Rudolph Sack, VEB Bodenbearbeitungsgeräte",
-        "description": "Ab 1912 Rudolph Sack KG. siehe → Karl-Heine-Straße 95",
+        "description": "Ab 1912 Rudolph Sack KG.",
         "Stadtteil": "Lindenau",
         "Kategorien": "Maschinenbau",
         "Nutzung": "",
+        "Mutterkonzern": "Karl-Heine-Straße 95",
         "Quellen": "Wikipedia",
         "Links": "https://de.wikipedia.org/wiki/Bodenbearbeitungsger%C3%A4tewerk_Leipzig"
       }
@@ -153,6 +154,7 @@
         "Adresse": "Endersstrasse 26-32 (früher Kaiser[-Wilhelm]-Straße 24-26), Leipzig",
         "name": "Vulkan Gummiwarenfabrik, Elguwa Werk III",
         "description": "1890: Falz & Werner Leipzig - Fabrik photographischer Apparate. 'Vulkan' Gummiwarenfabrik Weiß & Baeßler AG. VEB Kombinat Elbit, Elguwa Leipzig, Werk III. Herr Müller sagte mir: im Keller wurde die Rohmischung für den Gummi hergestellt. Im 1. Stock war Presserei. im 2. Stock Herstellung von Schaumstoffeinlagen für BHs und Verdunkelungsgewebe für die NVA. im 3. Stock Herstellung von Dichtgummi für Trabant und Wartburg. Das Hauptlager von Elguwa hätte sich in einem roten Backsteinbau Engertstrasse befunden (Engert 5, 6, oder 8?). Zwischen Elguwa und Tapetenwerk hätte sich ein Heizhaus befunden.",
+        "Mutterkonzern": "Elguwa",
         "Kategorien": "Gummiwaren",
         "Nutzung": "Wohnungen",
         "Quellen": "Lindenauer Stadtteilverein e.V., Herr Müller",
@@ -486,10 +488,11 @@
         "marker-symbol": "circle-stroked",
         "Adresse": "Karl-Heine-Straße 78-90 (früher Carl-Heinestraße, Albertstraße, Allestraße), Leipzig",
         "name": "Landmaschinenfabrik Rudolph Sack, VEB Bodenbearbeitungsgeräte",
-        "description": "Ab 1881: Erwerb der Grundstücke durch Rudolf Sack, 1890 Stahlgießerei mit Siemens-Ofen und Gasgenerator. Nach 1945: Rudolf Sack, Bodenbearbeitungsgeräte für Gespann- und Kraftzug. VEB Land-, Bau- und Holzbearbeitungsmaschinen. VEB LBH Bodenbearbeitungsgeräte. siehe → Karl-Heine-Straße 95",
+        "description": "Ab 1881: Erwerb der Grundstücke durch Rudolf Sack, 1890 Stahlgießerei mit Siemens-Ofen und Gasgenerator. Nach 1945: Rudolf Sack, Bodenbearbeitungsgeräte für Gespann- und Kraftzug. VEB Land-, Bau- und Holzbearbeitungsmaschinen. VEB LBH Bodenbearbeitungsgeräte.",
         "Stadtteil": "Plagwitz",
         "Kategorien": "Maschinenbau",
         "Nutzung": "Brachfläche (Jahrtausendfeld)",
+        "Mutterkonzern": "Karl-Heine-Straße 95",
         "Quellen": "Lindenauer Stadtteilverein e.V., Wikipedia",
         "Links": "https://www.lindenauerstadtteilverein.de/heimatkunde/haeuserliste/haus/2021/karl-heine-strasse-78-90.htm, https://de.wikipedia.org/wiki/Jahrtausendfeld, https://de.wikipedia.org/wiki/Bodenbearbeitungsger%C3%A4tewerk_Leipzig"
       }
@@ -550,10 +553,11 @@
         "marker-symbol": "circle-stroked",
         "Adresse": "Karl-Heine-Straße 103-105, Leipzig",
         "name": "Landmaschinenfabrik Rudolph Sack, VEB Bodenbearbeitungsgeräte",
-        "description": "Graugießerei der Rudolph Sack KG. siehe → Karl-Heine-Straße 95",
+        "description": "Graugießerei der Rudolph Sack KG.",
         "Stadtteil": "Plagwitz",
         "Kategorien": "Maschinenbau",
         "Nutzung": "",
+        "Mutterkonzern": "Karl-Heine-Straße 95",
         "Quellen": "Wikipedia",
         "Links": "https://de.wikipedia.org/wiki/Bodenbearbeitungsger%C3%A4tewerk_Leipzig"
       }
@@ -570,10 +574,11 @@
         "marker-symbol": "circle-stroked",
         "Adresse": "Karl-Heine-Straße 107, Leipzig",
         "name": "Parkettfußbodenfabrik, Gebrüder Brehmer, VEB Polygraph",
-        "description": "1905: Parkettfußbodenfabrik A. Heym. Ab 1912 Gebrüder Brehmer siehe → Karl-Heine-Straße 111",
+        "description": "1905: Parkettfußbodenfabrik A. Heym. Ab 1912 Gebrüder Brehmer.",
         "Stadtteil": "Plagwitz",
         "Kategorien": "Holzbearbeitung, Maschinenbau, Buchbindermaschinen",
         "Nutzung": "Gewerbe",
+        "Mutterkonzern": "Karl-Heine-Straße 111",
         "Quellen": "Lindenauer Stadtteilverein e.V., Wikipedia, Leipzig Lexikon",
         "Links": "https://www.lindenauerstadtteilverein.de/heimatkunde/haeuserliste/haus/1903/josephstrasse-29.htm, https://de.wikipedia.org/wiki/Gebr%C3%BCder_Brehmer, http://www.leipzig-lexikon.de/INDUHAND/brehmer.htm"
       }
@@ -611,10 +616,11 @@
         "marker-symbol": "circle-stroked",
         "Adresse": "Weißenfelser Straße 67, Leipzig",
         "name": "Rudolf Sack Landmaschinen",
-        "description": "Ab 1897 Fabrik für Dampfpflüge und Drillmaschinen. siehe → Karl-Heine-Straße 95",
+        "description": "Ab 1897 Fabrik für Dampfpflüge und Drillmaschinen.",
         "Stadtteil": "Plagwitz",
         "Kategorien": "Maschinenbau",
         "Nutzung": "Gebäude nicht mehr vorhanden. Gewerbe",
+        "Mutterkonzern": "Karl-Heine-Straße 95",
         "Quellen": "Wikipedia",
         "Links": "https://de.wikipedia.org/wiki/Bodenbearbeitungsger%C3%A4tewerk_Leipzig"
       }
@@ -631,10 +637,11 @@
         "marker-symbol": "circle-stroked",
         "Adresse": "Weißenfelser Straße 73, Leipzig",
         "name": "Fa. Dr. Struve & Co, Gebrüder Brehmer",
-        "description": "Ab 1924: Gebrüder Brehmer siehe → Karl-Heine-Straße 111",
+        "description": "Ab 1924: Gebrüder Brehmer",
         "Stadtteil": "Plagwitz",
         "Kategorien": "Maschinenbau, Buchbindermaschinen",
         "Nutzung": "",
+        "Mutterkonzern": "Karl-Heine-Straße 111",
         "Quellen": "Leipzig Lexikon",
         "Links": "http://www.leipzig-lexikon.de/INDUHAND/brehmer.htm"
       }
@@ -651,10 +658,11 @@
         "marker-symbol": "circle-stroked",
         "Adresse": "Weißenfelser Straße 75, Leipzig",
         "name": "Fa. Dr. Heinrich König & Co., Gebrüder Brehmer",
-        "description": "Ab 1925: Gebrüder Brehmer siehe → Karl-Heine-Straße 111",
+        "description": "Ab 1925: Gebrüder Brehmer",
         "Stadtteil": "Plagwitz",
         "Kategorien": "Maschinenbau, Buchbindermaschinen",
         "Nutzung": "",
+        "Mutterkonzern": "Karl-Heine-Straße 111",
         "Quellen": "Leipzig Lexikon",
         "Links": "http://www.leipzig-lexikon.de/INDUHAND/brehmer.htm"
       }
@@ -671,10 +679,11 @@
         "marker-symbol": "circle-stroked",
         "Adresse": "Weißenfelser Straße 84, Leipzig",
         "name": "F. Köhlers Witwe & Sohn, Gebrüder Brehmer",
-        "description": "Ab 1926: Gebrüder Brehmer siehe → Karl-Heine-Straße 111",
+        "description": "Ab 1926: Gebrüder Brehmer",
         "Stadtteil": "Plagwitz",
         "Kategorien": "Maschinenbau, Buchbindermaschinen",
         "Nutzung": "",
+        "Mutterkonzern": "Karl-Heine-Straße 111",
         "Quellen": "Leipzig Lexikon",
         "Links": "http://www.leipzig-lexikon.de/INDUHAND/brehmer.htm"
       }
