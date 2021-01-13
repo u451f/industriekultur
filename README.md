@@ -22,13 +22,17 @@ readable data.
 ## Scope
 
 For now, I'm only interested in mapping factories. Breweries and large
-scale food production can be part of this map.
+scale food production can be part of this map. (`map_data.json`)
 
 I'm not interested (yet) in mapping other industrial architecture (gas
 factories, gasometers, train lines, train supply tracks, etc.). However,
 one could imagine creating a second geoJSON file for those. Especially
 the (now removed) train supply tracks might be super interesting to map
 in the case of Leipzig.
+
+In `factory-canteens.json` I mapped another interesting part of
+industrial rehabilitation in Leipzig: canteens and restaurants that are
+located in former factories or on industrial areas.
 
 ## Goal
 
@@ -39,6 +43,10 @@ My goal is to
 * have an entry for what happened to these places during World War II
   (field in geoJSON called "WWII") and after the German reunification
   (field in geoJSON called "Nachwende")
+
+## Status
+
+This is all work in progress.
 
 ## Contribute
 
@@ -52,16 +60,12 @@ data!
 
 ## Future plans
 
-* I also would like to map the factory canteens or restaurants in
-  industrial places that are in service today (for now I only know about
-  Kirow, Tapetenwerk, Niemeyer Sphere).
 * I want to use different marker colors and shapes:
   - green: factory still producing at the same place
-  - lightblue: factory still producing but at different location
-  - darkblue: building still exists, but with different usage (field
+  - lightblue (#0fc3ff): factory still producing but at different location
+  - darkblue (#0f3fff): building still exists, but with different usage (field
     "Nutzung"
   - purple: building does not exist anymore
-  - orange: factory canteens and restaurants
 * I want to create a printed map. (Actually, this is my first goal, but
   I thought: why not create this map from a digital file so that others
   can contribute and the data be reused?)
