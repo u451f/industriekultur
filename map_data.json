@@ -109,7 +109,7 @@
         "coordinates": [12.32791, 51.33639]
       },
       "properties": {
-        "marker-color": "#0f3fff",
+        "marker-color": "#9f0fff",
         "marker-size": "medium",
         "marker-symbol": "circle-stroked",
         "Adresse": "Demmeringstraße 47/49, Leipzig",
@@ -168,7 +168,7 @@
         "coordinates": [12.32279, 51.33223]
       },
       "properties": {
-        "marker-color": "#0f3fff",
+        "marker-color": "#9f0fff",
         "marker-size": "medium",
         "marker-symbol": "circle-stroked",
         "Adresse": "Engertstraße 5, Leipzig",
@@ -526,7 +526,7 @@
         "coordinates": [12.32959, 51.32972]
       },
       "properties": {
-        "marker-color": "#0f3fff",
+        "marker-color": "#ff0fef",
         "marker-size": "medium",
         "marker-symbol": "circle-stroked",
         "Adresse": "Karl-Heine-Straße 95, Leipzig",
@@ -715,7 +715,7 @@
         "coordinates": [12.404369631060613, 51.34554584725326]
       },
       "properties": {
-        "marker-color": "#0f3fff",
+        "marker-color": "#ff0fef",
         "marker-size": "medium",
         "marker-symbol": "circle-stroked",
         "Adresse": "Eisenbahnstraße 70 (früher Ernst-Thälmann-Str.), Leipzig",
