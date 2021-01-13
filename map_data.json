@@ -8,7 +8,7 @@
         "coordinates": [12.33797, 51.33763]
       },
       "properties": {
-        "marker-color": "#0fc3ff",
+        "marker-color": "#0f3fff",
         "marker-size": "medium",
         "marker-symbol": "circle-stroked",
         "Adresse": "Angerstraße 13-15, Leipzig",
@@ -28,7 +28,7 @@
         "coordinates": [12.33828, 51.33848]
       },
       "properties": {
-        "marker-color": "#0fc3ff",
+        "marker-color": "#0f3fff",
         "marker-size": "medium",
         "marker-symbol": "circle-stroked",
         "Adresse": "Angerstraße 18, Leipzig",
@@ -48,7 +48,7 @@
         "coordinates": [12.33822, 51.33822]
       },
       "properties": {
-        "marker-color": "#0fc3ff",
+        "marker-color": "#0f3fff",
         "marker-size": "medium",
         "marker-symbol": "circle-stroked",
         "Adresse": "Angerstraße 20-22, Leipzig",
@@ -68,7 +68,7 @@
         "coordinates": [12.33862, 51.33907]
       },
       "properties": {
-        "marker-color": "#0fc3ff",
+        "marker-color": "#0f3fff",
         "marker-size": "medium",
         "marker-symbol": "circle-stroked",
         "Adresse": "Angerstraße 26/28, Leipzig",
@@ -88,7 +88,7 @@
         "coordinates": [12.32781, 51.33151]
       },
       "properties": {
-        "marker-color": "#0fc3ff",
+        "marker-color": "#0f3fff",
         "marker-size": "medium",
         "marker-symbol": "circle-stroked",
         "Adresse": "Aurelienstrasse 62-64, Leipzig",
@@ -109,7 +109,7 @@
         "coordinates": [12.32791, 51.33639]
       },
       "properties": {
-        "marker-color": "#0fc3ff",
+        "marker-color": "#0f3fff",
         "marker-size": "medium",
         "marker-symbol": "circle-stroked",
         "Adresse": "Demmeringstraße 47/49, Leipzig",
@@ -129,7 +129,7 @@
         "coordinates": [12.33638, 51.33592]
       },
       "properties": {
-        "marker-color": "#0fc3ff",
+        "marker-color": "#0f3fff",
         "marker-size": "medium",
         "marker-symbol": "circle-stroked",
         "Adresse": "Dreilindenstraße 4-6, Leipzig",
@@ -148,7 +148,7 @@
         "coordinates": [12.32751, 51.33321]
       },
       "properties": {
-        "marker-color": "#0fc3ff",
+        "marker-color": "#0f3fff",
         "marker-size": "medium",
         "marker-symbol": "circle-stroked",
         "Adresse": "Endersstrasse 26-32 (früher Kaiser[-Wilhelm]-Straße 24-26), Leipzig",
@@ -168,7 +168,7 @@
         "coordinates": [12.32279, 51.33223]
       },
       "properties": {
-        "marker-color": "#0fc3ff",
+        "marker-color": "#0f3fff",
         "marker-size": "medium",
         "marker-symbol": "circle-stroked",
         "Adresse": "Engertstraße 5, Leipzig",
@@ -187,7 +187,7 @@
         "coordinates": [12.32314, 51.32993]
       },
       "properties": {
-        "marker-color": "#0fc3ff",
+        "marker-color": "#0f3fff",
         "marker-size": "medium",
         "marker-symbol": "circle-stroked",
         "Adresse": "Engertstraße 6, Leipzig",
@@ -206,7 +206,7 @@
         "coordinates": [12.32316, 51.32979]
       },
       "properties": {
-        "marker-color": "#0fc3ff",
+        "marker-color": "#0f3fff",
         "marker-size": "medium",
         "marker-symbol": "circle-stroked",
         "Adresse": "Engertstraße 8, Leipzig",
@@ -225,7 +225,7 @@
         "coordinates": [12.32296, 51.32952]
       },
       "properties": {
-        "marker-color": "#0fc3ff",
+        "marker-color": "#0f3fff",
         "marker-size": "medium",
         "marker-symbol": "circle-stroked",
         "Adresse": "Engertstraße 10-12 (früher: Friedrich-August-Straße 6), Leipzig",
@@ -244,7 +244,7 @@
         "coordinates": [12.337532, 51.33396]
       },
       "properties": {
-        "marker-color": "#0fc3ff",
+        "marker-color": "#0f3fff",
         "marker-size": "medium",
         "marker-symbol": "circle-stroked",
         "Adresse": "Kindstraße 4 (früher: Kurze Straße 4), Leipzig",
@@ -263,7 +263,7 @@
         "coordinates": [12.34014, 51.33672]
       },
       "properties": {
-        "marker-color": "#0fc3ff",
+        "marker-color": "#0f3fff",
         "marker-size": "medium",
         "marker-symbol": "circle-stroked",
         "Adresse": "Luppenstraße 1-1b, Leipzig",
@@ -303,7 +303,7 @@
         "coordinates": [12.32745, 51.33679]
       },
       "properties": {
-        "marker-color": "#0fc3ff",
+        "marker-color": "#0f3fff",
         "marker-size": "medium",
         "marker-symbol": "circle-stroked",
         "Adresse": "Merseburger Straße 95, Leipzig",
@@ -323,7 +323,7 @@
         "coordinates": [12.333142, 51.3348]
       },
       "properties": {
-        "marker-color": "#0fc3ff",
+        "marker-color": "#0f3fff",
         "marker-size": "medium",
         "marker-symbol": "circle-stroked",
         "Adresse": "Josephstraße 14, Leipzig",
@@ -343,7 +343,7 @@
         "coordinates": [12.33417, 51.33461]
       },
       "properties": {
-        "marker-color": "#0fc3ff",
+        "marker-color": "#0f3fff",
         "marker-size": "medium",
         "marker-symbol": "circle-stroked",
         "Adresse": "Josephstraße 17, Leipzig",
@@ -363,7 +363,7 @@
         "coordinates": [12.33417, 51.33362]
       },
       "properties": {
-        "marker-color": "#0fc3ff",
+        "marker-color": "#0f3fff",
         "marker-size": "medium",
         "marker-symbol": "circle-stroked",
         "Adresse": "Josephstraße 28, Leipzig",
@@ -383,7 +383,7 @@
         "coordinates": [12.33439, 51.33383]
       },
       "properties": {
-        "marker-color": "#0fc3ff",
+        "marker-color": "#0f3fff",
         "marker-size": "medium",
         "marker-symbol": "circle-stroked",
         "Adresse": "Josephstraße 29, Leipzig",
@@ -403,7 +403,7 @@
         "coordinates": [12.33492, 51.33379]
       },
       "properties": {
-        "marker-color": "#0fc3ff",
+        "marker-color": "#0f3fff",
         "marker-size": "medium",
         "marker-symbol": "circle-stroked",
         "Adresse": "Josephstraße 31, Leipzig",
@@ -423,7 +423,7 @@
         "coordinates": [12.33484, 51.33344]
       },
       "properties": {
-        "marker-color": "#0fc3ff",
+        "marker-color": "#0f3fff",
         "marker-size": "medium",
         "marker-symbol": "circle-stroked",
         "Adresse": "Josephstraße 35, Leipzig",
@@ -443,7 +443,7 @@
         "coordinates": [12.32841, 51.33013]
       },
       "properties": {
-        "marker-color": "#0fc3ff",
+        "marker-color": "#0f3fff",
         "marker-size": "medium",
         "marker-symbol": "circle-stroked",
         "Adresse": "Karl-Heine-Straße 82, Leipzig",
@@ -463,7 +463,7 @@
         "coordinates": [12.32808, 51.33006]
       },
       "properties": {
-        "marker-color": "#0fc3ff",
+        "marker-color": "#0f3fff",
         "marker-size": "medium",
         "marker-symbol": "circle-stroked",
         "Adresse": "Karl-Heine-Straße 84, Leipzig",
@@ -483,7 +483,7 @@
         "coordinates": [12.32802, 51.33066]
       },
       "properties": {
-        "marker-color": "#0fc3ff",
+        "marker-color": "#0f3fff",
         "marker-size": "medium",
         "marker-symbol": "circle-stroked",
         "Adresse": "Karl-Heine-Straße 78-90 (früher Carl-Heinestraße, Albertstraße, Allestraße), Leipzig",
@@ -504,7 +504,7 @@
         "coordinates": [12.32665, 51.32967]
       },
       "properties": {
-        "marker-color": "#0fc3ff",
+        "marker-color": "#0f3fff",
         "marker-size": "medium",
         "marker-symbol": "circle-stroked",
         "Adresse": "Karl-Heine-Straße 92-98 und Gießerstrasse 8-10, Leipzig",
@@ -526,7 +526,7 @@
         "coordinates": [12.32959, 51.32972]
       },
       "properties": {
-        "marker-color": "#0fc3ff",
+        "marker-color": "#0f3fff",
         "marker-size": "medium",
         "marker-symbol": "circle-stroked",
         "Adresse": "Karl-Heine-Straße 95, Leipzig",
@@ -548,7 +548,7 @@
         "coordinates": [12.326396, 51.32906]
       },
       "properties": {
-        "marker-color": "#0fc3ff",
+        "marker-color": "#0f3fff",
         "marker-size": "medium",
         "marker-symbol": "circle-stroked",
         "Adresse": "Karl-Heine-Straße 103-105, Leipzig",
@@ -569,7 +569,7 @@
         "coordinates": [12.32554, 51.32897]
       },
       "properties": {
-        "marker-color": "#0fc3ff",
+        "marker-color": "#0f3fff",
         "marker-size": "medium",
         "marker-symbol": "circle-stroked",
         "Adresse": "Karl-Heine-Straße 107, Leipzig",
@@ -590,7 +590,7 @@
         "coordinates": [12.32488, 51.32886]
       },
       "properties": {
-        "marker-color": "#0fc3ff",
+        "marker-color": "#0f3fff",
         "marker-size": "medium",
         "marker-symbol": "circle-stroked",
         "Adresse": "Karl-Heine-Straße 109-111 (früher Albert-Straße 61), Leipzig",
@@ -611,7 +611,7 @@
         "coordinates": [12.32898, 51.32896]
       },
       "properties": {
-        "marker-color": "#0fc3ff",
+        "marker-color": "#0f3fff",
         "marker-size": "medium",
         "marker-symbol": "circle-stroked",
         "Adresse": "Weißenfelser Straße 67, Leipzig",
@@ -632,7 +632,7 @@
         "coordinates": [12.3250, 51.32805]
       },
       "properties": {
-        "marker-color": "#0fc3ff",
+        "marker-color": "#0f3fff",
         "marker-size": "medium",
         "marker-symbol": "circle-stroked",
         "Adresse": "Weißenfelser Straße 73, Leipzig",
@@ -653,7 +653,7 @@
         "coordinates": [12.32399, 51.32764]
       },
       "properties": {
-        "marker-color": "#0fc3ff",
+        "marker-color": "#0f3fff",
         "marker-size": "medium",
         "marker-symbol": "circle-stroked",
         "Adresse": "Weißenfelser Straße 75, Leipzig",
@@ -674,7 +674,7 @@
         "coordinates": [12.32618, 51.32854]
       },
       "properties": {
-        "marker-color": "#0fc3ff",
+        "marker-color": "#0f3fff",
         "marker-size": "medium",
         "marker-symbol": "circle-stroked",
         "Adresse": "Weißenfelser Straße 84, Leipzig",
@@ -695,7 +695,7 @@
         "coordinates": [12.40242, 51.34600]
       },
       "properties": {
-        "marker-color": "#0fc3ff",
+        "marker-color": "#0f3fff",
         "marker-size": "medium",
         "marker-symbol": "circle-stroked",
         "Adresse": "Eisenbahnstraße 47 (früher Ernst-Thälmann-Str.), Leipzig",
@@ -712,10 +712,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [51.34554584725326, 12.404369631060613]
+        "coordinates": [12.404369631060613, 51.34554584725326]
       },
       "properties": {
-        "marker-color": "#0fc3ff",
+        "marker-color": "#0f3fff",
         "marker-size": "medium",
         "marker-symbol": "circle-stroked",
         "Adresse": "Eisenbahnstraße 70 (früher Ernst-Thälmann-Str.), Leipzig",
@@ -735,7 +735,7 @@
         "coordinates": [12.4187481, 51.3358496]
       },
       "properties": {
-        "marker-color": "#0fc3ff",
+        "marker-color": "#0f3fff",
         "marker-size": "medium",
         "marker-symbol": "circle-stroked",
         "Adresse": "Theodor-Neubauer-Straße 60 (vorher: Karl-Krause-Str. 60), Leipzig",
