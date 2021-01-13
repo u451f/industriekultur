@@ -144,6 +144,25 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [12.32751, 51.33321]
+      },
+      "properties": {
+        "marker-color": "#0fc3ff",
+        "marker-size": "medium",
+        "marker-symbol": "circle-stroked",
+        "Adresse": "Endersstrasse 26-32 (früher Kaiser[-Wilhelm]-Straße 24-26), Leipzig",
+        "name": "Maschinenband-Weberei Gebrüder Köter, VEB Band- und Treibriemenwerk",
+        "description": "1890: Falz & Werner Leipzig - Fabrik photographischer Apparate. 'Vulkan' Gummiwarenfabrik Weiß & Baeßler AG. VEB Kombinat Elbit, Elguwa Leipzig, Werk III. Herr Müller sagte mir: im Keller wurde die Rohmischung für den Gummi hergestellt. Im 1. Stock war Presserei. im 2. Stock Herstellung von Schaumstoffeinlagen für BHs und Verdunkelungsgewebe für die NVA. im 3. Stock Herstellung von Dichtgummi für Trabant und Wartburg. Das Hauptlager von Elguwa hätte sich in einem roten Backsteinbau Engertstrasse befunden (Engert 5, 6, oder 8?). Zwischen Elguwa und Tapetenwerk hätte sich ein Heizhaus befunden.",
+        "Kategorien": "Gummiwaren",
+        "Nutzung": "Wohnungen",
+        "Quellen": "Lindenauer Stadtteilverein e.V., Herr Müller",
+        "Links": "https://www.lindenauerstadtteilverein.de/heimatkunde/haeuserliste/haus/1188/endersstrasse-26-32.htm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [12.32279, 51.33223]
       },
       "properties": {
