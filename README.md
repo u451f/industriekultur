@@ -65,7 +65,8 @@ data!
   - lightblue (#0fc3ff): factory still producing but at different location
   - darkblue (#0f3fff): building still exists, but with different usage (field
     "Nutzung"
-  - purple: building does not exist anymore
+  - violet (#9f0fff): building exists only partly
+  - pink (#ff0fef): building does not exist anymore
 * I want to create a printed map. (Actually, this is my first goal, but
   I thought: why not create this map from a digital file so that others
   can contribute and the data be reused?)
