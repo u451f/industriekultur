@@ -92,19 +92,24 @@ In the case of Leipzig, some things that one can note are those:
 
 - Places, where entirely new buildings are standing, for example
   townhouses or schools, might also be places that were formerly
-  factories, industrial areas (Taschenkaufhaus
-  Gießer-/Karl-Heine-Strasse is standing on the former area of Gießerei
-  Meier & Weichel), or train tracks (new school at Gießerstraße is
-  standing on the former gas factory of Lindenau, and its sports field
-  is on a former industrial supply track A10/PI, [photo looking south,
-  Karl-Heine-Strasse in the back, gas factory on the right. now this is
-  a bike track between the school, right and the sports field,
-  left](https://commons.wikimedia.org/wiki/File:Ulrich_Wuest_Plagwitz_1989_3.jpg),
-  [photo looking
-  north](https://commons.wikimedia.org/wiki/File:Ulrich_Wuest_Plagwitz_1989_2.jpg)
-  crossing ~ Karl-Heine-Strasse 100, the Plagwitz station is on the
-  right, not visible on the photo. The factory building on the left,
-  Gebrüder Brehmer, has disappeared).
+  factories, industrial areas , or train tracks. For example:
+  - Taschenkaufhaus Gießer-/Karl-Heine-Strasse is standing on the former
+    area of Gießerei Meier & Weichel
+  - The new school in Gießerstraße is standing on the former gas factory
+    of Lindenau, and its sports field is built on the former industrial
+    supply track A10/PI (see Liste von Gleisanschlüssen linked above):
+    - [View 1989 looking
+      south](https://commons.wikimedia.org/wiki/File:Ulrich_Wuest_Plagwitz_1989_3.jpg),
+      Karl-Heine-Strasse in the back, the gas factory is on the right.
+      Now (2021) this is a bike track between the school on the right
+      and the sports field on the left. Photo by Ulrich Wüst.
+    - [View from a bit further north](https://upload.wikimedia.org/wikipedia/commons/c/c0/Ulrich_Wuest_Plagwitz_1989_4.jpg).
+      Photo by Ulrich Wüst.
+    - [View looking north](https://commons.wikimedia.org/wiki/File:Ulrich_Wuest_Plagwitz_1989_2.jpg)
+      This is the crossing at Karl-Heine-Strasse 100 and Engertstrasse,
+      the Plagwitz station is on the right, not visible on the photo.
+      The factory building on the left, Gebrüder Brehmer, has
+      disappeared). Photo by Ulrich Wüst.
 
 - Factory buildings were either really big factories (like in Plagwitz)
   or smaller ones in backyards (eg Luppenstrasse 24). Therefore, when
