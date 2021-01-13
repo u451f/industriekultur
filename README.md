@@ -56,6 +56,46 @@ data!
   can contribute and the data be reused?)
 * One could imagine some walks around the neighborhoods using this map.
 
+## Data sources
+
+* [Häuserliste Lindenauer
+  Stadtteilverein](https://www.lindenauerstadtteilverein.de/heimatkunde/haeuserliste.htm)
+* [Volkseigene Betriebe und Kombinat in der DDR](https://www.mil-airfields.de/ddr/orte/leipzig.html)
+* Katalog [Industriekultur Leipzig e.V.](http://www.leipziger-industriekultur.de/category/objekte/)
+* [Staatsarchiv Sachsen](https://www.archiv.sachsen.de/archiv/bestand.jsp?oid=09.&bestandid=&_ptabs=%7B%22%23tab-einleitung%22%3A1%7D&syg_id=&_cp=%7B%22accordion-bestaendenavigation%22%3A%7B%220%22%3Atrue%7D%2C%22previousOpen%22%3A%7B%22group%22%3A%22accordion-bestaendenavigation%22%2C%22idx%22%3A0%7D%7D#einleitung) → Unter Punkt 9 Wirtschaft finden sich Wirtschaftszweige
+* [Leipzig Lexikon](https://www.leipzig-lexikon.de/)
+* Wikipedia
+* People I meet
+
+## Random thoughts
+
+### Reading an urban landscape
+
+To really deeply understand a place, in that case: an urban environment,
+it seems useful to be able to [read the
+landscape](https://www.williamcronon.net/researching/landscapes.htm).
+In the case of Leipzig, some things that one can note are those:
+
+- Some addresses where buildings disappeared entirely, or big parks have
+  been built are actually places that were hit by bombs during World War
+  II (in the east of the city this is quite common) or that were hosting
+  factories until the end of the GDR which have been torn down (eg
+  Jahrtausendfeld in Lindenau).
+
+- The same is true for street numbers that don't exist anymore (eg.
+  Eisenbahnstrasse 70). So when you cannot find a street number of an
+  old factory address, look at the surrounding numbers. Also check if a
+  street has been renamed. [There is an index of all street names and
+  their older
+  names](https://www.leipzig.de/buergerservice-und-verwaltung/unsere-stadt/gebietsgliederung-und-strassennamen/strassennamen/).
+
+- Factory buildings were either really big factories (like in Plagwitz)
+  or smaller ones in backyards (eg Luppenstrasse 24). Therefore, when
+  mapping those places, it might not be sufficient to map the street
+  address, but one would actually need to verify which building was the
+  factory building. This works reasonably well on
+  [OpenStreetMap](https://osm.org), which has details of buildings.
+
 ## License
 
 I don't know yet. Some information on this map comes from other places
