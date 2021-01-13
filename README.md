@@ -60,11 +60,12 @@ data!
 
 * [Häuserliste Lindenauer
   Stadtteilverein](https://www.lindenauerstadtteilverein.de/heimatkunde/haeuserliste.htm)
-* [Volkseigene Betriebe und Kombinat in der DDR](https://www.mil-airfields.de/ddr/orte/leipzig.html)
+* [Volkseigene Betriebe und Kombinate in der DDR](https://www.mil-airfields.de/ddr/orte/leipzig.html)
 * Katalog [Industriekultur Leipzig e.V.](http://www.leipziger-industriekultur.de/category/objekte/)
 * [Staatsarchiv Sachsen](https://www.archiv.sachsen.de/archiv/bestand.jsp?oid=09.&bestandid=&_ptabs=%7B%22%23tab-einleitung%22%3A1%7D&syg_id=&_cp=%7B%22accordion-bestaendenavigation%22%3A%7B%220%22%3Atrue%7D%2C%22previousOpen%22%3A%7B%22group%22%3A%22accordion-bestaendenavigation%22%2C%22idx%22%3A0%7D%7D#einleitung) → Unter Punkt 9 Wirtschaft finden sich Wirtschaftszweige
 * [Leipzig Lexikon](https://www.leipzig-lexikon.de/)
 * Wikipedia
+  - [Liste von Gleisanschlüssen des Bahnhofs Leipzig-Plagwitz](https://de.wikipedia.org/wiki/Liste_von_Gleisanschl%C3%BCssen_des_Bahnhofs_Leipzig-Plagwitz)
 * People I meet
 
 ## Random thoughts
@@ -88,6 +89,22 @@ In the case of Leipzig, some things that one can note are those:
   street has been renamed. [There is an index of all street names and
   their older
   names](https://www.leipzig.de/buergerservice-und-verwaltung/unsere-stadt/gebietsgliederung-und-strassennamen/strassennamen/).
+
+- Places, where entirely new buildings are standing, for example
+  townhouses or schools, might also be places that were formerly
+  factories, industrial areas (Taschenkaufhaus
+  Gießer-/Karl-Heine-Strasse is standing on the former area of Gießerei
+  Meier & Weichel), or train tracks (new school at Gießerstraße is
+  standing on the former gas factory of Lindenau, and its sports field
+  is on a former industrial supply track A10/PI, [photo looking south,
+  Karl-Heine-Strasse in the back, gas factory on the right. now this is
+  a bike track between the school, right and the sports field,
+  left](https://commons.wikimedia.org/wiki/File:Ulrich_Wuest_Plagwitz_1989_3.jpg),
+  [photo looking
+  north](https://commons.wikimedia.org/wiki/File:Ulrich_Wuest_Plagwitz_1989_2.jpg)
+  crossing ~ Karl-Heine-Strasse 100, the Plagwitz station is on the
+  right, not visible on the photo. The factory building on the left,
+  Gebrüder Brehmer, has disappeared).
 
 - Factory buildings were either really big factories (like in Plagwitz)
   or smaller ones in backyards (eg Luppenstrasse 24). Therefore, when
