@@ -50,5 +50,14 @@ data!
   - darkblue: building still exists, but with different usage (field
     "Nutzung"
   - purple: building does not exist anymore
-* I want to create a printable map from this.
+  - orange: factory canteens and restaurants
+* I want to create a printed map. (Actually, this is my first goal, but
+  I thought: why not create this map from a digital file so that others
+  can contribute and the data be reused?)
 * One could imagine some walks around the neighborhoods using this map.
+
+## License
+
+I don't know yet. Some information on this map comes from other places
+and I first need to check which of this information can be reused at
+all.
