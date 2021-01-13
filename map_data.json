@@ -117,7 +117,7 @@
         "description": "1924: Schwarze & Röder Schokoladenfabrik. Später Salzstangenfabrik",
         "Stadtteil": "Lindenau",
         "Kategorien": "Lebensmittel",
-        "Nutzung": "Nr 47: Gebäude existiert nicht mehr. Nr 49: Gewerbe",
+        "Nutzung": "Nr 47: Gebäude/Hausnummer existiert nicht mehr. Nr 49: Gewerbe",
         "Quellen": "Lindenauer Stadtteilverein",
         "Links": "https://www.lindenauerstadtteilverein.de/heimatkunde/haeuserliste/haus/376/demmeringstrasse-4749.htm"
       }
@@ -706,6 +706,26 @@
         "Nutzung": "",
         "Quellen": "Addressbuch 1949, Military Airfield Directory",
         "Links": "https://www.mil-airfields.de/ddr/orte/leipzig.html#Org676717"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.34554584725326, 12.404369631060613]
+      },
+      "properties": {
+        "marker-color": "#0fc3ff",
+        "marker-size": "medium",
+        "marker-symbol": "circle-stroked",
+        "Adresse": "Eisenbahnstraße 70 (früher Ernst-Thälmann-Str.), Leipzig",
+        "name": "TRABANT Pralinen- und Schokoladenfabrik",
+        "description": "ca. 1930: Alfred Pammler TRABANT Pralinen- und Schokoladenfabrik",
+        "Stadtteil": "Neustadt-Neuschönefeld",
+        "Kategorien": "Lebensmittel",
+        "Nutzung": "Hausnummer existiert nicht mehr",
+        "Quellen": "Sächsisches Wirtschaftsarchiv e.V.",
+        "Links": "http://digital.slub-dresden.de/id512014892"
       }
     },
     {
