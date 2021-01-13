@@ -41,8 +41,8 @@ My goal is to
 * have machine readable data: I use geoJSON for that,
 * also map places that are entirely gone
 * have an entry for what happened to these places during World War II
-  (field in geoJSON called "WWII") and after the German reunification
-  (field in geoJSON called "Nachwende")
+  (field in geoJSON called `WWII`) and after the German reunification
+  (field in geoJSON called `Nachwende`)
 
 ## Status
 
@@ -64,7 +64,7 @@ data!
   - green: factory still producing at the same place
   - lightblue (#0fc3ff): factory still producing but at different location
   - darkblue (#0f3fff): building still exists, but with different usage (field
-    "Nutzung"
+    `Nutzung`)
   - violet (#9f0fff): building exists only partly
   - pink (#ff0fef): building does not exist anymore
 * I want to create a printed map. (Actually, this is my first goal, but
