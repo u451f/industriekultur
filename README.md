@@ -61,7 +61,7 @@ data!
 ## Future plans
 
 * I want to use different marker colors and shapes:
-  - green: factory still producing at the same place
+  - green (#5ddc18): factory still producing at the same place
   - lightblue (#0fc3ff): factory still producing but at different location
   - darkblue (#0f3fff): building still exists, but with different usage (field
     `Nutzung`)
