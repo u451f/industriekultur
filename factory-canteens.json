@@ -34,9 +34,7 @@
         "name": "Niemeyer Sphere / Café HeiterBlick. In der Niemeyer Sphere des Betriebs Kirow.",
         "description": "Restaurant in der von Oskar Niemeyer für die Firma Kirow konstruierten Sphäre",
         "Stadtteil": "Lindenau",
-        "Links": "https://www.technesphere.de/",
-        "Küche": "?",
-        "Rating": "?/5"
+        "Links": "https://www.technesphere.de/"
       }
     },
     {
@@ -131,8 +129,6 @@
         "description": "Restaurant in der ehemaligen Wellblechfabrik Grohmann & Frosch.",
         "Stadtteil": "Plagwitz",
         "Links": "https://www.tripadvisor.com/Restaurant_Review-g187400-d1341861-Reviews-Stelzenhaus_Restaurant_Gastro_GbR-Leipzig_Saxony.html",
-        "Küche": "?",
-        "Rating": "?/5",
         "Status": "geschlossen"
       }
     },
