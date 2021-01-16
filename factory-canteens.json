@@ -134,6 +134,26 @@
         "Rating": "?/5",
         "Status": "geschlossen"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.32926, 51.32497]
+      },
+      "properties": {
+        "marker-color": "#ff8f0f",
+        "marker-size": "medium",
+        "marker-symbol": "restaurant",
+        "Adresse": "Markranstädter Straße 9, Leipzig",
+        "name": "Cafeteria M9",
+        "description": "Kantine in der ehemaligen Blechwarenfabrik Felix Lasse; später Famos-Spielzeugfabrik.",
+        "Stadtteil": "Plagwitz",
+        "Links": "https://www.philippus-leipzig.de/catering/cafeteria-m9/",
+        "Küche": "Stil deutsche Kantine",
+        "Rating": "4/5",
+        "Status": "geschlossen"
+      }
     }
   ]
 }
