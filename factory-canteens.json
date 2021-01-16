@@ -81,6 +81,25 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [12.327337, 51.32760071]
+      },
+      "properties": {
+        "marker-color": "#ff8f0f",
+        "marker-size": "medium",
+        "marker-symbol": "restaurant",
+        "Adresse": "Gießerstraße 16, Leipzig",
+        "name": "Chinabrenner",
+        "description": "Chineische Küche in ehemaliger Metallgießerei und Metallwarenfabrik Stoll & Elschner (um 1900), später Salpeter-Werke AG, 1942 Werkzeugbau der Fa. R. Sack, zu DDR-Zeiten VEB Bodenbearbeitungsgeräte",
+        "Stadtteil": "Plagwitz",
+        "Links": "http://www.chinabrenner.de/",
+        "Küche": "Chinesisch",
+        "Rating": "4/5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [12.32439, 51.32303]
       },
       "properties": {
