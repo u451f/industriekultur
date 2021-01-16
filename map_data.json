@@ -241,6 +241,47 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [12.327462, 51.3276]
+      },
+      "properties": {
+        "marker-color": "#0f3fff",
+        "marker-size": "medium",
+        "marker-symbol": "circle-stroked",
+        "Adresse": "Gießerstraße 18, Leipzig",
+        "name": "Metallgießerei und Metallwarenfabrik Stoll & Elschner, Rudolf Sack, VEB Bodenbearbeitungsgeräte",
+        "description": "Metallgießerei und Metallwarenfabrik Stoll & Elschner (um 1900), später Salpeter-Werke AG, 1942 Werkzeugbau der Fa. R. Sack, zu DDR-Zeiten VEB Bodenbearbeitungsgeräte",
+        "Gleisanschluss": "A41 PVI",
+        "Kategorien": "Maschinenbau",
+        "Nutzung": "Restaurant",
+        "Quellen": "Wikipedia",
+        "Links": "https://www.chinabrenner.de, http://www.deutschefotothek.de/documents/obj/33067540/df_hauptkatalog_0485202, http://blog.photographiedepot.de/wp-content/uploads/IMG_0546.jpg, https://de.wikipedia.org/wiki/Liste_von_Gleisanschl%C3%BCssen_des_Bahnhofs_Leipzig-Plagwitz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.32676, 51.32439]
+      },
+      "properties": {
+        "marker-color": "#5ddc18",
+        "marker-size": "medium",
+        "marker-symbol": "circle-stroked",
+        "Adresse": "Gießerstraße 42, Leipzig",
+        "name": "Siemens Compressor Systems",
+        "description": "",
+        "Gleisanschluss": "",
+        "Kategorien": "Maschinenbau",
+        "Mutterkonzern": "Klingenstraße 15",
+        "Nutzung": "Fabrik",
+        "Quellen": "Siemens",
+        "Links": "https://freie-wirtschaftsfoerderung.com/wp-content/uploads/2017/04/170410_Pr%C3%A4sentation-U-Stammtisch.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [12.337532, 51.33396]
       },
       "properties": {
@@ -251,9 +292,52 @@
         "name": "Chocoladen- und Zuckerwaaren-Fabrik, Schokoladenfabrik Emil Richter, VEB Süßwaren Leipzig",
         "description": "1887: C. E. Michaelis Chocoladen- und Zuckerwaaren-Fabrik. 1924: Schokoladenfabrik Emil Richter. 1980 VEB Leipziger Süßwarenbetriebe Leipzig. Teil des VEB Kombinat Süßwaren Delitzsch.",
         "Kategorien": "Lebensmittel",
-        "Nutzung": "",
+        "Nutzung": "Wohnhaus",
         "Quellen": "Lindenauer Stadtteilverein e.V.",
         "Links": "https://www.lindenauerstadtteilverein.de/heimatkunde/haeuserliste/haus/2024/kindstrasse-4.htm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.32538, 51.32457]
+      },
+      "properties": {
+        "marker-color": "#5ddc18",
+        "marker-size": "medium",
+        "marker-symbol": "circle-stroked",
+        "Adresse": "Klingenstraße 12 und 15, Leipzig",
+        "name": "Siemens Compressor Systems",
+        "description": "1898 Pumpen- und Gebläsewerk C. H. Jaeger & Co., 1952 VEB Pumpen- und Gebläsewerk PGW, Siemens Compressor Systems",
+        "Nachwende": "1999: Übernahme durch Kühnle, Kopp & Kausch AG. 2006: Übernahme durch Siemens AG",
+        "Gleisanschluss": "A49 PXI",
+        "Mutterkonzern": "Klingenstraße 16-18",
+        "Kategorien": "Maschinenbau",
+        "Nutzung": "Weiterhin als Fabrik genutzt",
+        "Quellen": "Siemens ",
+        "Links": "https://freie-wirtschaftsfoerderung.com/wp-content/uploads/2017/04/170410_Pr%C3%A4sentation-U-Stammtisch.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.32463, 51.32439]
+      },
+      "properties": {
+        "marker-color": "#0f3fff",
+        "marker-size": "medium",
+        "marker-symbol": "circle-stroked",
+        "Adresse": "Klingenstraße 16-18, Leipzig",
+        "name": "Pumpen- und Gebläsewerk C. H. Jaeger & Co., VEB Pumpen- und Gebläsewerk",
+        "description": "1898 Pumpen- und Gebläsewerk C. H. Jaeger & Co., 1952 VEB Pumpen- und Gebläsewerk PGW, Siemens Compressor Systems",
+        "Nachwende": "1999: Übernahme durch Kühnle, Kopp & Kausch AG. 2006: Übernahme durch Siemens AG",
+        "Gleisanschluss": "A49 PXI",
+        "Kategorien": "Maschinenbau",
+        "Nutzung": "Gebäude nicht mehr vorhanden, Nutzung Wagenplatz KarlHelga.",
+        "Quellen": "Siemens ",
+        "Links": "https://freie-wirtschaftsfoerderung.com/wp-content/uploads/2017/04/170410_Pr%C3%A4sentation-U-Stammtisch.pdf"
       }
     },
     {
@@ -294,26 +378,6 @@
         "Nutzung": "Zu Wohnhaus umgebaut. Fabrikschornstein erhalten.",
         "Quellen": "Lindenauer Stadtteilverein e.V.",
         "Links": "https://www.lindenauerstadtteilverein.de/heimatkunde/haeuserliste/haus/2154/luppenstrasse-24-alte-kruegerolfabrik.htm"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [12.32745, 51.33679]
-      },
-      "properties": {
-        "marker-color": "#0f3fff",
-        "marker-size": "medium",
-        "marker-symbol": "circle-stroked",
-        "Adresse": "Merseburger Straße 95, Leipzig",
-        "name": "Schokoladenfabrik Alfred Fietsch",
-        "description": "1924: Alfred Fietsch Schokoladen- und Zuckerwarenfabrik",
-        "Stadtteil": "Lindenau",
-        "Kategorien": "Lebensmittel",
-        "Nutzung": "Wohnen",
-        "Quellen": "Lindenauer Stadtteilverein",
-        "Links": "https://www.lindenauerstadtteilverein.de/heimatkunde/haeuserliste/haus/331/merseburger-strasse-95.htm"
       }
     },
     {
@@ -602,6 +666,26 @@
         "Nutzung": "Gewerbe",
         "Quellen": "Lindenauer Stadtteilverein e.V., Wikipedia, Leipzig-Lexikon",
         "Links": "https://www.lindenauerstadtteilverein.de/heimatkunde/haeuserliste/haus/1903/josephstrasse-29.htm, https://de.wikipedia.org/wiki/Gebr%C3%BCder_Brehmer, http://www.leipzig-lexikon.de/INDUHAND/brehmer.htm, http://www.leipziger-industriekultur.de/brehmer/, https://www.youtube.com/watch?v=5eDpCZWxZ_g"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.32745, 51.33679]
+      },
+      "properties": {
+        "marker-color": "#0f3fff",
+        "marker-size": "medium",
+        "marker-symbol": "circle-stroked",
+        "Adresse": "Merseburger Straße 95, Leipzig",
+        "name": "Schokoladenfabrik Alfred Fietsch",
+        "description": "1924: Alfred Fietsch Schokoladen- und Zuckerwarenfabrik",
+        "Stadtteil": "Lindenau",
+        "Kategorien": "Lebensmittel",
+        "Nutzung": "Wohnen",
+        "Quellen": "Lindenauer Stadtteilverein",
+        "Links": "https://www.lindenauerstadtteilverein.de/heimatkunde/haeuserliste/haus/331/merseburger-strasse-95.htm"
       }
     },
     {
