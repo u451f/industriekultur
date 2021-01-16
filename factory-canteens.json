@@ -108,11 +108,12 @@
         "marker-symbol": "restaurant",
         "Adresse": "Klingenstraße 22",
         "name": "Kesselkollektiv",
-        "description": "Kantine in ehemaliger Holzfabrik. Status Januar 2021: noch nicht eröffnet. Zusammenschluß von Manusso Eis, Plagwitzer Brauerei, Rasselbock Catering, Umani Kulturgut, u.a. Es wird eine Kantine geben.",
+        "description": "Kantine in ehemaliger Holzfabrik. Zusammenschluß von Manusso Eis, Plagwitzer Brauerei, Rasselbock Catering, Umani Kulturgut, u.a. Es wird eine Kantine geben.",
         "Stadtteil": "Kleinzschocher",
         "Links": "https://www.instagram.com/kesselkollektivleipzig/",
         "Küche": "Internationale Gerichte, regionale Produkte, auch vegan",
-        "Rating": "4/5"
+        "Rating": "4/5",
+        "Status": "Januar 2021: noch nicht eröffnet."
       }
     },
     {
