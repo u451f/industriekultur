@@ -270,7 +270,6 @@
         "Adresse": "Gießerstraße 42, Leipzig",
         "name": "Siemens Compressor Systems",
         "description": "",
-        "Gleisanschluss": "",
         "Kategorien": "Maschinenbau",
         "Mutterkonzern": "Klingenstraße 15",
         "Nutzung": "Fabrik",
@@ -326,7 +325,7 @@
         "coordinates": [12.32463, 51.32439]
       },
       "properties": {
-        "marker-color": "#0f3fff",
+        "marker-color": "#ff0fef",
         "marker-size": "medium",
         "marker-symbol": "circle-stroked",
         "Adresse": "Klingenstraße 16-18, Leipzig",
@@ -573,9 +572,10 @@
         "marker-symbol": "circle-stroked",
         "Adresse": "Karl-Heine-Straße 92-98 und Gießerstrasse 8-10, Leipzig",
         "name": "Meier & Weichelt. VEB Leipziger Eisen- und Stahlwerke. GUS. GISAG",
-        "description": "1874: Meier & Weichelt. VEB Leipziger Eisen- und Stahlwerke, 1948: GUS Leipziger Eisen- und Stahlwerke. VEB der GUS Vereinigung Volkseigener Betriebe Guß- und Schmiedeerzeugnisse Leipzig. VEB Kombinat Kombinat Gießereianlagenbau und Gußerzeugnisse (GISAG)",
+        "description": "1874: Meier & Weichelt. VEB Leipziger Eisen- und Stahlwerke, 1948: GUS Leipziger Eisen- und Stahlwerke. 1966: VEB Gießereinanlagen. VEB der GUS Vereinigung Volkseigener Betriebe Guß- und Schmiedeerzeugnisse Leipzig. 1969: VEB Kombinat Kombinat Gießereianlagenbau und Gußerzeugnisse (GISAG)",
         "Stadtteil": "Lindenau",
         "Kategorien": "Eisen-, Stahl- und Tempergießerei",
+        "Gleisanschluss": "A22 PI",
         "WKII": "Rüstungsproduktion. Zwangsarbeiter.",
         "Nachwende": "Abbruch",
         "Nutzung": "Gewerbe. Neubau.",
@@ -597,6 +597,7 @@
         "name": "Landmaschinenfabrik Rudolph Sack, VEB Bodenbearbeitungsgeräte",
         "description": "1867: Fabrikgebäude und Wohnhaus. Ab 1881 auch Karl-Heine-Straße 90, 99–101, 103-105,  Weißenfelser Straße 67, Karl-Heine-Straße 78–88, Aurelienstraße 62/64. 1937/39 Klingenstraße 22. 1948: VEB Leipziger Bodenbearbeitungsgeräte (BBG)",
         "Stadtteil": "Plagwitz",
+        "Gleisanschluss": "A17 PIV",
         "Kategorien": "Maschinenbau, Landmaschinenbau",
         "WKII": "Rüstungsproduktion, Zwangsarbeiter.",
         "Nachwende": "1990 Treuhandverwaltung. 1993 BBG GmbH Leipzig, Übernahme durch Franz Kleine GmbH & Co. KG  aus Nordrhein-Westfalen. 1999 Kauf durch Amazonen-Werke. Produktion heute Rippachtalstraße 10, Leipzig Südwest.",
@@ -641,6 +642,7 @@
         "description": "1905: Parkettfußbodenfabrik A. Heym. Ab 1912 Gebrüder Brehmer.",
         "Stadtteil": "Plagwitz",
         "Kategorien": "Holzbearbeitung, Maschinenbau, Buchbindermaschinen",
+        "Gleisanschluss": "A72 PIV",
         "Nutzung": "Gewerbe",
         "Mutterkonzern": "Karl-Heine-Straße 111",
         "Quellen": "Lindenauer Stadtteilverein e.V., Wikipedia, Leipzig Lexikon",
@@ -686,6 +688,27 @@
         "Nutzung": "Wohnen",
         "Quellen": "Lindenauer Stadtteilverein",
         "Links": "https://www.lindenauerstadtteilverein.de/heimatkunde/haeuserliste/haus/331/merseburger-strasse-95.htm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.32831, 51.32892]
+      },
+      "properties": {
+        "marker-color": "#ff0fef",
+        "marker-size": "medium",
+        "marker-symbol": "circle-stroked",
+        "Adresse": "Weißenfelser Straße 69/71, Leipzig",
+        "name": "Weydemeyer & Jahn Eisengießerei",
+        "description": "Weydemeyer & Jahn Eisengießerei, Jahr unbekannt, Weiternutzung unbekannt",
+        "Stadtteil": "Plagwitz",
+        "Gleisanschluss": "A16 PVa",
+        "Kategorien": "Metallverarbeitung",
+        "Nutzung": "Gebäude nicht mehr vorhanden. Parkhaus und  Grünfläche.",
+        "Quellen": "Wikipedia",
+        "Links": "https://de.wikipedia.org/wiki/Liste_von_Gleisanschl%C3%BCssen_des_Bahnhofs_Leipzig-Plagwitz"
       }
     },
     {
@@ -852,6 +875,27 @@
         "Nutzung": "2013/2023: Umbau zu Wohnungen",
         "Quellen": "Leipziger Industriekultur, Wikipedia",
         "Links": "http://www.leipziger-industriekultur.de/karl-krause/, https://de.wikipedia.org/wiki/Karl_Krause_(Unternehmer)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.33361, 51.32548]
+      },
+      "properties": {
+        "marker-color": "#9f0fff",
+        "marker-size": "medium",
+        "marker-symbol": "circle-stroked",
+        "Adresse": "Zschochersche Straße 78, Leipzig",
+        "name": "Swiderski, Industriewerke GmbH",
+        "description": "1888: Swiderskii (Petroleummotoren). 1897: Leipziger Dampfmaschinen- & Motorenfabrik vormals Ph. Swiderski. 1900: Maschinenbau-Aktiengesellschaft vorm. Ph. Swiderski. 1916: Industriewerke GmbH (Druckereipressen). 1927: Georg Spiess Maschinenfabrik. 1953: Bogenanlegerwerk",
+        "Stadtteil": "Kleinzschocher",
+        "Nachwende": "Treuhand. Mitte der 1990er Verkauf an Rübesam Verwaltungs-GmbH, die 2013 liquidiert wurde.",
+        "Kategorien": "Maschinenbau, Buchdruckmaschinen, Buchbindermaschinen",
+        "Nutzung": "Ruine und Brachfläche",
+        "Quellen": "Wikipedia",
+        "Links": "https://de.wikipedia.org/wiki/Philipp_Swiderski_Maschinenbaufabrik, https://www.bildindex.de/document/obj32030742/?medium=mi12373e02, https://www.veikkos-archiv.com/index.php?title=Zschochersche_Stra%C3%9Fe_78_(Leipzig), http://s651713287.online.de/herstell/swiderski/swiderski.html"
       }
     }
   ]
