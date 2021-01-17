@@ -85,6 +85,26 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [12.33385, 51.33297]
+      },
+      "properties": {
+        "marker-color": "#ff0fef",
+        "marker-size": "medium",
+        "marker-symbol": "circle-stroked",
+        "Adresse": "Aurelienstrasse 20/22, Leipzig",
+        "name": "Kohlbach & Co. G.m.b.H. Maschinenfabrik",
+        "description": "1912: Kohlbach & Co. G.m.b.H. Maschinenfabrik",
+        "Stadtteil": "Lindenau",
+        "Kategorien": "Polygraphischer Maschinenbau",
+        "Nutzung": "Grünfläche",
+        "Quellen": "Buchmuseum",
+        "Links": "https://github.com/buchmuseum/leipzig1912"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [12.32781, 51.33151]
       },
       "properties": {
@@ -148,15 +168,15 @@
         "coordinates": [12.32333, 51.33080]
       },
       "properties": {
-        "marker-color": "#ff0fef",
+        "marker-color": "#0fc3ff",
         "marker-size": "medium",
         "marker-symbol": "circle-stroked",
         "Adresse": "Endersstrasse 64 (früher Kaiser-Straße 64), Leipzig",
-        "name": "Drahtheftmaschinen-Fabrik Wilh. Mallien Maschinenfabrik",
-        "description": "1912: Drahtheftmaschinen-Fabrik Wilh. Mallien Maschinenfabrik",
+        "name": "Drahtheftmaschinen-Fabrik Wilh. Mallien Maschinenfabrik, Strukturfabrik",
+        "description": "1912: Drahtheftmaschinen-Fabrik Wilh. Mallien Maschinenfabrik.",
         "Kategorien": "Polygraphischer Maschinenbau",
-        "Nutzung": "Neubebauung",
-        "Quellen": "Buchmuseum Leipzig",
+        "Nutzung": "Saniert. Wohnen und Gewerbe. Fabrikgebäude hat Anschrift Engertstrasse 13 (Strukturfabrik)",
+        "Quellen": "Buchmuseum Leipzig, Wikipedia",
         "Links": "https://github.com/buchmuseum/leipzig1912"
       }
     },
