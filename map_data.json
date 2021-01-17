@@ -402,6 +402,26 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [12.33383, 51.33479]
+      },
+      "properties": {
+        "marker-color": "#0f3fff",
+        "marker-size": "medium",
+        "marker-symbol": "circle-stroked",
+        "Adresse": "Josephstraße 13, Leipzig",
+        "name": "K. Gebler Maschinenfabrik",
+        "description": "1912: K. Gebler Maschinenfabrik, Spez. Buchbinderei- und Kartonagen-Maschinen",
+        "Stadtteil": "Lindenau",
+        "Kategorien": "Polygraphischer Maschinenbau",
+        "Nutzung": "Wohnen",
+        "Quellen": "Buchmuseum",
+        "Links": "https://github.com/buchmuseum/leipzig1912"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [12.333142, 51.3348]
       },
       "properties": {
@@ -702,12 +722,32 @@
         "Adresse": "Lützner Straße 93-95, Leipzig",
         "name": "Deutsche Maschinen- und Papier-Industrie-Werke, Tapetenwerk",
         "description": "1873: Tapetenfabrik Langhammer und Söhne. 1912: Deutsche Maschinen- und Papier-Industrie-Werke G.m.b.H. (Papiermaschinen). nach 1945: VEB Verpackungsmittelkombinat Leipzig. bis 2006: Leipziger Tapeten GmbH.",
-        "Nachwende": "Treuhandverkauf 2006.",
+        "Nachwende": "Nach Insolvenz der Tapeten GmbH Treuhandverkauf 2006 an die heutigen Eigentümer (Reichenbach-Behnisch).",
         "Stadtteil": "Lindenau",
         "Kategorien": "Polygraphischer Maschinenbau, Papierverarbeitung",
         "Nutzung": "Gewerbe, Ateliers",
         "Quellen": "Buchmuseum, Wikipedia",
-        "Links": "https://de.wikipedia.org/wiki/Tapetenwerk, https://tapetenwerk.de"
+        "Links": "https://github.com/buchmuseum/leipzig1912, https://de.wikipedia.org/wiki/Tapetenwerk, https://tapetenwerk.de"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.32604, 51.32505]
+      },
+      "properties": {
+        "marker-color": "#0f3fff",
+        "marker-size": "medium",
+        "marker-symbol": "circle-stroked",
+        "Adresse": "Markranstädter Straße 29b, Leipzig",
+        "name": "Walterwerke Maschinenfabrik m.b.H.",
+        "description": "Walterwerke Maschinenfabrik m.b.H.",
+        "Stadtteil": "Plagwitz",
+        "Kategorien": "Polygraphischer Maschinenbau",
+        "Nutzung": "Wohnen",
+        "Quellen": "Buchmuseum",
+        "Links": "https://github.com/buchmuseum/leipzig1912"
       }
     },
     {
@@ -807,7 +847,7 @@
         "name": "Fa. Dr. Struve & Co, Gebrüder Brehmer",
         "description": "Ab 1924: Gebrüder Brehmer",
         "Stadtteil": "Plagwitz",
-        "Kategorien": "Maschinenbau, schinen",
+        "Kategorien": "Maschinenbau, Polygraphischer Maschinenbau",
         "Nutzung": "",
         "Mutterkonzern": "Karl-Heine-Straße 111",
         "Quellen": "Leipzig Lexikon",
@@ -828,7 +868,7 @@
         "name": "Fa. Dr. Heinrich König & Co., Gebrüder Brehmer",
         "description": "Ab 1925: Gebrüder Brehmer",
         "Stadtteil": "Plagwitz",
-        "Kategorien": "Maschinenbau, schinen",
+        "Kategorien": "Maschinenbau, Polygraphisher Maschinenbau",
         "Nutzung": "",
         "Mutterkonzern": "Karl-Heine-Straße 111",
         "Quellen": "Leipzig Lexikon",
@@ -849,7 +889,7 @@
         "name": "F. Köhlers Witwe & Sohn, Gebrüder Brehmer",
         "description": "Ab 1926: Gebrüder Brehmer",
         "Stadtteil": "Plagwitz",
-        "Kategorien": "Maschinenbau, schinen",
+        "Kategorien": "Maschinenbau, Polygraphischer Maschinenbau",
         "Nutzung": "",
         "Mutterkonzern": "Karl-Heine-Straße 111",
         "Quellen": "Leipzig Lexikon",
@@ -915,6 +955,26 @@
         "Nutzung": "2013/2023: Umbau zu Wohnungen",
         "Quellen": "Leipziger Industriekultur, Wikipedia",
         "Links": "http://www.leipziger-industriekultur.de/karl-krause/, https://de.wikipedia.org/wiki/Karl_Krause_(Unternehmer)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.32950,51.32399]
+      },
+      "properties": {
+        "marker-color": "#ff0fef",
+        "marker-size": "medium",
+        "marker-symbol": "circle-stroked",
+        "Adresse": "Wachsmuthstraße 4, Leipzig",
+        "name": "J. G. Schelter & Giesecke Maschinenfabrik für Buchdruckmaschinen",
+        "description": "1912: J. G. Schelter & Giesecke Maschinenfabrik für Buchdruckmaschinen",
+        "Stadtteil": "Plagwitz",
+        "Kategorien": "Polygraphischer Maschinenbau",
+        "Nutzung": "Neubau, Gewerbe",
+        "Quellen": "Buchmuseum",
+        "Links": "https://github.com/buchmuseum/leipzig1912"
       }
     },
     {
