@@ -79,6 +79,24 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [12.33072, 51.33002]
+      },
+      "properties": {
+        "marker-color": "#ff8f0f",
+        "marker-size": "medium",
+        "marker-symbol": "restaurant",
+        "Adresse": "Karl-Heine-Straße 93",
+        "name": "Kaiserbad",
+        "description": "Restaurant in der ehemaligen Eisengießerei des Westwerks, später Industriearmaturenwerk",
+        "Stadtteil": "Plagwitz",
+        "Links": "https://kaiserbad.de/",
+        "Küche": "deutsch, italienisch"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [12.327337, 51.32760071]
       },
       "properties": {
@@ -147,8 +165,7 @@
         "description": "Bistro im Gebäude einer ehemaligen Großbäckerei",
         "Stadtteil": "Plagwitz",
         "Links": "https://bistroamkanal.de/",
-        "Küche": "Stil deutsche Kantine",
-        "Rating": ""
+        "Küche": "Stil deutsche Kantine"
       }
     },
     {
