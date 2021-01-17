@@ -89,7 +89,7 @@
         "name": "Kaiserbad",
         "description": "Restaurant in der ehemaligen Eisengießerei des Westwerks, später Industriearmaturenwerk",
         "Stadtteil": "Plagwitz",
-        "Links": "https://kaiserbad.de/",
+        "Links": "https://kaiserbad-leipzig.de/",
         "Küche": "deutsch, italienisch"
       }
     },
@@ -185,6 +185,24 @@
         "Links": "https://www.philippus-leipzig.de/catering/cafeteria-m9/",
         "Küche": "Stil deutsche Kantine",
         "Rating": "4/5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.33645, 51.32411]
+      },
+      "properties": {
+        "marker-color": "#ff8f0f",
+        "marker-size": "medium",
+        "marker-symbol": "shop",
+        "Adresse": "Erich-Zeigner-Allee 64",
+        "name": "Grüne Pforte",
+        "description": "Lokale Produkte. Slowfood. In der ehemaligen Kammgarnspinnerei Stöhr & Co. AG",
+        "Stadtteil": "Plagwitz",
+        "Links": "https://gruene-pforte.de/",
+        "Status": "seit Corona-Krise kein Mittagessenangebot mehr. Nur Lebensmittelverkauf"
       }
     }
   ]
