@@ -136,6 +136,25 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [12.32993, 51.32661]
+      },
+      "properties": {
+        "marker-color": "#ff8f0f",
+        "marker-size": "medium",
+        "marker-symbol": "restaurant",
+        "Adresse": "Naumburger Strasse 26b, Leipzig",
+        "name": "Bistro am Kanal",
+        "description": "Bistro im Gebäude einer ehemaligen Großbäckerei",
+        "Stadtteil": "Plagwitz",
+        "Links": "https://bistroamkanal.de/",
+        "Küche": "Stil deutsche Kantine",
+        "Rating": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [12.32926, 51.32497]
       },
       "properties": {
