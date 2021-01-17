@@ -145,6 +145,25 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [12.32333, 51.33080]
+      },
+      "properties": {
+        "marker-color": "#ff0fef",
+        "marker-size": "medium",
+        "marker-symbol": "circle-stroked",
+        "Adresse": "Endersstrasse 64 (früher Kaiser-Straße 64), Leipzig",
+        "name": "Drahtheftmaschinen-Fabrik Wilh. Mallien Maschinenfabrik",
+        "description": "1912: Drahtheftmaschinen-Fabrik Wilh. Mallien Maschinenfabrik",
+        "Kategorien": "Polygraphischer Maschinenbau",
+        "Nutzung": "Neubebauung",
+        "Quellen": "Buchmuseum Leipzig",
+        "Links": "https://github.com/buchmuseum/leipzig1912"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [12.32751, 51.33321]
       },
       "properties": {
@@ -641,7 +660,7 @@
         "name": "Parkettfußbodenfabrik, Gebrüder Brehmer, VEB Polygraph",
         "description": "1905: Parkettfußbodenfabrik A. Heym. Ab 1912 Gebrüder Brehmer.",
         "Stadtteil": "Plagwitz",
-        "Kategorien": "Holzbearbeitung, Maschinenbau, Buchbindermaschinen",
+        "Kategorien": "Holzbearbeitung, Polygraphischer Maschinenbau",
         "Gleisanschluss": "A72 PIV",
         "Nutzung": "Gewerbe",
         "Mutterkonzern": "Karl-Heine-Straße 111",
@@ -663,11 +682,32 @@
         "name": "Parkettfußbodenfabrik, Gebrüder Brehmer, VEB Polygraph",
         "description": "1879: Gebrüder Brehmer (Karl-Heine-Str 111), ab 1912 Ausweitung auf Karl-Heine Str. 107 und 109. Produktion von Heftmaschinen, Falzmaschinen und Anklebemaschinen für Buchbinderei. 1948: Volkseigentum als VEB Polygraph, Gebrüder Brehmer. 1951: VEB Falz- und Heftmaschinenwerk Leipzig. 1979: Umbenennung in VEB Kombinat Polygraph Werner Lamberz. 1987: VEB Polygraph, Buchbindereimaschinenwerke Leipzig, 1959/60: VEB Leipziger Buchbindereimaschinenwerke (LBW)",
         "Stadtteil": "Plagwitz",
-        "Kategorien": "Maschinenbau, Buchbindermaschinen",
+        "Kategorien": "Maschinenbau, schinen",
         "Nachwende": "Privatisierung als Polygraph contacta GmbH Leipzig und Brehmer Buchbindereimaschinen GmbH Leipzig. 1991 an die Firma McCain Manufacturing Corp. mit Sitz in Hamburg und Chicago verkauft, später vom Ludwigsburger Falzmaschinenhersteller Stahl GmbH & Co. KG übernommen. Seit 1999 Teil der Heidelberger Druckmaschinen AG. 2015: Schließung.",
         "Nutzung": "Gewerbe",
         "Quellen": "Lindenauer Stadtteilverein e.V., Wikipedia, Leipzig-Lexikon",
         "Links": "https://www.lindenauerstadtteilverein.de/heimatkunde/haeuserliste/haus/1903/josephstrasse-29.htm, https://de.wikipedia.org/wiki/Gebr%C3%BCder_Brehmer, http://www.leipzig-lexikon.de/INDUHAND/brehmer.htm, http://www.leipziger-industriekultur.de/brehmer/, https://www.youtube.com/watch?v=5eDpCZWxZ_g"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.32506, 51.33383]
+      },
+      "properties": {
+        "marker-color": "#0f3fff",
+        "marker-size": "medium",
+        "marker-symbol": "circle-stroked",
+        "Adresse": "Lützner Straße 93-95, Leipzig",
+        "name": "Deutsche Maschinen- und Papier-Industrie-Werke, Tapetenwerk",
+        "description": "1873: Tapetenfabrik Langhammer und Söhne. 1912: Deutsche Maschinen- und Papier-Industrie-Werke G.m.b.H. (Papiermaschinen). nach 1945: VEB Verpackungsmittelkombinat Leipzig. bis 2006: Leipziger Tapeten GmbH.",
+        "Nachwende": "Treuhandverkauf 2006.",
+        "Stadtteil": "Lindenau",
+        "Kategorien": "Polygraphischer Maschinenbau, Papierverarbeitung",
+        "Nutzung": "Gewerbe, Ateliers",
+        "Quellen": "Buchmuseum, Wikipedia",
+        "Links": "https://de.wikipedia.org/wiki/Tapetenwerk, https://tapetenwerk.de"
       }
     },
     {
@@ -767,7 +807,7 @@
         "name": "Fa. Dr. Struve & Co, Gebrüder Brehmer",
         "description": "Ab 1924: Gebrüder Brehmer",
         "Stadtteil": "Plagwitz",
-        "Kategorien": "Maschinenbau, Buchbindermaschinen",
+        "Kategorien": "Maschinenbau, schinen",
         "Nutzung": "",
         "Mutterkonzern": "Karl-Heine-Straße 111",
         "Quellen": "Leipzig Lexikon",
@@ -788,7 +828,7 @@
         "name": "Fa. Dr. Heinrich König & Co., Gebrüder Brehmer",
         "description": "Ab 1925: Gebrüder Brehmer",
         "Stadtteil": "Plagwitz",
-        "Kategorien": "Maschinenbau, Buchbindermaschinen",
+        "Kategorien": "Maschinenbau, schinen",
         "Nutzung": "",
         "Mutterkonzern": "Karl-Heine-Straße 111",
         "Quellen": "Leipzig Lexikon",
@@ -809,7 +849,7 @@
         "name": "F. Köhlers Witwe & Sohn, Gebrüder Brehmer",
         "description": "Ab 1926: Gebrüder Brehmer",
         "Stadtteil": "Plagwitz",
-        "Kategorien": "Maschinenbau, Buchbindermaschinen",
+        "Kategorien": "Maschinenbau, schinen",
         "Nutzung": "",
         "Mutterkonzern": "Karl-Heine-Straße 111",
         "Quellen": "Leipzig Lexikon",
@@ -868,9 +908,9 @@
         "marker-symbol": "circle-stroked",
         "Adresse": "Theodor-Neubauer-Straße 60 (vorher: Karl-Krause-Str. 60), Leipzig",
         "name": "Karl Krause Fabrik",
-        "description": "1873: Bau der Fabrik. 1948: Polygraph Karl Krause VEB Papierverarbeitungsmaschinen. 1951: VEB Polygraph Buchbindermaschinenwerk (Bubima). 1959/1960 Vereinigung mit Gebrüder Brehmer (Karl-Heine-Str. 111) zu VEB Leipziger Buchbindereimaschinenwerke",
+        "description": "1873: Bau der Fabrik. 1948: Polygraph Karl Krause VEB Papierverarbeitungsmaschinen. 1951: VEB Polygraph schinenwerk (Bubima). 1959/1960 Vereinigung mit Gebrüder Brehmer (Karl-Heine-Str. 111) zu VEB Leipziger Buchbindereimaschinenwerke",
         "Stadtteil": "Anger-Crottendorf",
-        "Kategorien": "Maschinenbau, Buchbindermaschinen",
+        "Kategorien": "Maschinenbau, schinen",
         "WKII": "Flugzeugteile, Panzer-Ersatzteilproduktion. Beschäftigung von Zwangsarbeitern",
         "Nutzung": "2013/2023: Umbau zu Wohnungen",
         "Quellen": "Leipziger Industriekultur, Wikipedia",
@@ -889,10 +929,10 @@
         "marker-symbol": "circle-stroked",
         "Adresse": "Zschochersche Straße 78, Leipzig",
         "name": "Swiderski, Industriewerke GmbH",
-        "description": "1888: Swiderskii (Petroleummotoren). 1897: Leipziger Dampfmaschinen- & Motorenfabrik vormals Ph. Swiderski. 1900: Maschinenbau-Aktiengesellschaft vorm. Ph. Swiderski. 1916: Industriewerke GmbH (Druckereipressen). 1927: Georg Spiess Maschinenfabrik. 1953: Bogenanlegerwerk",
+        "description": "1888: Swiderski (Petroleummotoren). 1897: Leipziger Dampfmaschinen- & Motorenfabrik vormals Ph. Swiderski. 1900: Maschinenbau-Aktiengesellschaft vorm. Ph. Swiderski. 1916: Industriewerke GmbH (Druckereipressen). 1927: Georg Spiess Maschinenfabrik. 1953: Bogenanlegerwerk",
         "Stadtteil": "Kleinzschocher",
         "Nachwende": "Treuhand. Mitte der 1990er Verkauf an Rübesam Verwaltungs-GmbH, die 2013 liquidiert wurde.",
-        "Kategorien": "Maschinenbau, Buchdruckmaschinen, Buchbindermaschinen",
+        "Kategorien": "Polygraphischer Maschinenbau, Maschinenbau",
         "Nutzung": "Ruine und Brachfläche",
         "Quellen": "Wikipedia",
         "Links": "https://de.wikipedia.org/wiki/Philipp_Swiderski_Maschinenbaufabrik, https://www.bildindex.de/document/obj32030742/?medium=mi12373e02, https://www.veikkos-archiv.com/index.php?title=Zschochersche_Stra%C3%9Fe_78_(Leipzig), http://s651713287.online.de/herstell/swiderski/swiderski.html"
