@@ -82,6 +82,7 @@ data!
 * [Leipzig Lexikon](https://www.leipzig-lexikon.de/)
 * Wikipedia
   - [Liste von Gleisanschlüssen des Bahnhofs Leipzig-Plagwitz](https://de.wikipedia.org/wiki/Liste_von_Gleisanschl%C3%BCssen_des_Bahnhofs_Leipzig-Plagwitz)
+* [Historische Karte 1912 des Buchmuseum](https://s-leipzig.maps.arcgis.com/apps/webappviewer/index.html?id=d2a4ac9b64fa4c85944710b947122a75), [Kartendaten](https://github.com/buchmuseum/leipzig1912
 * [Fremd- und Zwangsarbeit im Raum Leipzig 1939-1945](https://books.google.de/books?id=Jg5ObXMJbRQC)
 * People I meet
 
