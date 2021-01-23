@@ -985,7 +985,7 @@
         "coordinates": [12.32950,51.32399]
       },
       "properties": {
-        "marker-color": "#ff0fef",
+        "marker-color": "#0f3fff",
         "marker-size": "medium",
         "marker-symbol": "circle-stroked",
         "Adresse": "Wachsmuthstraße 4, Leipzig",
@@ -993,7 +993,7 @@
         "description": "1912: J. G. Schelter & Giesecke Maschinenfabrik für Buchdruckmaschinen",
         "Stadtteil": "Plagwitz",
         "Kategorien": "Polygraphischer Maschinenbau",
-        "Nutzung": "Neubau, Gewerbe",
+        "Nutzung": "Gewerbe",
         "Quellen": "Buchmuseum",
         "Links": "https://github.com/buchmuseum/leipzig1912"
       }
