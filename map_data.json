@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "industry",
+        "type": "industrial",
         "coordinates": [12.33797, 51.33763]
       },
       "properties": {
@@ -24,7 +24,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "industry",
+        "type": "industrial",
         "coordinates": [12.33828, 51.33848]
       },
       "properties": {
@@ -44,7 +44,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "industry",
+        "type": "industrial",
         "coordinates": [12.33822, 51.33822]
       },
       "properties": {
@@ -64,7 +64,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "industry",
+        "type": "industrial",
         "coordinates": [12.33862, 51.33907]
       },
       "properties": {
@@ -84,7 +84,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "industry",
+        "type": "industrial",
         "coordinates": [12.33385, 51.33297]
       },
       "properties": {
@@ -104,7 +104,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "industry",
+        "type": "industrial",
         "coordinates": [12.32781, 51.33151]
       },
       "properties": {
@@ -125,7 +125,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "industry",
+        "type": "industrial",
         "coordinates": [12.32791, 51.33639]
       },
       "properties": {
@@ -145,7 +145,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "industry",
+        "type": "industrial",
         "coordinates": [12.33638, 51.33592]
       },
       "properties": {
@@ -164,7 +164,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "industry",
+        "type": "industrial",
         "coordinates": [12.32333, 51.33080]
       },
       "properties": {
@@ -183,7 +183,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "industry",
+        "type": "industrial",
         "coordinates": [12.32751, 51.33321]
       },
       "properties": {
@@ -203,7 +203,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "industry",
+        "type": "industrial",
         "coordinates": [12.32279, 51.33223]
       },
       "properties": {
@@ -223,7 +223,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "industry",
+        "type": "industrial",
         "coordinates": [12.32314, 51.32993]
       },
       "properties": {
@@ -242,7 +242,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "industry",
+        "type": "industrial",
         "coordinates": [12.32316, 51.32979]
       },
       "properties": {
@@ -261,7 +261,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "industry",
+        "type": "industrial",
         "coordinates": [12.32296, 51.32952]
       },
       "properties": {
@@ -280,7 +280,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "industry",
+        "type": "industrial",
         "coordinates": [12.327462, 51.3276]
       },
       "properties": {
@@ -300,7 +300,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "industry",
+        "type": "industrial",
         "coordinates": [12.32676, 51.32439]
       },
       "properties": {
@@ -320,7 +320,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "industry",
+        "type": "industrial",
         "coordinates": [12.337532, 51.33396]
       },
       "properties": {
@@ -339,7 +339,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "industry",
+        "type": "industrial",
         "coordinates": [12.32538, 51.32457]
       },
       "properties": {
@@ -361,7 +361,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "industry",
+        "type": "industrial",
         "coordinates": [12.32463, 51.32439]
       },
       "properties": {
@@ -382,7 +382,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "industry",
+        "type": "industrial",
         "coordinates": [12.34014, 51.33672]
       },
       "properties": {
@@ -402,7 +402,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "industry",
+        "type": "industrial",
         "coordinates": [12.34178, 51.33718]
       },
       "properties": {
@@ -422,7 +422,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "industry",
+        "type": "industrial",
         "coordinates": [12.33383, 51.33479]
       },
       "properties": {
@@ -442,7 +442,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "industry",
+        "type": "industrial",
         "coordinates": [12.333142, 51.3348]
       },
       "properties": {
@@ -462,7 +462,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "industry",
+        "type": "industrial",
         "coordinates": [12.33417, 51.33461]
       },
       "properties": {
@@ -482,7 +482,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "industry",
+        "type": "industrial",
         "coordinates": [12.33417, 51.33362]
       },
       "properties": {
@@ -502,7 +502,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "industry",
+        "type": "industrial",
         "coordinates": [12.33439, 51.33383]
       },
       "properties": {
@@ -522,7 +522,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "industry",
+        "type": "industrial",
         "coordinates": [12.33492, 51.33379]
       },
       "properties": {
@@ -542,7 +542,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "industry",
+        "type": "industrial",
         "coordinates": [12.33484, 51.33344]
       },
       "properties": {
@@ -562,7 +562,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "industry",
+        "type": "industrial",
         "coordinates": [12.32841, 51.33013]
       },
       "properties": {
@@ -582,7 +582,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "industry",
+        "type": "industrial",
         "coordinates": [12.32808, 51.33006]
       },
       "properties": {
@@ -602,7 +602,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "industry",
+        "type": "industrial",
         "coordinates": [12.32802, 51.33066]
       },
       "properties": {
@@ -623,7 +623,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "industry",
+        "type": "industrial",
         "coordinates": [12.32665, 51.32967]
       },
       "properties": {
@@ -646,7 +646,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "industry",
+        "type": "industrial",
         "coordinates": [12.32959, 51.32972]
       },
       "properties": {
@@ -669,7 +669,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "industry",
+        "type": "industrial",
         "coordinates": [12.326396, 51.32906]
       },
       "properties": {
@@ -690,7 +690,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "industry",
+        "type": "industrial",
         "coordinates": [12.32554, 51.32897]
       },
       "properties": {
@@ -712,7 +712,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "industry",
+        "type": "industrial",
         "coordinates": [12.32488, 51.32886]
       },
       "properties": {
@@ -733,7 +733,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "industry",
+        "type": "industrial",
         "coordinates": [12.32506, 51.33383]
       },
       "properties": {
@@ -754,7 +754,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "industry",
+        "type": "industrial",
         "coordinates": [12.32604, 51.32505]
       },
       "properties": {
@@ -774,7 +774,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "industry",
+        "type": "industrial",
         "coordinates": [12.32745, 51.33679]
       },
       "properties": {
@@ -794,7 +794,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "industry",
+        "type": "industrial",
         "coordinates": [12.32831, 51.32892]
       },
       "properties": {
@@ -815,7 +815,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "industry",
+        "type": "industrial",
         "coordinates": [12.33102, 51.32869]
       },
       "properties": {
@@ -836,7 +836,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "industry",
+        "type": "industrial",
         "coordinates": [12.32898, 51.32896]
       },
       "properties": {
@@ -857,7 +857,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "industry",
+        "type": "industrial",
         "coordinates": [12.3250, 51.32805]
       },
       "properties": {
@@ -878,7 +878,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "industry",
+        "type": "industrial",
         "coordinates": [12.32399, 51.32764]
       },
       "properties": {
@@ -899,7 +899,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "industry",
+        "type": "industrial",
         "coordinates": [12.32618, 51.32854]
       },
       "properties": {
@@ -920,7 +920,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "industry",
+        "type": "industrial",
         "coordinates": [12.40242, 51.34600]
       },
       "properties": {
@@ -940,7 +940,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "industry",
+        "type": "industrial",
         "coordinates": [12.404369631060613, 51.34554584725326]
       },
       "properties": {
@@ -960,7 +960,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "industry",
+        "type": "industrial",
         "coordinates": [12.4187481, 51.3358496]
       },
       "properties": {
@@ -981,7 +981,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "industry",
+        "type": "industrial",
         "coordinates": [12.32950,51.32399]
       },
       "properties": {
@@ -1001,7 +1001,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "industry",
+        "type": "industrial",
         "coordinates": [12.33361, 51.32548]
       },
       "properties": {
