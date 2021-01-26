@@ -10,7 +10,7 @@
       "properties": {
         "marker-color": "#0f3fff",
         "marker-size": "medium",
-        "marker-symbol": "circle-stroked",
+        "marker-symbol": "industrial",
         "Adresse": "Angerstraße 13-15, Leipzig",
         "name": "Kakao- und Schokoladenfabrik. Automobilkühler",
         "description": "1924: Thurm & Wunder Nachfahren Kakao- und Schokoladenfabrik. 1939 Automobilkühler Vollrath & Co. 1948: Traktoren- und Auto-Reparatur",
@@ -30,7 +30,7 @@
       "properties": {
         "marker-color": "#0f3fff",
         "marker-size": "medium",
-        "marker-symbol": "circle-stroked",
+        "marker-symbol": "industrial",
         "Adresse": "Angerstraße 18, Leipzig",
         "name": "Fleischwaren- und Feinkost-Fabrik. VEB Delicata",
         "description": "1924: Dr. Allendorf & Co. Nährmittel, 1946: Johannes Möbius Handhebelfräsmaschinen und Haushaltmaschinen",
@@ -50,7 +50,7 @@
       "properties": {
         "marker-color": "#0f3fff",
         "marker-size": "medium",
-        "marker-symbol": "circle-stroked",
+        "marker-symbol": "industrial",
         "Adresse": "Angerstraße 20-22, Leipzig",
         "name": "Fleischwaren- und Feinkost-Fabrik. VEB Delicata",
         "description": "Fleischwaren- und Feinkost-Fabrik Otto Berthold. VEB Delicata Fleischwaren- und Feinkost-Fabrik.VEB Fleischkombinat Leipzig Schlacht- und Verarbeitungsbetrieb Delicata",
@@ -70,7 +70,7 @@
       "properties": {
         "marker-color": "#0f3fff",
         "marker-size": "medium",
-        "marker-symbol": "circle-stroked",
+        "marker-symbol": "industrial",
         "Adresse": "Angerstraße 26/28, Leipzig",
         "name": "VEB Kolloidchemie",
         "description": "",
@@ -90,7 +90,7 @@
       "properties": {
         "marker-color": "#ff0fef",
         "marker-size": "medium",
-        "marker-symbol": "circle-stroked",
+        "marker-symbol": "industrial",
         "Adresse": "Aurelienstrasse 20/22, Leipzig",
         "name": "Kohlbach & Co. G.m.b.H. Maschinenfabrik",
         "description": "1912: Kohlbach & Co. G.m.b.H. Maschinenfabrik",
@@ -110,7 +110,7 @@
       "properties": {
         "marker-color": "#0f3fff",
         "marker-size": "medium",
-        "marker-symbol": "circle-stroked",
+        "marker-symbol": "industrial",
         "Adresse": "Aurelienstrasse 62-64, Leipzig",
         "name": "Landmaschinenfabrik Rudolph Sack, VEB Bodenbearbeitungsgeräte",
         "description": "Ab 1912 Rudolph Sack KG.",
@@ -131,7 +131,7 @@
       "properties": {
         "marker-color": "#9f0fff",
         "marker-size": "medium",
-        "marker-symbol": "circle-stroked",
+        "marker-symbol": "industrial",
         "Adresse": "Demmeringstraße 47/49, Leipzig",
         "name": "Schokoladenfabrik Schwarze & Röder, Sazstangenfabrik",
         "description": "1924: Schwarze & Röder Schokoladenfabrik. Später Salzstangenfabrik",
@@ -151,7 +151,7 @@
       "properties": {
         "marker-color": "#0f3fff",
         "marker-size": "medium",
-        "marker-symbol": "circle-stroked",
+        "marker-symbol": "industrial",
         "Adresse": "Dreilindenstraße 4-6, Leipzig",
         "name": "Hanns & Römer Maschinenfabrik. VEB Forschung und Rationalisierung",
         "description": "1893: Leipziger Teigtheilmaschinen- und Backofenarmaturenfabrik Louis Augustin. 1900: Gießkannenfabrik, Buchdruckerei H. Schmidt. 1904: Fa. Louis Augustin, Leipziger Teigteilmaschinen und Backofenbaufabrik (Knetmaschinen für Hand- oder Kraftbetrieb, komplette Bäckerei- sowie Konditorei-Anlagen). 1925: Fa. Ciliax (Taschen-Inhalator 'Columbo') 1933: Leipziger Hebezeugbau GmbH. 1937: Hanns & Römer, Maschinenfabrik (Maschinen für die Süßwarenindustrie). 1957: Umwandlung in Kommanditgesellschaft Hanns & Römer KG, Bonbonmaschinenfabrik. 1972: Überführung in Vokseigentum, Teil der VVB Süß- und Dauerbackwaren, später VEB Kombinat Süßwaren Delitzsch und VEB Forschung und Rationalisierung Leipzig.",
@@ -170,7 +170,7 @@
       "properties": {
         "marker-color": "#0f3fff",
         "marker-size": "medium",
-        "marker-symbol": "circle-stroked",
+        "marker-symbol": "industrial",
         "Adresse": "Endersstrasse 64 (früher Kaiser-Straße 64), Leipzig",
         "name": "Drahtheftmaschinen-Fabrik Wilh. Mallien Maschinenfabrik, Strukturfabrik",
         "description": "1912: Drahtheftmaschinen-Fabrik Wilh. Mallien Maschinenfabrik.",
@@ -189,8 +189,8 @@
       "properties": {
         "marker-color": "#0f3fff",
         "marker-size": "medium",
-        "marker-symbol": "circle-stroked",
-        "Adresse": "Endersstrasse 26-32 (früher Kaiser[-Wilhelm]-Straße 24-26), Leipzig",
+        "marker-symbol": "industrial",
+        "Adresse": "Endersstrasse 26-32 (früher Kaiser-Straße 24-26), Leipzig",
         "name": "Vulkan Gummiwarenfabrik, Elguwa Werk III",
         "description": "1890: Falz & Werner Leipzig - Fabrik photographischer Apparate. 'Vulkan' Gummiwarenfabrik Weiß & Baeßler AG. VEB Kombinat Elbit, Elguwa Leipzig, Werk III. Herr Müller sagte mir: im Keller wurde die Rohmischung für den Gummi hergestellt. Im 1. Stock war Presserei. im 2. Stock Herstellung von Schaumstoffeinlagen für BHs und Verdunkelungsgewebe für die NVA. im 3. Stock Herstellung von Dichtgummi für Trabant und Wartburg. Das Hauptlager von Elguwa hätte sich in einem roten Backsteinbau Engertstrasse befunden (Engert 5, 6, oder 8?). Zwischen Elguwa und Tapetenwerk hätte sich ein Heizhaus befunden.",
         "Mutterkonzern": "Elguwa",
@@ -209,7 +209,7 @@
       "properties": {
         "marker-color": "#9f0fff",
         "marker-size": "medium",
-        "marker-symbol": "circle-stroked",
+        "marker-symbol": "industrial",
         "Adresse": "Engertstraße 5, Leipzig",
         "name": "Leipziger Spitzenfabrik Barth & Co",
         "description": "Fabrikgebäude um 1900",
@@ -229,7 +229,7 @@
       "properties": {
         "marker-color": "#0f3fff",
         "marker-size": "medium",
-        "marker-symbol": "circle-stroked",
+        "marker-symbol": "industrial",
         "Adresse": "Engertstraße 6, Leipzig",
         "name": "Maschinenband-Weberei, VEB Technische Textilien",
         "description": "1910: Gravieranstalt C. Leistner. 1943: Hofgebäude: Maschinenband-Weberei Gebrüder Köter. 1987: VEB Technische Textilien Meerane",
@@ -248,7 +248,7 @@
       "properties": {
         "marker-color": "#0f3fff",
         "marker-size": "medium",
-        "marker-symbol": "circle-stroked",
+        "marker-symbol": "industrial",
         "Adresse": "Engertstraße 8, Leipzig",
         "name": "Maschinenband-Weberei Gebrüder Köter, VEB Band- und Treibriemenwerk",
         "description": "Maschinenband-Weberei Gebrüder Köter (dehnlose Maschinenbänder für das graphische Gewerbe und Heftbänder für Maschinen- und Handheftung)",
@@ -267,7 +267,7 @@
       "properties": {
         "marker-color": "#0f3fff",
         "marker-size": "medium",
-        "marker-symbol": "circle-stroked",
+        "marker-symbol": "industrial",
         "Adresse": "Engertstraße 10-12 (früher: Friedrich-August-Straße 6), Leipzig",
         "name": "Schokoladenfabrik Quarg & Co., Spiralbohrer- und Werkzeugfabrik",
         "description": "1907: Leipziger Chocoladen- und Zuckerwarenfabrik Wippert & Quarg. Spiralbohrer- und Werkzeugfabrik Franz & Maßmann",
@@ -286,7 +286,7 @@
       "properties": {
         "marker-color": "#0f3fff",
         "marker-size": "medium",
-        "marker-symbol": "circle-stroked",
+        "marker-symbol": "industrial",
         "Adresse": "Gießerstraße 18, Leipzig",
         "name": "Metallgießerei und Metallwarenfabrik Stoll & Elschner, Rudolf Sack, VEB Bodenbearbeitungsgeräte",
         "description": "Metallgießerei und Metallwarenfabrik Stoll & Elschner (um 1900), später Salpeter-Werke AG, 1942 Werkzeugbau der Fa. R. Sack, zu DDR-Zeiten VEB Bodenbearbeitungsgeräte",
@@ -306,7 +306,7 @@
       "properties": {
         "marker-color": "#5ddc18",
         "marker-size": "medium",
-        "marker-symbol": "circle-stroked",
+        "marker-symbol": "industrial",
         "Adresse": "Gießerstraße 42, Leipzig",
         "name": "Siemens Compressor Systems",
         "description": "",
@@ -326,7 +326,7 @@
       "properties": {
         "marker-color": "#0f3fff",
         "marker-size": "medium",
-        "marker-symbol": "circle-stroked",
+        "marker-symbol": "industrial",
         "Adresse": "Kindstraße 4 (früher: Kurze Straße 4), Leipzig",
         "name": "Chocoladen- und Zuckerwaaren-Fabrik, Schokoladenfabrik Emil Richter, VEB Süßwaren Leipzig",
         "description": "1887: C. E. Michaelis Chocoladen- und Zuckerwaaren-Fabrik. 1924: Schokoladenfabrik Emil Richter. 1980 VEB Leipziger Süßwarenbetriebe Leipzig. Teil des VEB Kombinat Süßwaren Delitzsch.",
@@ -345,7 +345,7 @@
       "properties": {
         "marker-color": "#5ddc18",
         "marker-size": "medium",
-        "marker-symbol": "circle-stroked",
+        "marker-symbol": "industrial",
         "Adresse": "Klingenstraße 12 und 15, Leipzig",
         "name": "Siemens Compressor Systems",
         "description": "1898 Pumpen- und Gebläsewerk C. H. Jaeger & Co., 1952 VEB Pumpen- und Gebläsewerk PGW, Siemens Compressor Systems",
@@ -367,7 +367,7 @@
       "properties": {
         "marker-color": "#ff0fef",
         "marker-size": "medium",
-        "marker-symbol": "circle-stroked",
+        "marker-symbol": "industrial",
         "Adresse": "Klingenstraße 16-18, Leipzig",
         "name": "Pumpen- und Gebläsewerk C. H. Jaeger & Co., VEB Pumpen- und Gebläsewerk",
         "description": "1898 Pumpen- und Gebläsewerk C. H. Jaeger & Co., 1952 VEB Pumpen- und Gebläsewerk PGW, Siemens Compressor Systems",
@@ -388,7 +388,7 @@
       "properties": {
         "marker-color": "#0f3fff",
         "marker-size": "medium",
-        "marker-symbol": "circle-stroked",
+        "marker-symbol": "industrial",
         "Adresse": "Luppenstraße 1-1b, Leipzig",
         "name": "Kofferfabrik Moritz Mädler, VEB Metallwaren, VEB Werkzeuge",
         "description": "1933: Kofferfabrik Mädler, C. M. Schwarz G.m.b.H., Fabrik automatischer Maschinen. 1946: Tura Automatenfabrik G.m.b.H. (Spielautomaten), Tegeler & Co. (Buntpapiere, Kalender, u.a.). Nach 1945: VEB Werkzeuge Leipzig (Bohrwerkzeuge und Druckluftnagler). 1978: VEB Werkzeuge Leipzig im VEB Werkzeugkombinat Schmalkalden (Druckluftnagler, Heftklammern). 1996: Institut für Geschichte und Kultur des östlichen Europa (GWZO).",
@@ -408,7 +408,7 @@
       "properties": {
         "marker-color": "#0fc3ff",
         "marker-size": "medium",
-        "marker-symbol": "circle-stroked",
+        "marker-symbol": "industrial",
         "Adresse": "Luppenstraße 24, Leipzig",
         "name": "Seifen- und Parfümerie-Fabrik. Rauchwaren-Blenderei und Färberei. Krügerol-Fabrik",
         "description": "1889: Seifen- und Parfümerie-Fabrik Wilh. Pauling & Schrauth, Dampf-Seifenfabrik. 1926: Rauchwaren-Blenderei und Färberei J. Ch. Lauer & Sohn. nach 1945: Firma Curt Langhammer (Piano-Mechanik- und Piano-Klaviatur-Reparaturen). Fa. Telefon- und Signal-Anlagen Rudolf Weber. VEB Zuckerwarenfabrik, vormals Fa. Richard Krüger (Krügerol Halsbonbons) bis Ende 1990er.",
@@ -428,7 +428,7 @@
       "properties": {
         "marker-color": "#0f3fff",
         "marker-size": "medium",
-        "marker-symbol": "circle-stroked",
+        "marker-symbol": "industrial",
         "Adresse": "Josephstraße 13, Leipzig",
         "name": "K. Gebler Maschinenfabrik",
         "description": "1912: K. Gebler Maschinenfabrik, Spez. Buchbinderei- und Kartonagen-Maschinen",
@@ -448,7 +448,7 @@
       "properties": {
         "marker-color": "#0f3fff",
         "marker-size": "medium",
-        "marker-symbol": "circle-stroked",
+        "marker-symbol": "industrial",
         "Adresse": "Josephstraße 14, Leipzig",
         "name": "Maschinenbauanstalt Becker & Heine",
         "description": "1911: Maschinenbauanstalt Becker & Heine im Hofgebäude",
@@ -468,7 +468,7 @@
       "properties": {
         "marker-color": "#0f3fff",
         "marker-size": "medium",
-        "marker-symbol": "circle-stroked",
+        "marker-symbol": "industrial",
         "Adresse": "Josephstraße 17, Leipzig",
         "name": "Leipziger Schraubenfabrik Günther & Teichert, Metallwarenfabrik F. Schulze",
         "description": "1910: Leipziger Schraubenfabrik Günther & Teichert, 1943: Metallwarenfabrik F. Schulze",
@@ -488,7 +488,7 @@
       "properties": {
         "marker-color": "#0f3fff",
         "marker-size": "medium",
-        "marker-symbol": "circle-stroked",
+        "marker-symbol": "industrial",
         "Adresse": "Josephstraße 28, Leipzig",
         "name": "Fabrik gummierter Papiere, Gummier- und Lackier-Anstalt",
         "description": "1906: Fabrik gummierter Papiere (Parterre), 1936: Fabrik gummierter Papiere, Gummier- und Lackier-Anstalt, 1943: Hero-Fabrikate. 1987: Sitz des Bezirksvorstandes Leipzig der Vereinigung der gegenseitigen Bauernhilfe (VdgB).",
@@ -508,7 +508,7 @@
       "properties": {
         "marker-color": "#0f3fff",
         "marker-size": "medium",
-        "marker-symbol": "circle-stroked",
+        "marker-symbol": "industrial",
         "Adresse": "Josephstraße 29, Leipzig",
         "name": "Läco Maschinenfabrik",
         "description": "1949: Läco Maschinenfabrik Paul Tschentscher",
@@ -528,7 +528,7 @@
       "properties": {
         "marker-color": "#0f3fff",
         "marker-size": "medium",
-        "marker-symbol": "circle-stroked",
+        "marker-symbol": "industrial",
         "Adresse": "Josephstraße 31, Leipzig",
         "name": "Koffer-Manufaktur Just & Co., Maschinen-Fabrik Reinhold Wünschmann",
         "description": "Koffer-Manufaktur Just & Co., 1939: Maschinen-Fabrik Reinhold Wünschmann (Maschinen zur Kerzen-Fabrikation, Einrichtung von Kerzen-Fabriken)",
@@ -548,7 +548,7 @@
       "properties": {
         "marker-color": "#0f3fff",
         "marker-size": "medium",
-        "marker-symbol": "circle-stroked",
+        "marker-symbol": "industrial",
         "Adresse": "Josephstraße 35, Leipzig",
         "name": "Apparatebau-Anstalt und Kupferschmiederei ",
         "description": "1902: Apparatebau-Anstalt und Kupferschmiederei Albert Schale (Kupferwaren, Dampf-, Wasser- und Heizungs-Anlagen)",
@@ -568,7 +568,7 @@
       "properties": {
         "marker-color": "#ff0fef",
         "marker-size": "medium",
-        "marker-symbol": "circle-stroked",
+        "marker-symbol": "industrial",
         "Adresse": "Karl-Heine-Straße 82, Leipzig",
         "name": " Telegraphen-, Telephon- und Blitzableiterfabrik, Pianofortefabrik",
         "description": "1902: Fa. Stöcker u. Co. Telegraphen-, Telephon- und Blitzableiterfabrik/ Electrotechnische Fabrik. Pianofortefabrik Gustav Fiedler",
@@ -588,7 +588,7 @@
       "properties": {
         "marker-color": "#ff0fef",
         "marker-size": "medium",
-        "marker-symbol": "circle-stroked",
+        "marker-symbol": "industrial",
         "Adresse": "Karl-Heine-Straße 84, Leipzig",
         "name": " Telegraphen-, Telephon- und Blitzableiterfabrik, Conservenfabrik",
         "description": "1902: Fa. Stöcker u. Co. Telegraphen-, Telephon- und Blitzableiterfabrik/ Electrotechnische Fabrik. Conservenfabrik Basté u. Co.",
@@ -608,7 +608,7 @@
       "properties": {
         "marker-color": "#ff0fef",
         "marker-size": "medium",
-        "marker-symbol": "circle-stroked",
+        "marker-symbol": "industrial",
         "Adresse": "Karl-Heine-Straße 78-90 (früher Carl-Heinestraße, Albertstraße, Allestraße), Leipzig",
         "name": "Landmaschinenfabrik Rudolph Sack, VEB Bodenbearbeitungsgeräte",
         "description": "Ab 1881: Erwerb der Grundstücke durch Rudolf Sack, 1890 Stahlgießerei mit Siemens-Ofen und Gasgenerator. Nach 1945: Rudolf Sack, Bodenbearbeitungsgeräte für Gespann- und Kraftzug. VEB Land-, Bau- und Holzbearbeitungsmaschinen. VEB LBH Bodenbearbeitungsgeräte.",
@@ -629,7 +629,7 @@
       "properties": {
         "marker-color": "#ff0fef",
         "marker-size": "medium",
-        "marker-symbol": "circle-stroked",
+        "marker-symbol": "industrial",
         "Adresse": "Karl-Heine-Straße 92-98 und Gießerstrasse 8-10, Leipzig",
         "name": "Meier & Weichelt. VEB Leipziger Eisen- und Stahlwerke. GUS. GISAG",
         "description": "1874: Meier & Weichelt. VEB Leipziger Eisen- und Stahlwerke, 1948: GUS Leipziger Eisen- und Stahlwerke. 1966: VEB Gießereinanlagen. VEB der GUS Vereinigung Volkseigener Betriebe Guß- und Schmiedeerzeugnisse Leipzig. 1969: VEB Kombinat Kombinat Gießereianlagenbau und Gußerzeugnisse (GISAG)",
@@ -652,7 +652,7 @@
       "properties": {
         "marker-color": "#ff0fef",
         "marker-size": "medium",
-        "marker-symbol": "circle-stroked",
+        "marker-symbol": "industrial",
         "Adresse": "Karl-Heine-Straße 95, Leipzig",
         "name": "Landmaschinenfabrik Rudolph Sack, VEB Bodenbearbeitungsgeräte",
         "description": "1867: Fabrikgebäude und Wohnhaus. Ab 1881 auch Karl-Heine-Straße 90, 99–101, 103-105,  Weißenfelser Straße 67, Karl-Heine-Straße 78–88, Aurelienstraße 62/64. 1937/39 Klingenstraße 22. 1948: VEB Leipziger Bodenbearbeitungsgeräte (BBG)",
@@ -675,7 +675,7 @@
       "properties": {
         "marker-color": "#0f3fff",
         "marker-size": "medium",
-        "marker-symbol": "circle-stroked",
+        "marker-symbol": "industrial",
         "Adresse": "Karl-Heine-Straße 103-105, Leipzig",
         "name": "Landmaschinenfabrik Rudolph Sack, VEB Bodenbearbeitungsgeräte",
         "description": "Graugießerei der Rudolph Sack KG.",
@@ -696,7 +696,7 @@
       "properties": {
         "marker-color": "#0f3fff",
         "marker-size": "medium",
-        "marker-symbol": "circle-stroked",
+        "marker-symbol": "industrial",
         "Adresse": "Karl-Heine-Straße 107, Leipzig",
         "name": "Parkettfußbodenfabrik, Gebrüder Brehmer, VEB Polygraph",
         "description": "1905: Parkettfußbodenfabrik A. Heym. Ab 1912 Gebrüder Brehmer.",
@@ -718,7 +718,7 @@
       "properties": {
         "marker-color": "#0f3fff",
         "marker-size": "medium",
-        "marker-symbol": "circle-stroked",
+        "marker-symbol": "industrial",
         "Adresse": "Karl-Heine-Straße 109-111 (früher Albert-Straße 61), Leipzig",
         "name": "Parkettfußbodenfabrik, Gebrüder Brehmer, VEB Polygraph",
         "description": "1879: Gebrüder Brehmer (Karl-Heine-Str 111), ab 1912 Ausweitung auf Karl-Heine Str. 107 und 109. Produktion von Heftmaschinen, Falzmaschinen und Anklebemaschinen für Buchbinderei. 1948: Volkseigentum als VEB Polygraph, Gebrüder Brehmer. 1951: VEB Falz- und Heftmaschinenwerk Leipzig. 1979: Umbenennung in VEB Kombinat Polygraph Werner Lamberz. 1987: VEB Polygraph, Buchbindereimaschinenwerke Leipzig, 1959/60: VEB Leipziger Buchbindereimaschinenwerke (LBW)",
@@ -739,7 +739,7 @@
       "properties": {
         "marker-color": "#0f3fff",
         "marker-size": "medium",
-        "marker-symbol": "circle-stroked",
+        "marker-symbol": "industrial",
         "Adresse": "Lützner Straße 93-95, Leipzig",
         "name": "Deutsche Maschinen- und Papier-Industrie-Werke, Tapetenwerk",
         "description": "1873: Tapetenfabrik Langhammer und Söhne. 1912: Deutsche Maschinen- und Papier-Industrie-Werke G.m.b.H. (Papiermaschinen). nach 1945: VEB Verpackungsmittelkombinat Leipzig. bis 2006: Leipziger Tapeten GmbH.",
@@ -760,7 +760,7 @@
       "properties": {
         "marker-color": "#0f3fff",
         "marker-size": "medium",
-        "marker-symbol": "circle-stroked",
+        "marker-symbol": "industrial",
         "Adresse": "Markranstädter Straße 29b, Leipzig",
         "name": "Walterwerke Maschinenfabrik m.b.H.",
         "description": "Walterwerke Maschinenfabrik m.b.H.",
@@ -780,7 +780,7 @@
       "properties": {
         "marker-color": "#0f3fff",
         "marker-size": "medium",
-        "marker-symbol": "circle-stroked",
+        "marker-symbol": "industrial",
         "Adresse": "Merseburger Straße 95, Leipzig",
         "name": "Schokoladenfabrik Alfred Fietsch",
         "description": "1924: Alfred Fietsch Schokoladen- und Zuckerwarenfabrik",
@@ -800,7 +800,7 @@
       "properties": {
         "marker-color": "#ff0fef",
         "marker-size": "medium",
-        "marker-symbol": "circle-stroked",
+        "marker-symbol": "industrial",
         "Adresse": "Weißenfelser Straße 69/71, Leipzig",
         "name": "Weydemeyer & Jahn Eisengießerei",
         "description": "Weydemeyer & Jahn Eisengießerei, Jahr unbekannt, Weiternutzung unbekannt",
@@ -821,7 +821,7 @@
       "properties": {
         "marker-color": "#0f3fff",
         "marker-size": "medium",
-        "marker-symbol": "circle-stroked",
+        "marker-symbol": "industrial",
         "Adresse": "Weißenfelser Straße 65, Leipzig",
         "name": "Stelzenhaus, Wellblechfabrik Grohmann & Frosch",
         "description": "1889: Wellblechwalzwerk und Verzinkerei. Nach 1945: Nutzung durch VEB Bodenbearbeitungsgerätewerk (ehem. Rudolf Sack).",
@@ -842,7 +842,7 @@
       "properties": {
         "marker-color": "#0f3fff",
         "marker-size": "medium",
-        "marker-symbol": "circle-stroked",
+        "marker-symbol": "industrial",
         "Adresse": "Weißenfelser Straße 67, Leipzig",
         "name": "Rudolf Sack Landmaschinen",
         "description": "Ab 1897 Fabrik für Dampfpflüge und Drillmaschinen.",
@@ -863,7 +863,7 @@
       "properties": {
         "marker-color": "#0f3fff",
         "marker-size": "medium",
-        "marker-symbol": "circle-stroked",
+        "marker-symbol": "industrial",
         "Adresse": "Weißenfelser Straße 73, Leipzig",
         "name": "Fa. Dr. Struve & Co, Gebrüder Brehmer",
         "description": "Ab 1924: Gebrüder Brehmer",
@@ -884,7 +884,7 @@
       "properties": {
         "marker-color": "#0f3fff",
         "marker-size": "medium",
-        "marker-symbol": "circle-stroked",
+        "marker-symbol": "industrial",
         "Adresse": "Weißenfelser Straße 75, Leipzig",
         "name": "Fa. Dr. Heinrich König & Co., Gebrüder Brehmer",
         "description": "Ab 1925: Gebrüder Brehmer",
@@ -905,7 +905,7 @@
       "properties": {
         "marker-color": "#0f3fff",
         "marker-size": "medium",
-        "marker-symbol": "circle-stroked",
+        "marker-symbol": "industrial",
         "Adresse": "Weißenfelser Straße 84, Leipzig",
         "name": "F. Köhlers Witwe & Sohn, Gebrüder Brehmer",
         "description": "Ab 1926: Gebrüder Brehmer",
@@ -926,7 +926,7 @@
       "properties": {
         "marker-color": "#0f3fff",
         "marker-size": "medium",
-        "marker-symbol": "circle-stroked",
+        "marker-symbol": "industrial",
         "Adresse": "Eisenbahnstraße 47 (früher Ernst-Thälmann-Str.), Leipzig",
         "name": "DIANA Koffer- und Lederwarenfabrik",
         "description": "vorher 'Ottomar Müller' gehört die DIANA Koffer- und Lederwarenfabrik zu DDR-Zeiten zur Vereinigung Volkseigener Betriebe (VVB) VVB Schuh- und Lederwaren (SLV) Saale",
@@ -946,7 +946,7 @@
       "properties": {
         "marker-color": "#ff0fef",
         "marker-size": "medium",
-        "marker-symbol": "circle-stroked",
+        "marker-symbol": "industrial",
         "Adresse": "Eisenbahnstraße 70 (früher Ernst-Thälmann-Str.), Leipzig",
         "name": "TRABANT Pralinen- und Schokoladenfabrik",
         "description": "ca. 1930: Alfred Pammler TRABANT Pralinen- und Schokoladenfabrik",
@@ -966,7 +966,7 @@
       "properties": {
         "marker-color": "#0f3fff",
         "marker-size": "medium",
-        "marker-symbol": "circle-stroked",
+        "marker-symbol": "industrial",
         "Adresse": "Theodor-Neubauer-Straße 60 (vorher: Karl-Krause-Str. 60), Leipzig",
         "name": "Karl Krause Fabrik",
         "description": "1873: Bau der Fabrik. 1948: Polygraph Karl Krause VEB Papierverarbeitungsmaschinen. 1951: VEB Polygraph schinenwerk (Bubima). 1959/1960 Vereinigung mit Gebrüder Brehmer (Karl-Heine-Str. 111) zu VEB Leipziger Buchbindereimaschinenwerke",
@@ -987,7 +987,7 @@
       "properties": {
         "marker-color": "#0f3fff",
         "marker-size": "medium",
-        "marker-symbol": "circle-stroked",
+        "marker-symbol": "industrial",
         "Adresse": "Wachsmuthstraße 4, Leipzig",
         "name": "J. G. Schelter & Giesecke Maschinenfabrik für Buchdruckmaschinen",
         "description": "1912: J. G. Schelter & Giesecke Maschinenfabrik für Buchdruckmaschinen",
@@ -1007,7 +1007,7 @@
       "properties": {
         "marker-color": "#9f0fff",
         "marker-size": "medium",
-        "marker-symbol": "circle-stroked",
+        "marker-symbol": "industrial",
         "Adresse": "Zschochersche Straße 78, Leipzig",
         "name": "Swiderski, Industriewerke GmbH",
         "description": "1888: Swiderski (Petroleummotoren). 1897: Leipziger Dampfmaschinen- & Motorenfabrik vormals Ph. Swiderski. 1900: Maschinenbau-Aktiengesellschaft vorm. Ph. Swiderski. 1916: Industriewerke GmbH (Druckereipressen). 1927: Georg Spiess Maschinenfabrik. 1953: Bogenanlegerwerk",
