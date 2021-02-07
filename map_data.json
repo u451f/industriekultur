@@ -816,6 +816,27 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [12.31331, 51.32519]
+      },
+      "properties": {
+        "marker-color": "#5ddc18",
+        "marker-size": "medium",
+        "marker-symbol": "industrial",
+        "Adresse": "Niemeyerstraße 2-5, Leipzig",
+        "name": "Unruh & Liebig, VEB Schwermaschinenbau S.M. Kirow, TAKRAF, Kirow Ardelt",
+        "description": "1880: als Technisches Bureau und Maschinenbauanstalt. 1887: Umbenennung in Unruh & Liebig AG. 1937: Peniger Maschinenfabrik und Unruh & Liebig AG. 1946: Maschinenfabrik Unruh & Liebig im Besitz der Sowjetunion. 1954: Rückgabe an die DDR unter dem Namen VEB Schwermaschinenbau S.M. Kirow Leipzig. 1958: Teil der TAKRAF. 1995: Kirow Leipzig AG und Kranbau Eberswalde GmbH. 2008: Kirow Ardelt GmbH",
+        "Nachwende": "Verkauf durch Treuhand für 1 DM an Geschäftsführer Ludwig Koehne",
+        "Stadtteil": "Lindenau",
+        "Kategorien": "Maschinenbau",
+        "Nutzung": "Wird weiterhin genutzt",
+        "Quellen": "Wikipedia, MDR Zeitreise",
+        "Links": "https://de.wikipedia.org/wiki/Kirow_Ardelt, https://www.mdr.de/zeitreise/wer-bezahlt-den-osten-koehne-100.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [12.32831, 51.32892]
       },
       "properties": {
