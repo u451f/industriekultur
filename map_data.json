@@ -766,6 +766,7 @@
         "description": "1891 Leipziger Drahtstift- und Drahtwarenfabrik Max Billhardt in der Naumburger Straße, ab 1898 unter dieser Adresse. Ab 1910 auch in der Nr. 4. WK II: fast komplett zerstört. Stillegung 1959. 1966 Kauf und Nutzung durch VEB Blechverformungswerk (Markranstädter Straße 2).",
         "Nachwende": "Kauf durch Manfred Rübesam, wie auch Swiderski. Seit 2018 im Besitz der CG-Gruppe",
         "Stadtteil": "Plagwitz",
+        "Gleisanschluss": "A38 PVII",
         "Kategorien": "Metallverarbeitung",
         "Nutzung": "Gewerbe und Entertainment",
         "Quellen": "Leipzig Days, Leipziger Industriekultur e.V., Military Airfields",
@@ -828,7 +829,8 @@
         "Nachwende": "Verkauf durch Treuhand für 1 DM an Geschäftsführer Ludwig Koehne",
         "Stadtteil": "Lindenau",
         "Kategorien": "Maschinenbau",
-        "Nutzung": "Wird weiterhin genutzt",
+        "Gleisanschluss": "A37 PVI",
+        "Nutzung": "Produktion von Eisenbahnkrane und Transportsysteme für Werften",
         "Quellen": "Wikipedia, MDR Zeitreise",
         "Links": "https://de.wikipedia.org/wiki/Kirow_Ardelt, https://www.mdr.de/zeitreise/wer-bezahlt-den-osten-koehne-100.html"
       }
