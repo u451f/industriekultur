@@ -755,6 +755,27 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [12.33071, 51.32514]
+      },
+      "properties": {
+        "marker-color": "#0f3fff",
+        "marker-size": "medium",
+        "marker-symbol": "industrial",
+        "Adresse": "Markranstädter Straße 4 und 6, Leipzig",
+        "name": "Leipziger Drahtstift- und Drahtwarenfabrik Max Billhardt",
+        "description": "1891 Leipziger Drahtstift- und Drahtwarenfabrik Max Billhardt in der naumburger Straße, ab 1898 unter dieser Adresse. Ab 1910 in der Nummer 4. WK II: fast komplett zerstört. Stillegung 1959. 1966 Kauf durch VEB Blechverformungswerk.",
+        "Nachwende": "Kauf durch Manfred Rübesam, wie auch Swiderski. Seit 2018 im Besitz der CG-Gruppe",
+        "Stadtteil": "Plagwitz",
+        "Kategorien": "Metallverarbeitung",
+        "Nutzung": "Gewerbe und Entertainment",
+        "Quellen": "Leipzig Days",
+        "Links": "https://www.leipzig-days.de/ehem-drahtstiftefabrik-max-billhardt/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [12.32604, 51.32505]
       },
       "properties": {
