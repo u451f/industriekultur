@@ -204,6 +204,24 @@
         "Links": "https://gruene-pforte.de/",
         "Status": "seit Corona-Krise kein Mittagessenangebot mehr. Nur Lebensmittelverkauf"
       }
-    }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.3199, 51.32792]
+      },
+      "properties": {
+        "marker-color": "#ff8f0f",
+        "marker-size": "medium",
+        "marker-symbol": "restaurant",
+        "Adresse": "Spinnereistrasse 7, Leipzig",
+        "name": "Mule",
+        "description": "Im ehemaligen Pförtnerhaus (Haus 24) der Baumwollspinnerei befindet sich heute eine Bäckerei, die Lehrküche des Café Grundmann, eine Kantine mit Restaurant und Garten.",
+        "Stadtteil": "Lindenau",
+        "Links": "https://mule-spinnerei.de/",
+        "Küche": "Backwaren, international, vielfältig, einfallsreich",
+        "Rating": "5/5"
+      }
   ]
 }
