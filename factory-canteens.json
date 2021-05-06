@@ -172,6 +172,25 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [12.33023, 51.32521]
+      },
+      "properties": {
+        "marker-color": "#ff8f0f",
+        "marker-size": "medium",
+        "marker-symbol": "restaurant",
+        "Adresse": "Markranstädter Straße 8, Leipzig",
+        "name": "Hayai",
+        "description": "Mittags-Kantine",
+        "Stadtteil": "Plagwitz",
+        "Links": "https://www.facebook.com/hayai.leipzig/",
+        "Küche": "täglich wechselnd",
+        "Rating": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [12.32926, 51.32497]
       },
       "properties": {
