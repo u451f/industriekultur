@@ -48,7 +48,7 @@
         "marker-size": "medium",
         "marker-symbol": "restaurant",
         "Adresse": "Lützner Straße 91",
-        "name": "Kantine im Tapetenwerk",
+        "name": "Rocky Maria / Kantine im Tapetenwerk",
         "description": "Restaurant im ehemaligen Tapetenwerk",
         "Stadtteil": "Lindenau",
         "Links": "https://www.tapetenwerk.de/aktuelles/speiseplan-kantine/",
@@ -68,10 +68,10 @@
         "marker-symbol": "restaurant",
         "Adresse": "Karl-Heine-Straße 93",
         "name": "Westwerk",
-        "description": "Eß-Kioske in der großen Halle des Westwerks, der ältesten Gießerei Leipzig, später Industriearmaturenwerk",
+        "description": "Essen in der großen Halle des Westwerks, der ältesten Gießerei Leipzig, später Industriearmaturenwerk",
         "Stadtteil": "Plagwitz",
         "Links": "https://westwerk-leipzig.de/",
-        "Küche": "vietnamesisch, italienisch",
+        "Küche": "vietnamesisch, italienisch, georgisch",
         "Rating": "3/5"
       }
     },
@@ -126,10 +126,10 @@
         "name": "Kesselkollektiv",
         "description": "Kantine in ehemaliger Holzfabrik. Zusammenschluß von Manusso Eis, Plagwitzer Brauerei, Rasselbock Catering, Umani Kulturgut, u.a. Es wird eine Kantine geben.",
         "Stadtteil": "Kleinzschocher",
-        "Links": "https://www.instagram.com/kesselkollektivleipzig/",
+        "Links": "https://www.rasselbock-catering.de/lunchbox-1",
         "Küche": "Internationale Gerichte, regionale Produkte, auch vegan",
         "Rating": "4/5",
-        "Status": "Januar 2021: noch nicht eröffnet."
+        "Status": "Di-Fr 11.30-13:30"
       }
     },
     {
@@ -165,7 +165,7 @@
         "description": "Bistro im Gebäude einer ehemaligen Großbäckerei",
         "Stadtteil": "Plagwitz",
         "Links": "https://bistroamkanal.de/",
-        "Küche": "Stil deutsche Kantine"
+        "Küche": "Stil einfache Kantine"
       }
     },
     {
@@ -184,7 +184,8 @@
         "Stadtteil": "Plagwitz",
         "Links": "https://www.facebook.com/hayai.leipzig/",
         "Küche": "täglich wechselnd",
-        "Rating": ""
+        "Rating": "",
+        "Status": "derzeit pausierend"
       }
     },
     {
@@ -221,7 +222,7 @@
         "description": "Lokale Produkte. Slowfood. In der ehemaligen Kammgarnspinnerei Stöhr & Co. AG",
         "Stadtteil": "Plagwitz",
         "Links": "https://gruene-pforte.de/",
-        "Status": "seit Corona-Krise kein Mittagessenangebot mehr. Nur Lebensmittelverkauf"
+        "Status": "seit Corona-Krise unregelmäßiges Mittagsangebot."
       }
     },
     {
@@ -240,7 +241,8 @@
         "Stadtteil": "Lindenau",
         "Links": "https://mule-spinnerei.de/",
         "Küche": "Backwaren, international, vielfältig, einfallsreich",
-        "Rating": "5/5"
+        "Rating": "5/5",
+        "Status": "Januar 2022: derzeit kein Mittagstisch"
       }
     }
   ]
