@@ -13,11 +13,12 @@
         "marker-symbol": "restaurant",
         "Adresse": "Niemeyerstraße 11b, Leipzig",
         "name": "Kirow Kantine",
-        "description": "Fabrikkantine der Firma Kirow Ardelt GmbH (Weltmarktführer für Eisenbahnkrane und Transportsysteme für Werften). Teilweise offen für Nicht-Mitarbeitende.",
+        "description": "Fabrikkantine der Firma Kirow Ardelt GmbH (Weltmarktführer für Eisenbahnkrane und Transportsysteme für Werften). Zwischen 12:30 und 14:00 offen für Nicht-Mitarbeitende.",
         "Stadtteil": "Lindenau",
         "Links": "https://www.kirow-kantine.de/",
         "Küche": "deutsch, international, vielfältig, einfallsreich",
-        "Rating": "5/5"
+        "Rating": "5/5",
+        "Status": "Mo-Fr 12:30-14:00"
       }
     },
     {
@@ -53,7 +54,8 @@
         "Stadtteil": "Lindenau",
         "Links": "https://www.tapetenwerk.de/aktuelles/speiseplan-kantine/",
         "Küche": "Lokal, auch vegetarisch/vegan",
-        "Rating": "5/5"
+        "Rating": "5/5",
+        "Status": "Mo-Fr 11:30-15:00"
       }
     },
     {
@@ -124,7 +126,7 @@
         "marker-symbol": "restaurant",
         "Adresse": "Klingenstraße 22",
         "name": "Kesselkollektiv",
-        "description": "Kantine in ehemaliger Holzfabrik. Zusammenschluß von Manusso Eis, Plagwitzer Brauerei, Rasselbock Catering, Umani Kulturgut, u.a. Es wird eine Kantine geben.",
+        "description": "Kantine in ehemaliger Holzfabrik.",
         "Stadtteil": "Kleinzschocher",
         "Links": "https://www.rasselbock-catering.de/lunchbox-1",
         "Küche": "Internationale Gerichte, regionale Produkte, auch vegan",
@@ -179,13 +181,13 @@
         "marker-size": "medium",
         "marker-symbol": "restaurant",
         "Adresse": "Markranstädter Straße 8, Leipzig",
-        "name": "Hayai",
-        "description": "Mittags-Kantine",
+        "name": "Samstagsmarkt",
+        "description": "Kantine",
         "Stadtteil": "Plagwitz",
-        "Links": "https://www.facebook.com/hayai.leipzig/",
-        "Küche": "täglich wechselnd",
+        "Links": "https://samstagsmarkt.de/",
+        "Küche": "japanisch und andere",
         "Rating": "",
-        "Status": "Januar 2022: derzeit pausierend"
+        "Status": "Sonnabends 9:00-14:00"
       }
     },
     {
@@ -204,7 +206,8 @@
         "Stadtteil": "Plagwitz",
         "Links": "https://www.philippus-leipzig.de/catering/cafeteria-m9/",
         "Küche": "Stil deutsche Kantine",
-        "Rating": "4/5"
+        "Rating": "4/5",
+        "Status": "Mo-Fr 11:30-14:00"
       }
     },
     {
@@ -222,7 +225,7 @@
         "description": "Lokale Produkte. Slowfood. In der ehemaligen Kammgarnspinnerei Stöhr & Co. AG",
         "Stadtteil": "Plagwitz",
         "Links": "https://gruene-pforte.de/",
-        "Status": "seit Corona-Krise unregelmäßiges Mittagsangebot."
+        "Status": "Unregelmäßiges Mittagsangebot."
       }
     },
     {
@@ -242,7 +245,7 @@
         "Links": "https://mule-spinnerei.de/",
         "Küche": "Backwaren, international, vielfältig, einfallsreich",
         "Rating": "5/5",
-        "Status": "Januar 2022: derzeit kein Mittagstisch"
+        "Status": "Mo-Sa 11:00-18:00"
       }
     }
   ]
