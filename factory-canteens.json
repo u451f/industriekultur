@@ -247,6 +247,27 @@
         "Rating": "5/5",
         "Status": "Mo-Sa 11:00-18:00"
       }
+    },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.3315, 51.3248]
+      },
+      "properties": {
+        "marker-color": "#ff8f0f",
+        "marker-size": "medium",
+        "marker-symbol": "restaurant",
+        "Adresse": "Markranstädter Strasse 1, Leipzig",
+        "name": "Hamakom",
+        "description": "Pförtnerhaus der ehemaligen Werkzeugmaschinenfabrik Ferdinand Kunad; Metallfabrik I. Eberspächer; später VEB Blechverformungswerk",
+        "Stadtteil": "Plagwitz",
+        "Links": "https://hamakom-leipzig.de/",
+        "Küche": "koscher",
+        "Rating": "",
+        "Status": "Di,Do 15:00-18:00, Sa 11:00-16:00"
+      }
     }
   ]
 }
