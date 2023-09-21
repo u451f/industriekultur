@@ -70,11 +70,11 @@
         "marker-symbol": "restaurant",
         "Adresse": "Karl-Heine-Straße 93",
         "name": "Westwerk",
-        "description": "Essen in der großen Halle des Westwerks, der ältesten Gießerei Leipzig, später Industriearmaturenwerk",
+        "description": "Essen in der großen Halle des Westwerks, der ältesten Gießerei Leipzig, später Industriearmaturenwerk. Auch der Konsum bietet Mittagessen unter der Woche.",
         "Stadtteil": "Plagwitz",
         "Links": "https://westwerk-leipzig.de/",
-        "Küche": "vietnamesisch, italienisch, georgisch",
-        "Rating": "3/5"
+        "Küche": "georgisch, indisch, italienisch, vietnamesisch",
+        "Rating": "4/5"
       }
     },
     {
