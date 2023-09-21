@@ -119,24 +119,6 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [12.33145, 51.3286]
-      },
-      "properties": {
-        "marker-color": "#ff8f0f",
-        "marker-size": "medium",
-        "marker-symbol": "restaurant",
-        "Adresse": "Weißenfelser Straße 65, Leipzig",
-        "name": "Stelzenhaus Restaurant",
-        "description": "Restaurant in der ehemaligen Wellblechfabrik Grohmann & Frosch.",
-        "Stadtteil": "Plagwitz",
-        "Links": "https://www.tripadvisor.com/Restaurant_Review-g187400-d1341861-Reviews-Stelzenhaus_Restaurant_Gastro_GbR-Leipzig_Saxony.html",
-        "Status": "geschlossen"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
         "coordinates": [12.32993, 51.32661]
       },
       "properties": {
