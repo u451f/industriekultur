@@ -249,6 +249,25 @@
         "Küche": "koscheres Café",
         "Rating": "",
         "Status": "Di,Do 15:00-18:00, Sa 11:00-16:00"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.3315365, 51.3248347]
+      },
+      "properties": {
+        "marker-color": "#ff8f0f",
+        "marker-size": "medium",
+        "marker-symbol": "restaurant",
+        "Adresse": "Röckener Strasse 44, Leipzig",
+        "name": "Heiter bis Wolkig",
+        "description": "Freiluftcafé auf dem ehemaligen Güterbahnhof Plagwitz",
+        "Stadtteil": "Plagwitz",
+        "Links": "https://www.leipzig-leben.de/heiter-bis-wolkig/",
+        "Küche": "Café",
+        "Rating": "",
+        "Status": "Mi-So 14:00-22:00 in der warmen Jahreszeit"
       }
     }
   ]
