@@ -130,7 +130,7 @@
         "description": "Bistro im Gebäude einer ehemaligen Großbäckerei",
         "Stadtteil": "Plagwitz",
         "Links": "https://bistroamkanal.de/",
-        "Küche": "Stil einfache Kantine"
+        "Küche": "einfache Kantine"
       }
     },
     {
@@ -144,13 +144,13 @@
         "marker-size": "medium",
         "marker-symbol": "restaurant",
         "Adresse": "Markranstädter Straße 8, Leipzig",
-        "name": "Samstagsmarkt",
-        "description": "Kantine",
+        "name": "Samstagsmarkt & Freitags-Apéro",
+        "description": "regionaler Bio-Markt",
         "Stadtteil": "Plagwitz",
         "Links": "https://samstagsmarkt.de/",
-        "Küche": "japanisch und andere",
-        "Rating": "",
-        "Status": "Sonnabends 9:00-14:00"
+        "Küche": "japanisch u.a.",
+        "Rating": "5/5",
+        "Status": "Sonnabends 9:00-14:00 und jeden ersten Freitag im Monat von 17-20 Uhr"
       }
     },
     {
@@ -168,8 +168,8 @@
         "description": "Kantine in der ehemaligen Blechwarenfabrik Felix Lasse; später Famos-Spielzeugfabrik.",
         "Stadtteil": "Plagwitz",
         "Links": "https://www.philippus-leipzig.de/catering/cafeteria-m9/",
-        "Küche": "Stil deutsche Kantine",
-        "Rating": "4/5",
+        "Küche": "Deutsche Küche",
+        "Rating": "3/5",
         "Status": "Mo-Fr 11:30-14:00"
       }
     },
@@ -185,10 +185,10 @@
         "marker-symbol": "shop",
         "Adresse": "Erich-Zeigner-Allee 64",
         "name": "Grüne Pforte",
-        "description": "Lokale Produkte. Slowfood. In der ehemaligen Kammgarnspinnerei Stöhr & Co. AG",
+        "description": "LAden für Bio und regionale Produkte in der ehemaligen Kammgarnspinnerei Stöhr & Co. AG",
         "Stadtteil": "Plagwitz",
         "Links": "https://gruene-pforte.de/",
-        "Status": "Unregelmäßiges Mittagsangebot."
+        "Status": "Di, Mi, Do, Fr 09:00 - 18:00 Uhr"
       }
     },
     {
@@ -226,7 +226,7 @@
         "description": "Pförtnerhaus der ehemaligen Werkzeugmaschinenfabrik Ferdinand Kunad; Metallfabrik I. Eberspächer; später VEB Blechverformungswerk",
         "Stadtteil": "Plagwitz",
         "Links": "https://hamakom-leipzig.de/",
-        "Küche": "koscher",
+        "Küche": "koscheres Café",
         "Rating": "",
         "Status": "Di,Do 15:00-18:00, Sa 11:00-16:00"
       }
